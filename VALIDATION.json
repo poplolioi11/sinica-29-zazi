@@ -1,0 +1,17 @@
+{
+  "result": "pass",
+  "canvases": 32,
+  "numberedPages": 24,
+  "reviewedCanvases": 32,
+  "lines": 733,
+  "codePointsInTranscribedLines": 5786,
+  "unresolvedPlaceholders": 248,
+  "checkedHashes": [
+    "corrections.json",
+    "coverage.json",
+    "sinica-29.json",
+    "sinica-29.txt",
+    "uncertainties.json"
+  ],
+  "limitation": "Offline structure, operation integration and file integrity only; source/reader mapping is recorded workflow evidence, not network verification or proof of every reading."
+}

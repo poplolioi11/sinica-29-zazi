@@ -1,0 +1,3533 @@
+[
+  {
+    "canvasIndex": 3,
+    "label": "Upper flyleaf recto",
+    "regionId": "old-marks",
+    "lineId": "c03-old-marks-l03",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "V",
+      "II"
+    ],
+    "note": "前一墨筆符號有上下橫筆及兩條斜直筆，不能確認是單字母或羅馬數字。"
+  },
+  {
+    "canvasIndex": 3,
+    "label": "Upper flyleaf recto",
+    "regionId": "old-marks",
+    "lineId": "c03-old-marks-l03",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "a"
+    ],
+    "note": "h 後短筆草寫且與前字連接，不能定讀。"
+  },
+  {
+    "canvasIndex": 3,
+    "label": "Upper flyleaf recto",
+    "regionId": "pencil-shelfmarks",
+    "lineId": "c03-pencil-shelfmarks-l03",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "J",
+      "T"
+    ],
+    "note": "起首鉛筆字淡且首筆形狀不能定讀。"
+  },
+  {
+    "canvasIndex": 3,
+    "label": "Upper flyleaf recto",
+    "regionId": "pencil-shelfmarks",
+    "lineId": "c03-pencil-shelfmarks-l03",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "n",
+      "r"
+    ],
+    "note": "第三字母與前字連筆，不能定讀。"
+  },
+  {
+    "canvasIndex": 3,
+    "label": "Upper flyleaf recto",
+    "regionId": "name-seal",
+    "lineId": "c03-name-seal-l01",
+    "offset": 2,
+    "length": 1,
+    "kind": "damaged",
+    "candidates": [
+      "浦"
+    ],
+    "note": "下字左部見水旁式點筆，右部印色斷續，不能確認完整字形；只列候選。"
+  },
+  {
+    "canvasIndex": 3,
+    "label": "Upper flyleaf recto",
+    "regionId": "upper-corner-seal",
+    "lineId": "c03-upper-corner-seal-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "右側上部斜置紅印印色極淡，且靠近裝訂破損／貼補處；可見篆筆不足以確認字界與字數。"
+  },
+  {
+    "canvasIndex": 3,
+    "label": "Upper flyleaf recto",
+    "regionId": "lower-corner-seal",
+    "lineId": "c03-lower-corner-seal-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "右側下部斜置紅印淡且斷續；可見印文不足以確認字界與字數。"
+  },
+  {
+    "canvasIndex": 4,
+    "label": "Upper flyleaf verso",
+    "regionId": "pencil-page-marks",
+    "lineId": "c04-pencil-page-marks-l01",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "I",
+      "1"
+    ],
+    "note": "鉛筆有上下短橫與斜直筆，不能確認為羅馬字母 I 或數字 1。"
+  },
+  {
+    "canvasIndex": 4,
+    "label": "Upper flyleaf verso",
+    "regionId": "latin-description",
+    "lineId": "c04-latin-description-l01",
+    "offset": 37,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "æ",
+      "a",
+      "e"
+    ],
+    "note": "materi 後末一字形與收筆相連，不能確定是連字 æ 或單一母音；不按拉丁文文法補寫。"
+  },
+  {
+    "canvasIndex": 4,
+    "label": "Upper flyleaf verso",
+    "regionId": "bottom-corner-seal",
+    "lineId": "c04-bottom-corner-seal-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "左下斜置紅篆印，若干篆筆淡失，字界未能可靠確認；不猜測藏印文字。"
+  },
+  {
+    "canvasIndex": 5,
+    "label": "fol. 1r",
+    "regionId": "title",
+    "lineId": "c05-title-l01",
+    "offset": 12,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "柬"
+    ],
+    "note": "題名中此字墨色磨損，木形及內部橫畫不全"
+  },
+  {
+    "canvasIndex": 5,
+    "label": "fol. 1r",
+    "regionId": "upper-right",
+    "lineId": "c05-upper-right-l01",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "柬",
+      "東"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 5,
+    "label": "fol. 1r",
+    "regionId": "upper-right",
+    "lineId": "c05-upper-right-l15",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "卑",
+      "甲"
+    ],
+    "note": "首字方框及下部直畫可見，字形未能定讀"
+  },
+  {
+    "canvasIndex": 5,
+    "label": "fol. 1r",
+    "regionId": "lower",
+    "lineId": "c05-lower-l02",
+    "offset": 9,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "燮",
+      "爕"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 5,
+    "label": "fol. 1r",
+    "regionId": "lower",
+    "lineId": "c05-lower-l02",
+    "offset": 14,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "霓"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 5,
+    "label": "fol. 1r",
+    "regionId": "lower",
+    "lineId": "c05-lower-l03",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "霄",
+      "霽"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 5,
+    "label": "fol. 1r",
+    "regionId": "lower",
+    "lineId": "c05-lower-l09",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "盆",
+      "坌"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 6,
+    "label": "fol. 1v",
+    "regionId": "upper-left",
+    "lineId": "c06-upper-left-l02",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "姻",
+      "親"
+    ],
+    "note": "次字墨色重，左右部未能定讀"
+  },
+  {
+    "canvasIndex": 6,
+    "label": "fol. 1v",
+    "regionId": "upper-left",
+    "lineId": "c06-upper-left-l06",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "忝"
+    ],
+    "note": "首字天形上部可見，下部墨色黏合"
+  },
+  {
+    "canvasIndex": 6,
+    "label": "fol. 1v",
+    "regionId": "upper-left",
+    "lineId": "c06-upper-left-l10",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "跪"
+    ],
+    "note": "足旁似可見，但右部難定"
+  },
+  {
+    "canvasIndex": 6,
+    "label": "fol. 1v",
+    "regionId": "upper-left",
+    "lineId": "c06-upper-left-l12",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "婿"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 6,
+    "label": "fol. 1v",
+    "regionId": "lower",
+    "lineId": "c06-lower-l02",
+    "offset": 7,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "堜",
+      "塘",
+      "埭"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 6,
+    "label": "fol. 1v",
+    "regionId": "lower",
+    "lineId": "c06-lower-l03",
+    "offset": 11,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "域",
+      "坁"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 7,
+    "label": "fol. 2r",
+    "regionId": "upper-right",
+    "lineId": "c07-upper-right-l02",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "婿"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 7,
+    "label": "fol. 2r",
+    "regionId": "upper-right",
+    "lineId": "c07-upper-right-l07",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "厚",
+      "尾"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 7,
+    "label": "fol. 2r",
+    "regionId": "upper-right",
+    "lineId": "c07-upper-right-l07",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "書"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 7,
+    "label": "fol. 2r",
+    "regionId": "upper-right",
+    "lineId": "c07-upper-right-l09",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "甥"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 7,
+    "label": "fol. 2r",
+    "regionId": "upper-middle",
+    "lineId": "c07-upper-middle-l01",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "襟",
+      "表"
+    ],
+    "note": "偏旁及上部墨色連結，未能定讀"
+  },
+  {
+    "canvasIndex": 7,
+    "label": "fol. 2r",
+    "regionId": "upper-middle",
+    "lineId": "c07-upper-middle-l13",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "老",
+      "玄"
+    ],
+    "note": "首字上部橫畫及下部彎筆不完整"
+  },
+  {
+    "canvasIndex": 7,
+    "label": "fol. 2r",
+    "regionId": "upper-middle",
+    "lineId": "c07-upper-middle-l13",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "兄",
+      "身"
+    ],
+    "note": "中部多橫畫，底部與邊線交接"
+  },
+  {
+    "canvasIndex": 7,
+    "label": "fol. 2r",
+    "regionId": "lower",
+    "lineId": "c07-lower-l01",
+    "offset": 13,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "婆"
+    ],
+    "note": "該字受朱色圈點及磨損干擾"
+  },
+  {
+    "canvasIndex": 7,
+    "label": "fol. 2r",
+    "regionId": "lower",
+    "lineId": "c07-lower-l03",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "幕",
+      "墓"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 7,
+    "label": "fol. 2r",
+    "regionId": "lower",
+    "lineId": "c07-lower-l07",
+    "offset": 6,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "體",
+      "豸"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "upper-right",
+    "lineId": "c08-upper-right-l02",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "鄉",
+      "卿"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "upper-middle",
+    "lineId": "c08-upper-middle-l05",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "孤"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "upper-middle",
+    "lineId": "c08-upper-middle-l09",
+    "offset": 4,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "稽",
+      "拜"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "upper-middle",
+    "lineId": "c08-upper-middle-l09",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "顙"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "upper-left",
+    "lineId": "c08-upper-left-l04",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "再",
+      "頓"
+    ],
+    "note": "小字浓墨覆盖，未能定讀"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "upper-left",
+    "lineId": "c08-upper-left-l06",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "柬",
+      "東"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "lower",
+    "lineId": "c08-lower-l01",
+    "offset": 14,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "藻",
+      "篷"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "lower",
+    "lineId": "c08-lower-l02",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "筲"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "lower",
+    "lineId": "c08-lower-l02",
+    "offset": 8,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "聰",
+      "樅"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "lower",
+    "lineId": "c08-lower-l02",
+    "offset": 12,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "穿",
+      "堂"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "lower",
+    "lineId": "c08-lower-l03",
+    "offset": 9,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "兜"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "lower",
+    "lineId": "c08-lower-l04",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "櫪",
+      "欄"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "lower",
+    "lineId": "c08-lower-l04",
+    "offset": 14,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "溝",
+      "潭"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "lower",
+    "lineId": "c08-lower-l05",
+    "offset": 14,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "縠",
+      "轂"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "lower",
+    "lineId": "c08-lower-l06",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "軌"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "lower",
+    "lineId": "c08-lower-l06",
+    "offset": 8,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "硯"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "lower",
+    "lineId": "c08-lower-l06",
+    "offset": 9,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "軌"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "lower",
+    "lineId": "c08-lower-l06",
+    "offset": 12,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "鎌"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 8,
+    "label": "fol. 2v",
+    "regionId": "lower",
+    "lineId": "c08-lower-l07",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "布",
+      "扇"
+    ],
+    "note": "上部筆畫連接，中部方框不明"
+  },
+  {
+    "canvasIndex": 9,
+    "label": "fol. 3r",
+    "regionId": "upper",
+    "lineId": "c09-upper-l03",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "忻",
+      "允"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 9,
+    "label": "fol. 3r",
+    "regionId": "upper",
+    "lineId": "c09-upper-l07",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "然",
+      "欽"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 9,
+    "label": "fol. 3r",
+    "regionId": "upper",
+    "lineId": "c09-upper-l10",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "車",
+      "旆"
+    ],
+    "note": "方框、斜筆與小畫相互黏合"
+  },
+  {
+    "canvasIndex": 9,
+    "label": "fol. 3r",
+    "regionId": "upper",
+    "lineId": "c09-upper-l11",
+    "offset": 4,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "望"
+    ],
+    "note": "此字中部濃墨，顶部及底部難定"
+  },
+  {
+    "canvasIndex": 9,
+    "label": "fol. 3r",
+    "regionId": "upper",
+    "lineId": "c09-upper-l14",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "汪",
+      "往"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 9,
+    "label": "fol. 3r",
+    "regionId": "lower",
+    "lineId": "c09-lower-l01",
+    "offset": 10,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "詠",
+      "敬"
+    ],
+    "note": "複核原圖後仍不能定讀；保留方框。"
+  },
+  {
+    "canvasIndex": 9,
+    "label": "fol. 3r",
+    "regionId": "lower",
+    "lineId": "c09-lower-l04",
+    "offset": 12,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "沙",
+      "淨"
+    ],
+    "note": "氵旁及右部小畫不定"
+  },
+  {
+    "canvasIndex": 9,
+    "label": "fol. 3r",
+    "regionId": "lower",
+    "lineId": "c09-lower-l04",
+    "offset": 13,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "浴",
+      "盆"
+    ],
+    "note": "左部及底部墨色淡，不定讀"
+  },
+  {
+    "canvasIndex": 10,
+    "label": "fol. 3v",
+    "regionId": "upper",
+    "lineId": "c10-upper-l01",
+    "offset": 6,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "違",
+      "迓"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 10,
+    "label": "fol. 3v",
+    "regionId": "upper",
+    "lineId": "c10-upper-l02",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "至",
+      "臺"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 10,
+    "label": "fol. 3v",
+    "regionId": "upper",
+    "lineId": "c10-upper-l03",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "臺",
+      "翌"
+    ],
+    "note": "原刻字形／墨印未能確定讀法，保留方框"
+  },
+  {
+    "canvasIndex": 10,
+    "label": "fol. 3v",
+    "regionId": "upper",
+    "lineId": "c10-upper-l05",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "大",
+      "天"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 10,
+    "label": "fol. 3v",
+    "regionId": "upper",
+    "lineId": "c10-upper-l05",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "拂",
+      "拒"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 10,
+    "label": "fol. 3v",
+    "regionId": "lower",
+    "lineId": "c10-lower-l02",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "櫈",
+      "橙"
+    ],
+    "note": "原刻字形／墨印未能確定讀法，保留方框"
+  },
+  {
+    "canvasIndex": 10,
+    "label": "fol. 3v",
+    "regionId": "lower",
+    "lineId": "c10-lower-l02",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "榻"
+    ],
+    "note": "原刻字形／墨印未能確定讀法，保留方框"
+  },
+  {
+    "canvasIndex": 10,
+    "label": "fol. 3v",
+    "regionId": "lower",
+    "lineId": "c10-lower-l03",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "槌",
+      "襲"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 10,
+    "label": "fol. 3v",
+    "regionId": "lower",
+    "lineId": "c10-lower-l04",
+    "offset": 4,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "笊",
+      "簑"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 10,
+    "label": "fol. 3v",
+    "regionId": "lower",
+    "lineId": "c10-lower-l06",
+    "offset": 9,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "缽",
+      "釭"
+    ],
+    "note": "原刻字形／墨印未能確定讀法，保留方框"
+  },
+  {
+    "canvasIndex": 10,
+    "label": "fol. 3v",
+    "regionId": "lower",
+    "lineId": "c10-lower-l08",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "雪",
+      "酒"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 10,
+    "label": "fol. 3v",
+    "regionId": "lower",
+    "lineId": "c10-lower-l08",
+    "offset": 14,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "栱"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 10,
+    "label": "fol. 3v",
+    "regionId": "lower",
+    "lineId": "c10-lower-l10",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "硯"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 10,
+    "label": "fol. 3v",
+    "regionId": "seal-margin",
+    "lineId": "c10-seal-margin-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "可見墨跡但字數與字形未能定讀；字數不明標記不是原刻文字"
+  },
+  {
+    "canvasIndex": 11,
+    "label": "fol. 4r",
+    "regionId": "upper",
+    "lineId": "c11-upper-l04",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "甚",
+      "畢"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 11,
+    "label": "fol. 4r",
+    "regionId": "upper",
+    "lineId": "c11-upper-l04",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "幸",
+      "莊"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 11,
+    "label": "fol. 4r",
+    "regionId": "upper",
+    "lineId": "c11-upper-l11",
+    "offset": 4,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "顧"
+    ],
+    "note": "原刻字形／墨印未能確定讀法，保留方框"
+  },
+  {
+    "canvasIndex": 11,
+    "label": "fol. 4r",
+    "regionId": "lower",
+    "lineId": "c11-lower-l01",
+    "offset": 13,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "辨"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 11,
+    "label": "fol. 4r",
+    "regionId": "lower",
+    "lineId": "c11-lower-l01",
+    "offset": 14,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "紐"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 11,
+    "label": "fol. 4r",
+    "regionId": "lower",
+    "lineId": "c11-lower-l01",
+    "offset": 15,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 11,
+    "label": "fol. 4r",
+    "regionId": "lower",
+    "lineId": "c11-lower-l02",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "箸"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 11,
+    "label": "fol. 4r",
+    "regionId": "lower",
+    "lineId": "c11-lower-l02",
+    "offset": 9,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "其",
+      "基"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 11,
+    "label": "fol. 4r",
+    "regionId": "lower",
+    "lineId": "c11-lower-l02",
+    "offset": 13,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 11,
+    "label": "fol. 4r",
+    "regionId": "lower",
+    "lineId": "c11-lower-l02",
+    "offset": 14,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 11,
+    "label": "fol. 4r",
+    "regionId": "lower",
+    "lineId": "c11-lower-l09",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "蔓",
+      "莠"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 11,
+    "label": "fol. 4r",
+    "regionId": "lower",
+    "lineId": "c11-lower-l09",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "頽"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 12,
+    "label": "fol. 4v",
+    "regionId": "upper",
+    "lineId": "c12-upper-l05",
+    "offset": 4,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "賁",
+      "雇"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 12,
+    "label": "fol. 4v",
+    "regionId": "upper",
+    "lineId": "c12-upper-l12",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "叔"
+    ],
+    "note": "依影像未定讀，未按文義填補"
+  },
+  {
+    "canvasIndex": 12,
+    "label": "fol. 4v",
+    "regionId": "upper",
+    "lineId": "c12-upper-l12",
+    "offset": 4,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "崔"
+    ],
+    "note": "依影像未定讀，未按文義填補"
+  },
+  {
+    "canvasIndex": 12,
+    "label": "fol. 4v",
+    "regionId": "upper",
+    "lineId": "c12-upper-l14",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "晨",
+      "是"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 12,
+    "label": "fol. 4v",
+    "regionId": "lower",
+    "lineId": "c12-lower-l01",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "藥",
+      "蒜"
+    ],
+    "note": "依影像未定讀，未按文義填補"
+  },
+  {
+    "canvasIndex": 12,
+    "label": "fol. 4v",
+    "regionId": "lower",
+    "lineId": "c12-lower-l01",
+    "offset": 9,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "萃",
+      "莝"
+    ],
+    "note": "依影像未定讀，未按文義填補"
+  },
+  {
+    "canvasIndex": 12,
+    "label": "fol. 4v",
+    "regionId": "lower",
+    "lineId": "c12-lower-l01",
+    "offset": 11,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "摘",
+      "損"
+    ],
+    "note": "依影像未定讀，未按文義填補"
+  },
+  {
+    "canvasIndex": 12,
+    "label": "fol. 4v",
+    "regionId": "lower",
+    "lineId": "c12-lower-l03",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "漂",
+      "蘑"
+    ],
+    "note": "依影像未定讀，未按文義填補"
+  },
+  {
+    "canvasIndex": 12,
+    "label": "fol. 4v",
+    "regionId": "lower",
+    "lineId": "c12-lower-l03",
+    "offset": 12,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "生",
+      "豉"
+    ],
+    "note": "依影像未定讀，未按文義填補"
+  },
+  {
+    "canvasIndex": 12,
+    "label": "fol. 4v",
+    "regionId": "lower",
+    "lineId": "c12-lower-l09",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "換",
+      "橢"
+    ],
+    "note": "依影像未定讀，未按文義填補"
+  },
+  {
+    "canvasIndex": 12,
+    "label": "fol. 4v",
+    "regionId": "lower",
+    "lineId": "c12-lower-l09",
+    "offset": 12,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "桂",
+      "橙"
+    ],
+    "note": "依影像未定讀，未按文義填補"
+  },
+  {
+    "canvasIndex": 12,
+    "label": "fol. 4v",
+    "regionId": "lower",
+    "lineId": "c12-lower-l10",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "蜜"
+    ],
+    "note": "依影像未定讀，未按文義填補"
+  },
+  {
+    "canvasIndex": 12,
+    "label": "fol. 4v",
+    "regionId": "lower",
+    "lineId": "c12-lower-l10",
+    "offset": 11,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "瑤"
+    ],
+    "note": "依影像未定讀，未按文義填補"
+  },
+  {
+    "canvasIndex": 12,
+    "label": "fol. 4v",
+    "regionId": "seal-margin",
+    "lineId": "c12-seal-margin-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "可見墨跡但字數與字形未能定讀；字數不明標記不是原刻文字"
+  },
+  {
+    "canvasIndex": 13,
+    "label": "fol. 5r",
+    "regionId": "lower",
+    "lineId": "c13-lower-l01",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "檨",
+      "樹"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 13,
+    "label": "fol. 5r",
+    "regionId": "lower",
+    "lineId": "c13-lower-l01",
+    "offset": 14,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "禮"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 13,
+    "label": "fol. 5r",
+    "regionId": "lower",
+    "lineId": "c13-lower-l02",
+    "offset": 11,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "貝"
+    ],
+    "note": "依影像未定讀，未按文義填補"
+  },
+  {
+    "canvasIndex": 13,
+    "label": "fol. 5r",
+    "regionId": "lower",
+    "lineId": "c13-lower-l08",
+    "offset": 13,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "菊",
+      "荔"
+    ],
+    "note": "依影像未定讀，未按文義填補"
+  },
+  {
+    "canvasIndex": 13,
+    "label": "fol. 5r",
+    "regionId": "lower",
+    "lineId": "c13-lower-l08",
+    "offset": 15,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "螺",
+      "粟"
+    ],
+    "note": "依影像未定讀，未按文義填補"
+  },
+  {
+    "canvasIndex": 13,
+    "label": "fol. 5r",
+    "regionId": "seal-margin",
+    "lineId": "c13-seal-margin-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "可見墨跡但字數與字形未能定讀；字數不明標記不是原刻文字"
+  },
+  {
+    "canvasIndex": 14,
+    "label": "fol. 5v",
+    "regionId": "upper",
+    "lineId": "c14-upper-l01",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "俯"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 14,
+    "label": "fol. 5v",
+    "regionId": "upper",
+    "lineId": "c14-upper-l01",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "枝",
+      "材"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 14,
+    "label": "fol. 5v",
+    "regionId": "upper",
+    "lineId": "c14-upper-l07",
+    "offset": 3,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "可見墨跡但字數與字形未能定讀；字數不明標記不是原刻文字"
+  },
+  {
+    "canvasIndex": 14,
+    "label": "fol. 5v",
+    "regionId": "upper",
+    "lineId": "c14-upper-l12",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "寅"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 14,
+    "label": "fol. 5v",
+    "regionId": "lower",
+    "lineId": "c14-lower-l01",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "篠"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 14,
+    "label": "fol. 5v",
+    "regionId": "lower",
+    "lineId": "c14-lower-l01",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "勿",
+      "筇"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 14,
+    "label": "fol. 5v",
+    "regionId": "lower",
+    "lineId": "c14-lower-l01",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "笁"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 14,
+    "label": "fol. 5v",
+    "regionId": "lower",
+    "lineId": "c14-lower-l01",
+    "offset": 7,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "箸",
+      "笁"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 14,
+    "label": "fol. 5v",
+    "regionId": "lower",
+    "lineId": "c14-lower-l02",
+    "offset": 4,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "蔓"
+    ],
+    "note": "原刻蹭墨、淡損或筆畫未能定讀，未據文義補字"
+  },
+  {
+    "canvasIndex": 14,
+    "label": "fol. 5v",
+    "regionId": "lower",
+    "lineId": "c14-lower-l05",
+    "offset": 4,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "菖"
+    ],
+    "note": "原刻蹭墨、淡損或筆畫未能定讀，未據文義補字"
+  },
+  {
+    "canvasIndex": 14,
+    "label": "fol. 5v",
+    "regionId": "lower",
+    "lineId": "c14-lower-l05",
+    "offset": 10,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "芹"
+    ],
+    "note": "原刻蹭墨、淡損或筆畫未能定讀，未據文義補字"
+  },
+  {
+    "canvasIndex": 14,
+    "label": "fol. 5v",
+    "regionId": "lower",
+    "lineId": "c14-lower-l06",
+    "offset": 9,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "菖",
+      "葦"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 14,
+    "label": "fol. 5v",
+    "regionId": "lower",
+    "lineId": "c14-lower-l06",
+    "offset": 10,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "宣",
+      "萱"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 14,
+    "label": "fol. 5v",
+    "regionId": "lower",
+    "lineId": "c14-lower-l06",
+    "offset": 11,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "茅"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 14,
+    "label": "fol. 5v",
+    "regionId": "lower",
+    "lineId": "c14-lower-l08",
+    "offset": 11,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "右",
+      "舌"
+    ],
+    "note": "原刻蹭墨、淡損或筆畫未能定讀，未據文義補字"
+  },
+  {
+    "canvasIndex": 14,
+    "label": "fol. 5v",
+    "regionId": "lower",
+    "lineId": "c14-lower-l10",
+    "offset": 15,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "翳"
+    ],
+    "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+  },
+  {
+    "canvasIndex": 14,
+    "label": "fol. 5v",
+    "regionId": "seal-margin",
+    "lineId": "c14-seal-margin-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "可見墨跡但字數與字形未能定讀；字數不明標記不是原刻文字"
+  },
+  {
+    "canvasIndex": 15,
+    "label": "fol. 6r",
+    "regionId": "upper",
+    "lineId": "c15-upper-l03",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "疾",
+      "欽"
+    ],
+    "note": "原刻筆畫仍未能定讀；保留□，未據文義補字"
+  },
+  {
+    "canvasIndex": 15,
+    "label": "fol. 6r",
+    "regionId": "upper",
+    "lineId": "c15-upper-l12",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "驛"
+    ],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 15,
+    "label": "fol. 6r",
+    "regionId": "lower",
+    "lineId": "c15-lower-l01",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "脊",
+      "春"
+    ],
+    "note": "原刻筆畫仍未能定讀；保留□，未據文義補字"
+  },
+  {
+    "canvasIndex": 15,
+    "label": "fol. 6r",
+    "regionId": "lower",
+    "lineId": "c15-lower-l03",
+    "offset": 7,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "囟",
+      "思"
+    ],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 15,
+    "label": "fol. 6r",
+    "regionId": "lower",
+    "lineId": "c15-lower-l05",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "幞",
+      "樸"
+    ],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 15,
+    "label": "fol. 6r",
+    "regionId": "seal",
+    "lineId": "c15-seal-l01",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 16,
+    "label": "fol. 6v",
+    "regionId": "lower",
+    "lineId": "c16-lower-l01",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "忽",
+      "怱"
+    ],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 16,
+    "label": "fol. 6v",
+    "regionId": "lower",
+    "lineId": "c16-lower-l06",
+    "offset": 14,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "絜"
+    ],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 16,
+    "label": "fol. 6v",
+    "regionId": "seal",
+    "lineId": "c16-seal-l01",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 16,
+    "label": "fol. 6v",
+    "regionId": "seal",
+    "lineId": "c16-seal-l02",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 17,
+    "label": "fol. 7r",
+    "regionId": "upper",
+    "lineId": "c17-upper-l04",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "次",
+      "蒙"
+    ],
+    "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+  },
+  {
+    "canvasIndex": 17,
+    "label": "fol. 7r",
+    "regionId": "upper",
+    "lineId": "c17-upper-l10",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "願"
+    ],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 17,
+    "label": "fol. 7r",
+    "regionId": "upper",
+    "lineId": "c17-upper-l11",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "菲"
+    ],
+    "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+  },
+  {
+    "canvasIndex": 17,
+    "label": "fol. 7r",
+    "regionId": "upper",
+    "lineId": "c17-upper-l11",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "薄"
+    ],
+    "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+  },
+  {
+    "canvasIndex": 17,
+    "label": "fol. 7r",
+    "regionId": "lower",
+    "lineId": "c17-lower-l02",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "洋"
+    ],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 17,
+    "label": "fol. 7r",
+    "regionId": "lower",
+    "lineId": "c17-lower-l08",
+    "offset": 8,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "宇",
+      "字",
+      "朱"
+    ],
+    "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+  },
+  {
+    "canvasIndex": 17,
+    "label": "fol. 7r",
+    "regionId": "seal",
+    "lineId": "c17-seal-l02",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 18,
+    "label": "fol. 7v",
+    "regionId": "upper",
+    "lineId": "c18-upper-l14",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "于",
+      "厚"
+    ],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 18,
+    "label": "fol. 7v",
+    "regionId": "lower",
+    "lineId": "c18-lower-l05",
+    "offset": 15,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "鋣",
+      "舒"
+    ],
+    "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+  },
+  {
+    "canvasIndex": 18,
+    "label": "fol. 7v",
+    "regionId": "lower",
+    "lineId": "c18-lower-l06",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "良",
+      "旗"
+    ],
+    "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+  },
+  {
+    "canvasIndex": 18,
+    "label": "fol. 7v",
+    "regionId": "lower",
+    "lineId": "c18-lower-l08",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "呼",
+      "吁"
+    ],
+    "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+  },
+  {
+    "canvasIndex": 18,
+    "label": "fol. 7v",
+    "regionId": "seal",
+    "lineId": "c18-seal-l02",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 19,
+    "label": "fol. 8r",
+    "regionId": "upper",
+    "lineId": "c19-upper-l01",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "浮"
+    ],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 19,
+    "label": "fol. 8r",
+    "regionId": "upper",
+    "lineId": "c19-upper-l05",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "痛",
+      "病"
+    ],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 19,
+    "label": "fol. 8r",
+    "regionId": "upper",
+    "lineId": "c19-upper-l06",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "茶"
+    ],
+    "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+  },
+  {
+    "canvasIndex": 19,
+    "label": "fol. 8r",
+    "regionId": "upper",
+    "lineId": "c19-upper-l06",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "觴",
+      "腸",
+      "賜"
+    ],
+    "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+  },
+  {
+    "canvasIndex": 19,
+    "label": "fol. 8r",
+    "regionId": "upper",
+    "lineId": "c19-upper-l08",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "午",
+      "年"
+    ],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 19,
+    "label": "fol. 8r",
+    "regionId": "upper",
+    "lineId": "c19-upper-l13",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "柬",
+      "東"
+    ],
+    "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+  },
+  {
+    "canvasIndex": 19,
+    "label": "fol. 8r",
+    "regionId": "lower",
+    "lineId": "c19-lower-l03",
+    "offset": 13,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "勒",
+      "鞠"
+    ],
+    "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+  },
+  {
+    "canvasIndex": 19,
+    "label": "fol. 8r",
+    "regionId": "lower",
+    "lineId": "c19-lower-l04",
+    "offset": 10,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "箱",
+      "稍"
+    ],
+    "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+  },
+  {
+    "canvasIndex": 19,
+    "label": "fol. 8r",
+    "regionId": "lower",
+    "lineId": "c19-lower-l05",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "碌",
+      "磙"
+    ],
+    "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+  },
+  {
+    "canvasIndex": 19,
+    "label": "fol. 8r",
+    "regionId": "lower",
+    "lineId": "c19-lower-l05",
+    "offset": 6,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "簸"
+    ],
+    "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+  },
+  {
+    "canvasIndex": 19,
+    "label": "fol. 8r",
+    "regionId": "lower",
+    "lineId": "c19-lower-l06",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "攘",
+      "撩"
+    ],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 19,
+    "label": "fol. 8r",
+    "regionId": "lower",
+    "lineId": "c19-lower-l10",
+    "offset": 14,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "箬"
+    ],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 19,
+    "label": "fol. 8r",
+    "regionId": "lower",
+    "lineId": "c19-lower-l10",
+    "offset": 15,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "篷",
+      "蓬"
+    ],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 19,
+    "label": "fol. 8r",
+    "regionId": "seal",
+    "lineId": "c19-seal-l02",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "已檢查原圖及裁切，筆畫不足以定讀；保留待影像複核。"
+  },
+  {
+    "canvasIndex": 20,
+    "label": "fol. 8v",
+    "regionId": "upper",
+    "lineId": "c20-upper-l01",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 20,
+    "label": "fol. 8v",
+    "regionId": "upper",
+    "lineId": "c20-upper-l10",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 20,
+    "label": "fol. 8v",
+    "regionId": "upper",
+    "lineId": "c20-upper-l10",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 20,
+    "label": "fol. 8v",
+    "regionId": "lower",
+    "lineId": "c20-lower-l05",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "凰"
+    ],
+    "note": "独立重新核對原圖與裁切後仍不能定讀；不補字。"
+  },
+  {
+    "canvasIndex": 20,
+    "label": "fol. 8v",
+    "regionId": "lower",
+    "lineId": "c20-lower-l06",
+    "offset": 15,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "独立重新核對原圖與裁切後仍不能定讀；不補字。"
+  },
+  {
+    "canvasIndex": 20,
+    "label": "fol. 8v",
+    "regionId": "lower",
+    "lineId": "c20-lower-l07",
+    "offset": 4,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "鶺",
+      "鵁"
+    ],
+    "note": "独立重新核對原圖與裁切後仍不能定讀；不補字。"
+  },
+  {
+    "canvasIndex": 20,
+    "label": "fol. 8v",
+    "regionId": "lower",
+    "lineId": "c20-lower-l08",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "鵠",
+      "鴈"
+    ],
+    "note": "独立重新核對原圖與裁切後仍不能定讀；不補字。"
+  },
+  {
+    "canvasIndex": 20,
+    "label": "fol. 8v",
+    "regionId": "seal-2",
+    "lineId": "c20-seal2-l01",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 20,
+    "label": "fol. 8v",
+    "regionId": "seal-2",
+    "lineId": "c20-seal2-l01",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 20,
+    "label": "fol. 8v",
+    "regionId": "seal-2",
+    "lineId": "c20-seal2-l01",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "upper",
+    "lineId": "c21-upper-l06",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "宗",
+      "寵"
+    ],
+    "note": "重新看原圖後，此字上部與下部淡印；宗形較近，但細筆不足，保留未定讀。"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "lower",
+    "lineId": "c21-lower-l01",
+    "offset": 9,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "大片淡印；可見残墨不能確定字符數"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "lower",
+    "lineId": "c21-lower-l01",
+    "offset": 20,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "大片淡印；可見残墨不能確定字符數"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "lower",
+    "lineId": "c21-lower-l02",
+    "offset": 6,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "lower",
+    "lineId": "c21-lower-l02",
+    "offset": 9,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "lower",
+    "lineId": "c21-lower-l02",
+    "offset": 12,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "lower",
+    "lineId": "c21-lower-l03",
+    "offset": 13,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "lower",
+    "lineId": "c21-lower-l03",
+    "offset": 14,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "lower",
+    "lineId": "c21-lower-l05",
+    "offset": 4,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "lower",
+    "lineId": "c21-lower-l05",
+    "offset": 12,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "lower",
+    "lineId": "c21-lower-l05",
+    "offset": 13,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "lower",
+    "lineId": "c21-lower-l05",
+    "offset": 14,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "lower",
+    "lineId": "c21-lower-l06",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "lower",
+    "lineId": "c21-lower-l06",
+    "offset": 13,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "lower",
+    "lineId": "c21-lower-l06",
+    "offset": 14,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "lower",
+    "lineId": "c21-lower-l08",
+    "offset": 15,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "蠣"
+    ],
+    "note": "右部厂與下部交筆界限不清；第三位AI另看2400與高解析圖後也未能確定，蠣僅候選。"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "lower",
+    "lineId": "c21-lower-l10",
+    "offset": 6,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "seal-1",
+    "lineId": "c21-seal1-l01",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "浦",
+      "溥"
+    ],
+    "note": "中欄朱印首兩字紀、宗可辨；末字水旁右部細筆不足，未以人名推定。"
+  },
+  {
+    "canvasIndex": 21,
+    "label": "fol. 9r",
+    "regionId": "seal-2",
+    "lineId": "c21-seal2-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "下緣朱色長方印僅殘淡筆，不能確認三字或實際字數。"
+  },
+  {
+    "canvasIndex": 22,
+    "label": "fol. 9v",
+    "regionId": "upper",
+    "lineId": "c22-upper-l04",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "愛"
+    ],
+    "note": "獨立複核 3172×4000 原圖及局部裁圖後仍不足以定讀；保留單字未解。"
+  },
+  {
+    "canvasIndex": 22,
+    "label": "fol. 9v",
+    "regionId": "lower",
+    "lineId": "c22-lower-l10",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "獨立複核 3172×4000 原圖及局部裁圖後仍不足以定讀；保留單字未解。"
+  },
+  {
+    "canvasIndex": 22,
+    "label": "fol. 9v",
+    "regionId": "lower",
+    "lineId": "c22-lower-l10",
+    "offset": 6,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "仔"
+    ],
+    "note": "獨立複核 3172×4000 原圖及局部裁圖後仍不足以定讀；保留單字未解。"
+  },
+  {
+    "canvasIndex": 22,
+    "label": "fol. 9v",
+    "regionId": "lower",
+    "lineId": "c22-lower-l10",
+    "offset": 8,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "獨立複核 3172×4000 原圖及局部裁圖後仍不足以定讀；保留單字未解。"
+  },
+  {
+    "canvasIndex": 22,
+    "label": "fol. 9v",
+    "regionId": "lower",
+    "lineId": "c22-lower-l10",
+    "offset": 9,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "獨立複核 3172×4000 原圖及局部裁圖後仍不足以定讀；保留單字未解。"
+  },
+  {
+    "canvasIndex": 22,
+    "label": "fol. 9v",
+    "regionId": "lower",
+    "lineId": "c22-lower-l10",
+    "offset": 10,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "獨立複核 3172×4000 原圖及局部裁圖後仍不足以定讀；保留單字未解。"
+  },
+  {
+    "canvasIndex": 22,
+    "label": "fol. 9v",
+    "regionId": "seal-2",
+    "lineId": "c22-seal2-l01",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 22,
+    "label": "fol. 9v",
+    "regionId": "seal-2",
+    "lineId": "c22-seal2-l01",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 22,
+    "label": "fol. 9v",
+    "regionId": "seal-2",
+    "lineId": "c22-seal2-l01",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "upper",
+    "lineId": "c23-upper-l01",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "人"
+    ],
+    "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "upper",
+    "lineId": "c23-upper-l02",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "upper",
+    "lineId": "c23-upper-l02",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "典",
+      "曲"
+    ],
+    "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "upper",
+    "lineId": "c23-upper-l04",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "奴"
+    ],
+    "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "upper",
+    "lineId": "c23-upper-l05",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "upper",
+    "lineId": "c23-upper-l07",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "upper",
+    "lineId": "c23-upper-l07",
+    "offset": 6,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "羿"
+    ],
+    "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "upper",
+    "lineId": "c23-upper-l08",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "upper",
+    "lineId": "c23-upper-l10",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "乃"
+    ],
+    "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "upper",
+    "lineId": "c23-upper-l10",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "太",
+      "武"
+    ],
+    "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "upper",
+    "lineId": "c23-upper-l11",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "upper",
+    "lineId": "c23-upper-l11",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "仡"
+    ],
+    "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "upper",
+    "lineId": "c23-upper-l12",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "upper",
+    "lineId": "c23-upper-l13",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "upper",
+    "lineId": "c23-upper-l13",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "upper",
+    "lineId": "c23-upper-l14",
+    "offset": 6,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "lower",
+    "lineId": "c23-lower-l01",
+    "offset": 15,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "lower",
+    "lineId": "c23-lower-l08",
+    "offset": 11,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "螂",
+      "蝍"
+    ],
+    "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "seal-2",
+    "lineId": "c23-seal2-l01",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "seal-2",
+    "lineId": "c23-seal2-l01",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 23,
+    "label": "fol. 10r",
+    "regionId": "seal-2",
+    "lineId": "c23-seal2-l01",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "upper",
+    "lineId": "c24-upper-l01",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "仰"
+    ],
+    "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "upper",
+    "lineId": "c24-upper-l01",
+    "offset": 4,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "奮",
+      "畜"
+    ],
+    "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "upper",
+    "lineId": "c24-upper-l02",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "天"
+    ],
+    "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "upper",
+    "lineId": "c24-upper-l03",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "upper",
+    "lineId": "c24-upper-l03",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "upper",
+    "lineId": "c24-upper-l12",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "螢",
+      "董"
+    ],
+    "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "lower",
+    "lineId": "c24-lower-l03",
+    "offset": 8,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "雍",
+      "壅"
+    ],
+    "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "lower",
+    "lineId": "c24-lower-l05",
+    "offset": 6,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "硯",
+      "坪"
+    ],
+    "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "lower",
+    "lineId": "c24-lower-l05",
+    "offset": 14,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "擊",
+      "墼"
+    ],
+    "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "lower",
+    "lineId": "c24-lower-l05",
+    "offset": 15,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "籠",
+      "禮"
+    ],
+    "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "seal-2",
+    "lineId": "c24-seal2-l01",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "浦"
+    ],
+    "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "seal-3",
+    "lineId": "c24-seal3-l01",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "seal-3",
+    "lineId": "c24-seal3-l01",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "seal-3",
+    "lineId": "c24-seal3-l01",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [],
+    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+  },
+  {
+    "canvasIndex": 25,
+    "label": "fol. 11r",
+    "regionId": "upper",
+    "lineId": "c25-upper-l01",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "入",
+      "八"
+    ],
+    "note": "初次轉錄不能可靠定讀；候選不填入正文。"
+  },
+  {
+    "canvasIndex": 25,
+    "label": "fol. 11r",
+    "regionId": "upper",
+    "lineId": "c25-upper-l01",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "言"
+    ],
+    "note": "初次轉錄不能可靠定讀；候選不填入正文。"
+  },
+  {
+    "canvasIndex": 25,
+    "label": "fol. 11r",
+    "regionId": "upper",
+    "lineId": "c25-upper-l01",
+    "offset": 4,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "末段濃墨擦損，字數不可知。"
+  },
+  {
+    "canvasIndex": 25,
+    "label": "fol. 11r",
+    "regionId": "upper",
+    "lineId": "c25-upper-l02",
+    "offset": 4,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "射",
+      "肘"
+    ],
+    "note": "独立原图复核仍不能可靠定读"
+  },
+  {
+    "canvasIndex": 25,
+    "label": "fol. 11r",
+    "regionId": "upper",
+    "lineId": "c25-upper-l09",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "帥",
+      "師",
+      "柯"
+    ],
+    "note": "独立原图复核仍不能可靠定读"
+  },
+  {
+    "canvasIndex": 25,
+    "label": "fol. 11r",
+    "regionId": "lower",
+    "lineId": "c25-lower-l05",
+    "offset": 4,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "稻",
+      "粕"
+    ],
+    "note": "独立原图复核仍不能可靠定读"
+  },
+  {
+    "canvasIndex": 25,
+    "label": "fol. 11r",
+    "regionId": "lower",
+    "lineId": "c25-lower-l05",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "秫"
+    ],
+    "note": "独立原图复核仍不能可靠定读"
+  },
+  {
+    "canvasIndex": 25,
+    "label": "fol. 11r",
+    "regionId": "lower",
+    "lineId": "c25-lower-l05",
+    "offset": 6,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "蕎",
+      "芥",
+      "茭"
+    ],
+    "note": "独立原图复核仍不能可靠定读"
+  },
+  {
+    "canvasIndex": 25,
+    "label": "fol. 11r",
+    "regionId": "lower",
+    "lineId": "c25-lower-l05",
+    "offset": 7,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "禾",
+      "粱",
+      "梁"
+    ],
+    "note": "独立原图复核仍不能可靠定读"
+  },
+  {
+    "canvasIndex": 25,
+    "label": "fol. 11r",
+    "regionId": "lower",
+    "lineId": "c25-lower-l07",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "匱",
+      "隨"
+    ],
+    "note": "独立原图复核仍不能可靠定读"
+  },
+  {
+    "canvasIndex": 25,
+    "label": "fol. 11r",
+    "regionId": "visible-seal-1",
+    "lineId": "c25-visible-seal1-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "淡朱印或残缺印，印文字界与字数不能可靠确定；此标记覆盖整印"
+  },
+  {
+    "canvasIndex": 25,
+    "label": "fol. 11r",
+    "regionId": "visible-seal-2",
+    "lineId": "c25-visible-seal2-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "淡朱印或残缺印，印文字界与字数不能可靠确定；此标记覆盖整印"
+  },
+  {
+    "canvasIndex": 26,
+    "label": "fol. 11v",
+    "regionId": "upper",
+    "lineId": "c26-upper-l12",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "繡"
+    ],
+    "note": "独立原图复核仍不能可靠定读"
+  },
+  {
+    "canvasIndex": 26,
+    "label": "fol. 11v",
+    "regionId": "upper",
+    "lineId": "c26-upper-l13",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "照",
+      "熙"
+    ],
+    "note": "初次轉錄未能由原圖字形定讀；保留方框供獨立影像複核。"
+  },
+  {
+    "canvasIndex": 26,
+    "label": "fol. 11v",
+    "regionId": "lower",
+    "lineId": "c26-lower-l02",
+    "offset": 9,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "勒",
+      "靭"
+    ],
+    "note": "独立原图复核仍不能可靠定读"
+  },
+  {
+    "canvasIndex": 26,
+    "label": "fol. 11v",
+    "regionId": "lower",
+    "lineId": "c26-lower-l09",
+    "offset": 6,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "骨"
+    ],
+    "note": "独立原图复核仍不能可靠定读"
+  },
+  {
+    "canvasIndex": 26,
+    "label": "fol. 11v",
+    "regionId": "lower",
+    "lineId": "c26-lower-l10",
+    "offset": 6,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "八"
+    ],
+    "note": "初次轉錄未能由原圖字形定讀；保留方框供獨立影像複核。"
+  },
+  {
+    "canvasIndex": 26,
+    "label": "fol. 11v",
+    "regionId": "lower",
+    "lineId": "c26-lower-l10",
+    "offset": 9,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "墨層擦損或遮蔽，字數無法可靠判定。"
+  },
+  {
+    "canvasIndex": 26,
+    "label": "fol. 11v",
+    "regionId": "visible-seal-1",
+    "lineId": "c26-visible-seal1-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "淡朱印或残缺印，印文字界与字数不能可靠确定；此标记覆盖整印"
+  },
+  {
+    "canvasIndex": 26,
+    "label": "fol. 11v",
+    "regionId": "visible-seal-2",
+    "lineId": "c26-visible-seal2-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "淡朱印或残缺印，印文字界与字数不能可靠确定；此标记覆盖整印"
+  },
+  {
+    "canvasIndex": 27,
+    "label": "fol. 12r",
+    "regionId": "upper",
+    "lineId": "c27-upper-l10",
+    "offset": 4,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "貞",
+      "鶯"
+    ],
+    "note": "独立原图复核仍未能定读"
+  },
+  {
+    "canvasIndex": 27,
+    "label": "fol. 12r",
+    "regionId": "upper",
+    "lineId": "c27-upper-l10",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "夏",
+      "更"
+    ],
+    "note": "独立原图复核仍未能定读"
+  },
+  {
+    "canvasIndex": 27,
+    "label": "fol. 12r",
+    "regionId": "lower",
+    "lineId": "c27-lower-l02",
+    "offset": 10,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "椶",
+      "棕"
+    ],
+    "note": "独立原图复核仍未能定读"
+  },
+  {
+    "canvasIndex": 27,
+    "label": "fol. 12r",
+    "regionId": "lower",
+    "lineId": "c27-lower-l03",
+    "offset": 13,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "械",
+      "機",
+      "絨"
+    ],
+    "note": "独立原图复核仍未能定读"
+  },
+  {
+    "canvasIndex": 27,
+    "label": "fol. 12r",
+    "regionId": "lower",
+    "lineId": "c27-lower-l08",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "屏",
+      "牒"
+    ],
+    "note": "初次轉錄未能由原圖字形定讀；保留方框供獨立影像複核。"
+  },
+  {
+    "canvasIndex": 27,
+    "label": "fol. 12r",
+    "regionId": "visible-seal-1",
+    "lineId": "c27-visible-seal1-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "淡朱印或残缺印，印文字界与字数不能可靠确定；此标记覆盖整印"
+  },
+  {
+    "canvasIndex": 27,
+    "label": "fol. 12r",
+    "regionId": "visible-seal-2",
+    "lineId": "c27-visible-seal2-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "淡朱印或残缺印，印文字界与字数不能可靠确定；此标记覆盖整印"
+  },
+  {
+    "canvasIndex": 28,
+    "label": "fol. 12v",
+    "regionId": "upper",
+    "lineId": "c28-upper-l06",
+    "offset": 4,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "慶"
+    ],
+    "note": "初次轉錄未能由原圖字形定讀；保留方框供獨立影像複核。"
+  },
+  {
+    "canvasIndex": 28,
+    "label": "fol. 12v",
+    "regionId": "lower",
+    "lineId": "c28-lower-l08",
+    "offset": 7,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "覰",
+      "覷"
+    ],
+    "note": "独立原图复核仍未能定读"
+  },
+  {
+    "canvasIndex": 28,
+    "label": "fol. 12v",
+    "regionId": "visible-seal-1",
+    "lineId": "c28-visible-seal1-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "淡朱印或残缺印，印文字界与字数不能可靠确定；此标记覆盖整印"
+  },
+  {
+    "canvasIndex": 28,
+    "label": "fol. 12v",
+    "regionId": "visible-seal-2",
+    "lineId": "c28-visible-seal2-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "淡朱印或残缺印，印文字界与字数不能可靠确定；此标记覆盖整印"
+  },
+  {
+    "canvasIndex": 28,
+    "label": "fol. 12v",
+    "regionId": "visible-seal-3",
+    "lineId": "c28-visible-seal3-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "淡朱印或残缺印，印文字界与字数不能可靠确定；此标记覆盖整印"
+  },
+  {
+    "canvasIndex": 29,
+    "label": "Lower flyleaf recto",
+    "regionId": "central-name-seal",
+    "lineId": "c29-central-name-seal-l01",
+    "offset": 2,
+    "length": 1,
+    "kind": "damaged",
+    "candidates": [
+      "浦"
+    ],
+    "note": "下字印色大片淡失，左側尚見水旁式點筆，右部殘筆不足定讀。"
+  },
+  {
+    "canvasIndex": 29,
+    "label": "Lower flyleaf recto",
+    "regionId": "upper-gutter-seal",
+    "lineId": "c29-upper-gutter-seal-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "上部近書口紅印，主面所見為部分印跡；右側續印落在鄰頁，不據其內容補本面字；字界及完整字數未定。"
+  },
+  {
+    "canvasIndex": 29,
+    "label": "Lower flyleaf recto",
+    "regionId": "lower-gutter-seal",
+    "lineId": "c29-lower-gutter-seal-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "下部近書口紅印，主面所見為部分印跡；外側靠裝訂邊界，印色淡缺，未確認完整字數。"
+  },
+  {
+    "canvasIndex": 30,
+    "label": "Lower flyleaf verso",
+    "regionId": "donation-note",
+    "lineId": "c30-donation-note-l01",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "o",
+      "ũ",
+      "ū"
+    ],
+    "note": "Don 後末字及其上方長曲筆連寫，不能確認本字或省略記號；不展開縮寫。"
+  },
+  {
+    "canvasIndex": 30,
+    "label": "Lower flyleaf verso",
+    "regionId": "donation-note",
+    "lineId": "c30-donation-note-l01",
+    "offset": 15,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "l",
+      "ll"
+    ],
+    "note": "Miche 與 borne 間的高筆連寫，不能確定是一個 l 或兩個 l；未照來源書目的人名補寫。"
+  },
+  {
+    "canvasIndex": 30,
+    "label": "Lower flyleaf verso",
+    "regionId": "pencil-number",
+    "lineId": "c30-pencil-number-l01",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "1",
+      "("
+    ],
+    "note": "37 左側有較高的淡曲直筆，不能確認是數字 1、括號或獨立記號。"
+  },
+  {
+    "canvasIndex": 30,
+    "label": "Lower flyleaf verso",
+    "regionId": "upper-name-seal",
+    "lineId": "c30-upper-name-seal-l01",
+    "offset": 0,
+    "length": 1,
+    "kind": "damaged",
+    "candidates": [
+      "紀"
+    ],
+    "note": "首字印色極淡，辨識僅依少量殘筆，須獨立複核。"
+  },
+  {
+    "canvasIndex": 30,
+    "label": "Lower flyleaf verso",
+    "regionId": "upper-name-seal",
+    "lineId": "c30-upper-name-seal-l01",
+    "offset": 2,
+    "length": 1,
+    "kind": "damaged",
+    "candidates": [
+      "浦"
+    ],
+    "note": "末字篆筆淡失，右部不能定讀。"
+  },
+  {
+    "canvasIndex": 30,
+    "label": "Lower flyleaf verso",
+    "regionId": "lower-ink-fragments",
+    "lineId": "c30-lower-ink-fragments-l01",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "右側墨團有框形與下方橫筆，但殘墨不足以確認是否字及字數；此標記只保留片段所在位置。"
+  },
+  {
+    "canvasIndex": 30,
+    "label": "Lower flyleaf verso",
+    "regionId": "lower-ink-fragments",
+    "lineId": "c30-lower-ink-fragments-l02",
+    "offset": 0,
+    "length": 8,
+    "kind": "damaged",
+    "candidates": [],
+    "note": "左側有數個斷續深色筆痕，字界與字數不明，也可能是黏紙移墨；未當成確字。"
+  }
+]

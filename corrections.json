@@ -1,0 +1,3942 @@
+[
+  {
+    "canvasIndex": 4,
+    "reviewer": "Codex AI / root",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:root",
+    "reviewerTaskId": "/root",
+    "lineId": "c04-bilingual-gloss-l01",
+    "before": "雜 ca Ex omni aliquid",
+    "after": "雜 ca Ex omni aliquid",
+    "afterUncertainties": [],
+    "afterNote": "中文雜字左列；ca 下方有斜短筆，性質未定，未擴作音標或標點。 原圖轉寫字母下有短斜筆；此記錄保留可讀字母，未把不確定的附加筆畫正字化為音標。",
+    "reason": "独立檢查附加短斜筆，補記其視覺存在；文字未改。"
+  },
+  {
+    "canvasIndex": 4,
+    "reviewer": "Codex AI / root",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:root",
+    "reviewerTaskId": "/root",
+    "lineId": "c04-bilingual-gloss-l02",
+    "before": "字 ciu characterum.",
+    "after": "字 ciu characterum.",
+    "afterUncertainties": [],
+    "afterNote": "中文字字左列；ciu 下方有斜短筆，未擴作音標；拉丁文大小寫與末尾點依原圖。 原圖轉寫字母下有短斜筆；此記錄保留可讀字母，未把不確定的附加筆畫正字化為音標。",
+    "reason": "独立檢查附加短斜筆，補記其視覺存在；文字未改。"
+  },
+  {
+    "canvasIndex": 5,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c05-upper-right-l01",
+    "before": "帖東活套",
+    "after": "帖□活套",
+    "afterUncertainties": [
+      {
+        "offset": 1,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "柬",
+          "東"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "原圖第二字的木內部筆畫不足以可靠區分柬、東；撤回東的確讀。"
+  },
+  {
+    "canvasIndex": 5,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c05-upper-left-l05",
+    "before": "姪□",
+    "after": "姪孫",
+    "afterUncertainties": [],
+    "reason": "局部裁切可見孫的子旁與系部；由方框改為孫。"
+  },
+  {
+    "canvasIndex": 5,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c05-upper-left-l07",
+    "before": "平安書信封",
+    "after": "平安書信緘",
+    "afterUncertainties": [],
+    "reason": "末字左糸、右咸，並非封；按實際字形更正。"
+  },
+  {
+    "canvasIndex": 5,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c05-lower-l02",
+    "before": "天地日月星辰水露霄□霜雪雲霞霧露",
+    "after": "天地日月星辰氷露霄□霜雪雲霞□霧",
+    "afterUncertainties": [
+      {
+        "offset": 9,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "燮",
+          "爕"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      },
+      {
+        "offset": 14,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "霓"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "逐字核對：水左上另有點畫作氷；末字可見務部作霧；倒數第二字未定，撤回霧讀。"
+  },
+  {
+    "canvasIndex": 5,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c05-lower-l03",
+    "before": "煙霧霽霞河漢虹霓陰陽造化宇宙虛空",
+    "after": "煙霜□霞河漢虹霓陰陽造化宇宙虛空",
+    "afterUncertainties": [
+      {
+        "offset": 2,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "霄",
+          "霽"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "第二字雨下相部為霜；第三字雨下部件不夠清楚，保留方框。"
+  },
+  {
+    "canvasIndex": 5,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c05-lower-l08",
+    "before": "畦畤郊野街市鄉村衢衕蹊路廊宇斗門",
+    "after": "畦疇郊野街市鄉村衢衕蹊路府宅斗門",
+    "afterUncertainties": [],
+    "reason": "第二字田旁壽部為疇；末組前兩字有广付及宀乇，讀府宅，並非廊宇。"
+  },
+  {
+    "canvasIndex": 5,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c05-lower-l09",
+    "before": "橋堰坑盆涵瀨溝濠隴畝原隰陂□塘潭",
+    "after": "橋堰坑□涵瀨溝濠隴畝原隰陂漆塘灌",
+    "afterUncertainties": [
+      {
+        "offset": 3,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "盆",
+          "坌"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "第四字下部土或皿未定；漆可見木、人、氺；末字氵雚為灌。"
+  },
+  {
+    "canvasIndex": 6,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c06-upper-right-l09",
+    "before": "頓拜上禀",
+    "after": "頓拜上狀",
+    "afterUncertainties": [],
+    "reason": "末字爿旁犬部，按原圖更正為狀。"
+  },
+  {
+    "canvasIndex": 6,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c06-upper-left-l11",
+    "before": "□沐頓拜",
+    "after": "薰沐頓拜",
+    "afterUncertainties": [],
+    "reason": "首字艹下重部及灬在局部裁切可見，定讀薰。"
+  },
+  {
+    "canvasIndex": 6,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c06-upper-left-l12",
+    "before": "□□",
+    "after": "□甥",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "婿"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "次字可見生旁男部，定讀甥；首字仍未定。"
+  },
+  {
+    "canvasIndex": 6,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c06-lower-l01",
+    "before": "泥坂石灘沙灣水垣園圳田畦阡陌畎澮",
+    "after": "泥坂石灘沙灣木垣園圳田畦阡陌畎澮",
+    "afterUncertainties": [],
+    "reason": "水原讀有誤，原圖該字為木；保留上下欄原位。"
+  },
+  {
+    "canvasIndex": 6,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c06-lower-l02",
+    "before": "渭浦□墟港澳湖□池井□籬津渡關隘",
+    "after": "渭浦垌墟港澳湖□池井藩籬津渡關隘",
+    "afterUncertainties": [
+      {
+        "offset": 7,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "堜",
+          "塘",
+          "埭"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "垌可見土同；藩可見艹、氵、番；湖後字仍未定。"
+  },
+  {
+    "canvasIndex": 6,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c06-lower-l03",
+    "before": "汝漢江淮溪潭河海嶠嶽于坁蕃胡邊塞",
+    "after": "汝漢江淮溪潭河海嶠嶽于□蕃胡邊塞",
+    "afterUncertainties": [
+      {
+        "offset": 11,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "域",
+          "坁"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "坁原確讀不足，土旁右部更近或，但仍未定。"
+  },
+  {
+    "canvasIndex": 6,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c06-lower-l08",
+    "before": "公媽爺娘外祖父母姑姨姊妹丈人岳母",
+    "after": "公媽爺娘外祖父母姑嫂姊妹丈人岳母",
+    "afterUncertainties": [],
+    "reason": "原讀姨的字右部見叟，改為嫂。"
+  },
+  {
+    "canvasIndex": 7,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c07-upper-right-l02",
+    "before": "□□",
+    "after": "眷□",
+    "afterUncertainties": [
+      {
+        "offset": 1,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "婿"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "首字眷的目部可見；下部稱謂分支小字仍未定讀。"
+  },
+  {
+    "canvasIndex": 7,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c07-upper-right-l04",
+    "before": "□舅用",
+    "after": "出舅用",
+    "afterUncertainties": [],
+    "reason": "首字兩層凵中豎可見，按原刻字形讀出。"
+  },
+  {
+    "canvasIndex": 7,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c07-upper-right-l07",
+    "before": "頓首厚書",
+    "after": "頓首□□",
+    "afterUncertainties": [
+      {
+        "offset": 2,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "厚",
+          "尾"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      },
+      {
+        "offset": 3,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "書"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "第三字及小字末字筆畫受磨損與底框遮擋，撤回厚書確讀。"
+  },
+  {
+    "canvasIndex": 7,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c07-upper-middle-l08",
+    "before": "賢甥",
+    "after": "賢婿",
+    "afterUncertainties": [],
+    "reason": "第二字女旁與胥部可見，並非甥。"
+  },
+  {
+    "canvasIndex": 7,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c07-upper-left-l06",
+    "before": "生某○頓首□拜",
+    "after": "生某○頓首百拜",
+    "afterUncertainties": [],
+    "reason": "未解字上方一橫、下白部可見，定讀百。"
+  },
+  {
+    "canvasIndex": 7,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c07-lower-l03",
+    "before": "頭甲幹幕客佃人孀婆巫覡牙行閹人",
+    "after": "項甲幹□客佃人孀婆巫覡牙行閹人",
+    "afterUncertainties": [
+      {
+        "offset": 3,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "幕",
+          "墓"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "首字左工右頁為項；幕／墓字下部不明，保留方框。"
+  },
+  {
+    "canvasIndex": 7,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c07-lower-l04",
+    "before": "你咱儂俺□□徃人",
+    "after": "你咱儂俺衙街徃人",
+    "afterUncertainties": [],
+    "reason": "兩方框可見行旁分別配吾、圭，定讀衙街。"
+  },
+  {
+    "canvasIndex": 7,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c07-lower-l07",
+    "before": "龍樓麟閣□府□室杏壇蓮社杜□椒房",
+    "after": "龍樓麟閣烏府□堂杏壇蓮社桂閣椒房",
+    "afterUncertainties": [
+      {
+        "offset": 6,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "體",
+          "豸"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "烏可見鳥體無睛點；室原讀上部不符，讀堂；末组木圭及門各讀桂閣。烏府後首字仍未定。"
+  },
+  {
+    "canvasIndex": 7,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c07-lower-l09",
+    "before": "大廳廂屋廚竈臥房官衙公廨雪洞雲堂",
+    "after": "天廳廂屋廚竈臥房官衙公廨雪洞雲堂",
+    "afterUncertainties": [],
+    "reason": "首字有兩條獨立橫畫，不將上橫當版框；原刻讀天。"
+  },
+  {
+    "canvasIndex": 7,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c07-lower-l10",
+    "before": "倒軒過水正寢裏堂涼亭暖閣下□上廊",
+    "after": "倒軒過水正寢裏堂涼亭暖閣下步上廊",
+    "afterUncertainties": [],
+    "reason": "步可見止部下方少形，定讀步。"
+  },
+  {
+    "canvasIndex": 8,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c08-upper-right-l02",
+    "before": "卿侍",
+    "after": "□侍",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "鄉",
+          "卿"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "首字鄉／卿內部細畫仍未能分清，撤回確讀。"
+  },
+  {
+    "canvasIndex": 8,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c08-upper-middle-l05",
+    "before": "□□",
+    "after": "□哀",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "孤"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "下字亠口衣構形可見，定讀哀；上字仍不清。"
+  },
+  {
+    "canvasIndex": 8,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c08-upper-middle-l07",
+    "before": "□",
+    "after": "哀",
+    "afterUncertainties": [],
+    "reason": "亠、口及衣下部均可見，定讀哀。"
+  },
+  {
+    "canvasIndex": 8,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c08-upper-middle-l09",
+    "before": "子某泣血稽顙",
+    "after": "子某泣血□□",
+    "afterUncertainties": [
+      {
+        "offset": 4,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "稽",
+          "拜"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      },
+      {
+        "offset": 5,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "顙"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "末端小字彼此相鄰且受版框影響；撤回稽顙確讀，保留定位。"
+  },
+  {
+    "canvasIndex": 8,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c08-upper-middle-l10",
+    "before": "泣血百拜稽",
+    "after": "泣血百拜叩",
+    "afterUncertainties": [],
+    "reason": "末端口及卩部可見，改讀叩；是否與鄰細字組合另在版式註記。"
+  },
+  {
+    "canvasIndex": 8,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c08-upper-left-l06",
+    "before": "請召小東活套",
+    "after": "請召小□活套",
+    "afterUncertainties": [
+      {
+        "offset": 3,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "柬",
+          "東"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "與題名同類字形，柬／東的框內筆畫不足以定读，撤回東確讀。"
+  },
+  {
+    "canvasIndex": 8,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c08-lower-l01",
+    "before": "四衝楓架天井明堂桁梁泥壁明樓篷蓬",
+    "after": "四衝楓架天井明堂桁梁泥壁明樓□蓬",
+    "afterUncertainties": [
+      {
+        "offset": 14,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "藻",
+          "篷"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "倒數第二字的艹或竹頭不明，撤回篷確讀。"
+  },
+  {
+    "canvasIndex": 8,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c08-lower-l02",
+    "before": "柱梁□栱柯□椽桁□楣企正堂塲百坊",
+    "after": "柱梁料棋柯□椽桁□棕企正□塲石坊",
+    "afterUncertainties": [
+      {
+        "offset": 5,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "筲"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      },
+      {
+        "offset": 8,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "聰",
+          "樅"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      },
+      {
+        "offset": 12,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "穿",
+          "堂"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "第三字米斗為料、第四字木其為棋；棕可見宗部；石非百。仍保留未定字。"
+  },
+  {
+    "canvasIndex": 8,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c08-lower-l03",
+    "before": "田庄別墅倉廒廊房龍□几□間厠所浴堂",
+    "after": "田庄別墅倉廒廊房龍□礎間厠所浴堂",
+    "afterUncertainties": [
+      {
+        "offset": 9,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "兜"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "几與後方方框實為一個石旁楚部字，定讀礎；不保留誤拆字。"
+  },
+  {
+    "canvasIndex": 8,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c08-lower-l04",
+    "before": "羊牢猪圈馬□牛欄月臺木道門屋潭坑",
+    "after": "羊牢猪圈馬□牛欄月臺木道門屋□坑",
+    "afterUncertainties": [
+      {
+        "offset": 5,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "櫪",
+          "欄"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      },
+      {
+        "offset": 14,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "溝",
+          "潭"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "馬後與末組第一字仍未定；潭的確讀不足，撤回。"
+  },
+  {
+    "canvasIndex": 8,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c08-lower-l05",
+    "before": "廻墻階級亮隔欄干遮陽□罩□觀□□軒",
+    "after": "廻墻階級亮隔欄干遮陽罩翼龍光□軌",
+    "afterUncertainties": [
+      {
+        "offset": 14,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "縠",
+          "轂"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "罩的罒卓、翼的羽田共可見；末字車九為軌；初稿誤多拆一個字，按原直欄四組各四字更正。"
+  },
+  {
+    "canvasIndex": 8,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c08-lower-l06",
+    "before": "万□閣八磚盤石砝□□土墼□□鈎門樞",
+    "after": "万□閣八磚盤石砝□□土墼□鈎門樞",
+    "afterUncertainties": [
+      {
+        "offset": 1,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "軌"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      },
+      {
+        "offset": 8,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "硯"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      },
+      {
+        "offset": 9,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "軌"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      },
+      {
+        "offset": 12,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "鎌"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "末組首字為一個金旁複體，初稿误拆兩字；合為一個未解字，仍不定讀。"
+  },
+  {
+    "canvasIndex": 8,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c08-lower-l09",
+    "before": "三臺五庫深院幽閑較場所寨□□城□",
+    "after": "三臺五庫深院幽閑較場所寨箭垛城牆",
+    "afterUncertainties": [],
+    "reason": "末組竹前、土朵與爿嗇部件均可見，定讀箭垛城牆。"
+  },
+  {
+    "canvasIndex": 9,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c09-upper-l01",
+    "before": "即日聊陳疎酌奉",
+    "after": "即日聊陳疏酌奉",
+    "afterUncertainties": [],
+    "reason": "陳後字右部見㐬形，初讀疏；並非束部的疎。"
+  },
+  {
+    "canvasIndex": 9,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c09-upper-l02",
+    "before": "夜文旆過舍○伏",
+    "after": "夜文沛過舍○伏",
+    "afterUncertainties": [],
+    "reason": "原刻第三字左三點、右巿，依字形讀沛；不按帖式語義改成旆。"
+  },
+  {
+    "canvasIndex": 9,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c09-upper-l03",
+    "before": "異惠允賜降勿卻",
+    "after": "異惠□賜降勿卻",
+    "afterUncertainties": [
+      {
+        "offset": 2,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "忻",
+          "允"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "第三字可見偏旁細畫，但允確讀不足，保留方框。"
+  },
+  {
+    "canvasIndex": 9,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c09-upper-l07",
+    "before": "既□欽光降勿外",
+    "after": "既慨□光降勿外",
+    "afterUncertainties": [
+      {
+        "offset": 2,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "然",
+          "欽"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "第二字忄既可見，定讀慨；第三字底部與旁部未定，撤回欽確讀。"
+  },
+  {
+    "canvasIndex": 9,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c09-upper-l14",
+    "before": "為文淡往觀狀",
+    "after": "為文淡□觀伏",
+    "afterUncertainties": [
+      {
+        "offset": 3,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "汪",
+          "往"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "第四字左旁三點或彳未定；末字亻犬可見，改讀伏。"
+  },
+  {
+    "canvasIndex": 9,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c09-lower-l01",
+    "before": "神龕龍神帳花斗香爐茶床敬器燭跋錢爐",
+    "after": "神龕神帳花斗香爐茶床□器燭跋錢爐",
+    "afterUncertainties": [
+      {
+        "offset": 10,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "詠",
+          "敬"
+        ],
+        "note": "複核原圖後仍不能定讀；保留方框。"
+      }
+    ],
+    "reason": "龕字下部並非另有龍字，刪誤拆字；茶床後字仍未定，撤回敬確讀。"
+  },
+  {
+    "canvasIndex": 9,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c09-lower-l03",
+    "before": "燭臺燭剪茶架茶壺春盛□盆灰□酒壺",
+    "after": "燭臺燭剪茶架茶壺春籃菓盆灰罌酒壺",
+    "afterUncertainties": [],
+    "reason": "籃見竹監，菓見艹果；罌見賏缶，均按原字形定讀。"
+  },
+  {
+    "canvasIndex": 9,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c09-lower-l05",
+    "before": "東床□七交椅鐵筒金錘相筋茶匙酒龍",
+    "after": "東床學七交椅鐵筒金錘相筋茶匙酒龍",
+    "afterUncertainties": [],
+    "reason": "原未解字上部臼形與冖子可見，定讀學；保留七字原形。"
+  },
+  {
+    "canvasIndex": 9,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c09-lower-l06",
+    "before": "琴床琴椅火碗燈龍眠床踏毯承塵薰風",
+    "after": "琴床琴椅火碗燈籠眠床踏毯承塵遮風",
+    "afterUncertainties": [],
+    "reason": "籠頂竹旁可見，非單龍；末組第三字見辶庶，定讀遮。"
+  },
+  {
+    "canvasIndex": 9,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c09-lower-l07",
+    "before": "樹櫃箱籠□匣籠匡草苫蒙薦簽簟凉床",
+    "after": "樹櫃箱籠籮匣籠匡草苫蒙薦簽簟凉床",
+    "afterUncertainties": [],
+    "reason": "未解字竹頭羅部可見，定讀籮。"
+  },
+  {
+    "canvasIndex": 9,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c09-lower-l08",
+    "before": "枕頭蒲席軸□承盤錫瓶銅罐金羹盂盤",
+    "after": "枕頭蒲席軸杈承盤錫瓶銅罐金蓋盂盤",
+    "afterUncertainties": [],
+    "reason": "未解字木叉為杈；金後字艹盍為蓋，不作羹。"
+  },
+  {
+    "canvasIndex": 9,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c09-lower-l09",
+    "before": "本瓶勺鹽床□棋盤羹甌漆器白碟花盤",
+    "after": "本瓶勺鹽床墊棋盤羹甌漆器白碟花盤",
+    "afterUncertainties": [],
+    "reason": "墊上部執、下土可見，由方框改墊。"
+  },
+  {
+    "canvasIndex": 9,
+    "reviewer": "Codex AI / transcribe_e",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_e",
+    "reviewerTaskId": "/root/transcribe_e",
+    "lineId": "c09-lower-l10",
+    "before": "擔包弓袋藤籠□盤炕橋壺斗熨斗煎盤",
+    "after": "擔包弓袋藤籠美盤炕橋壺斗熨斗煎盤",
+    "afterUncertainties": [],
+    "reason": "未解字羊大為美。"
+  },
+  {
+    "canvasIndex": 10,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c10-upper-l01",
+    "before": "惟祈□光臨不□",
+    "after": "惟欣然光臨不□",
+    "afterUncertainties": [
+      {
+        "offset": 6,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "違",
+          "迓"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "原圖第二、三字分別見斤旁欠形及然下火點，改欣然；末字仍未定。"
+  },
+  {
+    "canvasIndex": 10,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c10-upper-l02",
+    "before": "臺幸",
+    "after": "□幸",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "至",
+          "臺"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 10,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c10-upper-l04",
+    "before": "迓尊駕少敘□",
+    "after": "迓尊駕少敘伏",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 10,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c10-upper-l05",
+    "before": "願□無□臨勿□",
+    "after": "願□惠臨勿□",
+    "afterUncertainties": [
+      {
+        "offset": 1,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "大",
+          "天"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      },
+      {
+        "offset": 5,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "拂",
+          "拒"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "原圖中段為惠，初稿分字與字數不合；相鄰兩處仍保留未解。"
+  },
+  {
+    "canvasIndex": 10,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c10-upper-l10",
+    "before": "□幸",
+    "after": "幸甚",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 10,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c10-upper-l13",
+    "before": "乞惠□先臨毋拒",
+    "after": "乞惠然光臨毋拒",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 10,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c10-upper-l14",
+    "before": "垂□",
+    "after": "幸孔",
+    "afterUncertainties": [],
+    "reason": "左端兩字上為幸、下為孔，與初稿不同。"
+  },
+  {
+    "canvasIndex": 10,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c10-lower-l01",
+    "before": "酒爵酒鑵竹□衣架面桶浴盆蓑衣包袱",
+    "after": "酒爵酒鑵竹簾衣架面桶浴盆蓑衣包袱",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 10,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c10-lower-l03",
+    "before": "砧臼木□鐵鍋砂砵鍋盖焙籠煎匙兜風",
+    "after": "砧臼木□鐵鍋砂砵鍋盖焙籠煎匙兜風",
+    "afterUncertainties": [
+      {
+        "offset": 3,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "槌",
+          "襲"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 10,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c10-lower-l04",
+    "before": "□子吹筒簑籬晒簟飯巾蒸籠火箸刀鞘",
+    "after": "骰子吹筒□籬晒簟飯巾蒸籠火箸刀鞘",
+    "afterUncertainties": [
+      {
+        "offset": 4,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "笊",
+          "簑"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 10,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c10-lower-l05",
+    "before": "□架飯筒肉砧麵架食罩食筒酒甕油榨",
+    "after": "碗架飯筒肉砧麵架食罩食筒酒甕油榨",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 10,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c10-lower-l07",
+    "before": "肉串油杓火鍬地划椒碾魚杓飯□飯□",
+    "after": "肉串油杓火鍬地划椒碾魚杓飯盂飯筅",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 10,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c10-lower-l08",
+    "before": "淨□濾銅杓米篩爬杷提桶吊桶錯□酒提",
+    "after": "淨□濾銅杓米篩爬杷提桶吊桶錯□酒提",
+    "afterUncertainties": [
+      {
+        "offset": 1,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "雪",
+          "酒"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      },
+      {
+        "offset": 14,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "栱"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 10,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c10-lower-l09",
+    "before": "茶籃雨傘鴨□雞栖古□魚籃鴿圈畫筆",
+    "after": "茶籃雨傘鴨籠雞栖古筥魚籃鴿圈畫筆",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 10,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c10-lower-l10",
+    "before": "糞斗笤帚貢□竹□地踏樓梯香匙香□",
+    "after": "糞斗笤帚貢□竹箕地踏樓梯香匙香盂",
+    "afterUncertainties": [
+      {
+        "offset": 5,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "硯"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 10,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c10-seal-l01",
+    "before": "□□□",
+    "after": "紀宗浦",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 11,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c11-upper-l01",
+    "before": "即晚備具小觴敢",
+    "after": "即晚寅具小觴敢",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 11,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c11-upper-l04",
+    "before": "甚幸",
+    "after": "□□",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "甚",
+          "畢"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      },
+      {
+        "offset": 1,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "幸",
+          "莊"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "兩字輪廓似畢莊而與初稿甚幸不合，複核仍未能定讀，改留兩個字位。"
+  },
+  {
+    "canvasIndex": 11,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c11-upper-l06",
+    "before": "煩玉步過敘伏",
+    "after": "煩玉步過叙伏",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 11,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c11-upper-l07",
+    "before": "冀□蚊清顧勿外",
+    "after": "冀賜蚊清顧勿外",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 11,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c11-upper-l08",
+    "before": "是荷",
+    "after": "是何",
+    "afterUncertainties": [],
+    "reason": "第二字為亻可形，未見艹，故保留何字，不按套語改荷。"
+  },
+  {
+    "canvasIndex": 11,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c11-upper-l09",
+    "before": "晚刻聊具蔬酒敢",
+    "after": "晚刻聊具疎酒敢",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 11,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c11-upper-l10",
+    "before": "迓□趾過敘伏",
+    "after": "迓麟趾過敘伏",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 11,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c11-upper-l13",
+    "before": "早刻製治蔬酌奉",
+    "after": "早刻製治疎酌奉",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 11,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c11-upper-l14",
+    "before": "迓虎□過希伏",
+    "after": "迓虎駕過希伏",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 11,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c11-lower-l01",
+    "before": "斗□升□量紐秤錘天平鈎馬銀□□□",
+    "after": "斗斛升什量紐秤錘天平鈎馬銀□□□",
+    "afterUncertainties": [
+      {
+        "offset": 13,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "辨"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      },
+      {
+        "offset": 14,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "紐"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      },
+      {
+        "offset": 15,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 11,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c11-lower-l02",
+    "before": "灰剪爐□拂□杖錐硯□筆架水□□冊錐",
+    "after": "灰剪爐□拂帚杖錐硯□筆架水□□冊錐",
+    "afterUncertainties": [
+      {
+        "offset": 3,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "箸"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      },
+      {
+        "offset": 9,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "其",
+          "基"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      },
+      {
+        "offset": 13,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      },
+      {
+        "offset": 14,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 11,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c11-lower-l04",
+    "before": "搖籃車□文袋梳包褶木書燈裕褳荷包",
+    "after": "搖籃車布文袋梳包褶木書燈裕褳荷包",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 11,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c11-lower-l05",
+    "before": "鉄□銼□千鈎推刀鉄釗鋸鑿纒錫剃刀",
+    "after": "鉄砧銼錐千鈎推刀鉄刨鋸鑿纒錫剃刀",
+    "afterUncertainties": [],
+    "reason": "原圖砧見石占，錐見金隹；第十二字為包刂形而非金刂。"
+  },
+  {
+    "canvasIndex": 11,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c11-lower-l09",
+    "before": "□青牛□芥藍蒿菜蒿菜冬瓜葫蘆莧菜",
+    "after": "□青牛□芥藍蒿菜高菜冬瓜葫蘆莧菜",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "蔓",
+          "莠"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      },
+      {
+        "offset": 3,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "頽"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 11,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c11-seal-l01",
+    "before": "□□□",
+    "after": "紀宗浦",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 12,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c12-upper-l01",
+    "before": "乞欣然枉□勿却",
+    "after": "乞欣然枉進勿却",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 12,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c12-upper-l04",
+    "before": "□台駕清敘伏",
+    "after": "迓台駕清叙伏",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 12,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c12-upper-l05",
+    "before": "祈惠□光□勿拒",
+    "after": "祈惠然光□勿拒",
+    "afterUncertainties": [
+      {
+        "offset": 4,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "賁",
+          "雇"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 12,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c12-upper-l09",
+    "before": "惟肯臨光照勿却",
+    "after": "惟肯臨光昭勿却",
+    "afterUncertainties": [],
+    "reason": "此字日旁召形，未見照字底部火點，改為昭。"
+  },
+  {
+    "canvasIndex": 12,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c12-upper-l10",
+    "before": "幸□",
+    "after": "幸大",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 12,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c12-upper-l13",
+    "before": "□為幸",
+    "after": "外為幸",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 12,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c12-upper-l14",
+    "before": "是午敬傳聞觴敢",
+    "after": "□午敬傳聞觴敢",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "晨",
+          "是"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 12,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c12-upper-small-2-l02",
+    "before": "元肖用",
+    "after": "元宵用",
+    "afterUncertainties": [],
+    "reason": "原圖肖形頂部另有宀，保留宵。"
+  },
+  {
+    "canvasIndex": 12,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c12-lower-l02",
+    "before": "□薯□苴蛾角香菜茄豆虎瓜□大辣菜",
+    "after": "紅薯菠苴蛾角香菜茄豆虎瓜芋大辣菜",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 12,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c12-lower-l04",
+    "before": "苜宿羅□薑母菲菜",
+    "after": "苜宿羅菹薑母菲菜",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 12,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c12-seal-l01",
+    "before": "□□□",
+    "after": "紀宗浦",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 13,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c13-upper-l01",
+    "before": "辰文前過敘勿",
+    "after": "屈文前過敘勿",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 13,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c13-upper-l09",
+    "before": "召文興一敘勿",
+    "after": "召文惠一敘勿",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 13,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c13-lower-l01",
+    "before": "□□餘甘草茅仙橘佛指香貝四青□□",
+    "after": "丹□餘甘草茅仙橘佛指香貝四青□冬",
+    "afterUncertainties": [
+      {
+        "offset": 1,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "檨",
+          "樹"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      },
+      {
+        "offset": 14,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "禮"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 13,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c13-lower-l06",
+    "before": "瑞香御帶雪花□提山茶金菊佛桑木犀",
+    "after": "瑞香御帶雪花斜提山茶金菊佛桑木犀",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 13,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c13-lower-l09",
+    "before": "仙□御仙剪絨蔦瓜海棠杜鵑繡球金盞",
+    "after": "仙卉御仙剪絨蔦瓜海棠杜鵑繡球金盞",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 13,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c13-seal-l01",
+    "before": "□□□",
+    "after": "紀宗浦",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 14,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c14-upper-l01",
+    "before": "駕□□□陽材僚",
+    "after": "駕欣然□陽□僚",
+    "afterUncertainties": [
+      {
+        "offset": 3,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "俯"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      },
+      {
+        "offset": 5,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "枝",
+          "材"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 14,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c14-upper-l11",
+    "before": "□帖式",
+    "after": "催帖式",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 14,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c14-upper-l12",
+    "before": "□董某候□抑於",
+    "after": "□董某候色抑杭",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "寅"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 14,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c14-lower-l01",
+    "before": "□車□佰兒□竹箸竹竹竿竹鐸紫竹班竹",
+    "after": "□車□佰兒□竹□竹箏竹簞紫竹班竹",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "篠"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      },
+      {
+        "offset": 2,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "勿",
+          "筇"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      },
+      {
+        "offset": 5,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "笁"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      },
+      {
+        "offset": 7,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "箸",
+          "笁"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "逐字重新數列，初稿竹字重複及中段字數不符；箏、簞可辨，其餘不定字仍留位。"
+  },
+  {
+    "canvasIndex": 14,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c14-lower-l03",
+    "before": "雲溪高陽松欏楠木檀桂槐榕赤柯棟木",
+    "after": "吉溪高陽松欏楠木檀桂槐榕赤柯棟木",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 14,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c14-lower-l04",
+    "before": "榆桐杉楠水綿梨木椅桐梓漆桑榆柳木",
+    "after": "棕桐杉楠水綿梨木椅桐梓漆桑榆柳木",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 14,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c14-lower-l06",
+    "before": "皂斗金荊椿果楓木蘆葦□□□肥皂皂角",
+    "after": "皂斗金荊椿果楓木蘆□□□肥皂皂角",
+    "afterUncertainties": [
+      {
+        "offset": 9,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "菖",
+          "葦"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      },
+      {
+        "offset": 10,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "宣",
+          "萱"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      },
+      {
+        "offset": 11,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "茅"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "蘆字後為三個字位；初稿多了一字且將其中一字定為葦，複核無法確讀，合計保留三個未解字。"
+  },
+  {
+    "canvasIndex": 14,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c14-lower-l10",
+    "before": "膽脈腸臟胳腋□唇肚脾腎肺□膜眼□",
+    "after": "膽脈腸臟胳腋脣唇肚脾腎肺膈膜眼□",
+    "afterUncertainties": [
+      {
+        "offset": 15,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "翳"
+        ],
+        "note": "獨立複核原圖後仍未能定讀；筆畫黏連、淡墨或字形不確定，不按詞義補寫"
+      }
+    ],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 14,
+    "reviewer": "Codex AI / transcribe_a",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_a",
+    "reviewerTaskId": "/root/transcribe_a",
+    "lineId": "c14-seal-l01",
+    "before": "□□□",
+    "after": "紀宗浦",
+    "afterUncertainties": [],
+    "reason": "獨立重新查看原圖及局部後，按可見筆畫校正初稿；尚未定讀的位置仍留 □。"
+  },
+  {
+    "canvasIndex": 15,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c15-upper-l03",
+    "before": "侍柰值愛感□子",
+    "after": "侍柰值愛感□予",
+    "afterUncertainties": [
+      {
+        "offset": 5,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "疾",
+          "欽"
+        ],
+        "note": "原刻筆畫仍未能定讀；保留□，未據文義補字"
+      }
+    ],
+    "reason": "上欄第3直欄末字上部厶、下部丁鉤，原圖為予；前一字仍黏墨未定。"
+  },
+  {
+    "canvasIndex": 15,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c15-upper-l14",
+    "before": "□過舍少申□塵",
+    "after": "拔過舍少申拂塵",
+    "afterUncertainties": [],
+    "reason": "左末欄首字可見扌與犮；末二字可見扌弗及鹿土字形，據圖讀拔、拂、塵。"
+  },
+  {
+    "canvasIndex": 15,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c15-lower-l01",
+    "before": "股肱脊髆筋骸肘肺頰膈咽喉肩胛脾胃",
+    "after": "股肱□髆筋骸肘肺頰膈咽喉肩胛脾胃",
+    "afterUncertainties": [
+      {
+        "offset": 2,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "脊",
+          "春"
+        ],
+        "note": "原刻筆畫仍未能定讀；保留□，未據文義補字"
+      }
+    ],
+    "reason": "下欄右第1欄第3字，上下筆畫與月／日形未足定讀；原稿直接脊改保留□。"
+  },
+  {
+    "canvasIndex": 15,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c15-lower-l08",
+    "before": "系絛肚帶潤褶汗衫□鐘一撒背褡布衫",
+    "after": "系絛肚帶潤褶汗衫口鐘一撒背褡布衫",
+    "afterUncertainties": [],
+    "reason": "下欄第8欄中段□位置原圖為獨立口字框形，未見額外中豎或外部筆畫，按可見原字錄口。"
+  },
+  {
+    "canvasIndex": 15,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c15-lower-l10",
+    "before": "坐馬披□裙襴布褲羅帛靴鞋杜腰膝褲",
+    "after": "坐馬披胃裙襴布褲羅帛靴鞋杜腰膝褲",
+    "afterUncertainties": [],
+    "reason": "下欄左末欄披後字可見上田下月，讀胃，保留原刻詞序。"
+  },
+  {
+    "canvasIndex": 16,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c16-upper-l01",
+    "before": "之教惠敢感乞",
+    "after": "之教惠欣感乞",
+    "afterUncertainties": [],
+    "reason": "上欄右末續句的第4字，左斤右欠輪廓明確，讀欣而非敢。"
+  },
+  {
+    "canvasIndex": 16,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c16-upper-l20",
+    "before": "外為祟",
+    "after": "外為幸",
+    "afterUncertainties": [],
+    "reason": "上欄最左短行末字可見土部與下方幸字筆畫，為幸；非祟的出示結構。"
+  },
+  {
+    "canvasIndex": 16,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c16-lower-l02",
+    "before": "□護裹腳綾緞裙褲皂靴儒履襪子靴韈",
+    "after": "搭護裹腳綾緞裙褲皂靴儒履襪子靴韈",
+    "afterUncertainties": [],
+    "reason": "下欄第2欄首字左扌，右上艹、下合，原字搭，可定讀。"
+  },
+  {
+    "canvasIndex": 16,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c16-lower-l04",
+    "before": "珠母環兒髻包掩耳手帕護領御羅架裟",
+    "after": "珠母環兒髻包掩耳手帕護領御羅袈裟",
+    "afterUncertainties": [],
+    "reason": "下欄第4欄末段袈字底部衣形可見，原稿架（木底）改袈。"
+  },
+  {
+    "canvasIndex": 16,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c16-lower-l07",
+    "before": "紡車□婁子練輪練方緯核車笠車采彈弓",
+    "after": "紡車簍子練輪練方緯核車笠車采彈弓",
+    "afterUncertainties": [],
+    "reason": "下欄第7欄第3字為一個竹頭、婁底的簍字；原稿□婁把一個字分作兩字，據其欄內位置合錄簍。"
+  },
+  {
+    "canvasIndex": 16,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c16-lower-l09",
+    "before": "牽經造緯絞線彈綿繡絨扣線補綴刺縫",
+    "after": "牽經造緯絞線彈綿繡紙扣線補綴刺縫",
+    "afterUncertainties": [],
+    "reason": "下欄第9欄繡後字右部氏形及末鉤可見，非戎字，依原刻讀紙。"
+  },
+  {
+    "canvasIndex": 17,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c17-upper-l04",
+    "before": "酌叨蒙奉枉文旌",
+    "after": "酌叨□奉枉文旌",
+    "afterUncertainties": [
+      {
+        "offset": 2,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "次",
+          "蒙"
+        ],
+        "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+      }
+    ],
+    "reason": "第3字淡印，原稿蒙的艹／冖及豕組件未能確認；可見輪廓也近次，保留□。"
+  },
+  {
+    "canvasIndex": 17,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c17-upper-l06",
+    "before": "矣丹抱祈荷",
+    "after": "矣毋拒何荷",
+    "afterUncertainties": [],
+    "reason": "原圖矣下為毋的橫框與內筆，拒左扌右巨，何左亻右可；原稿丹、抱、祈偏旁不合圖。"
+  },
+  {
+    "canvasIndex": 17,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c17-upper-l08",
+    "before": "小女子歸敬卜是",
+    "after": "小女于歸敬卜是",
+    "afterUncertainties": [],
+    "reason": "女下為于的二橫與下鉤，無子字斜彎，據圖讀于。"
+  },
+  {
+    "canvasIndex": 17,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c17-upper-l09",
+    "before": "辰聊陳清酌敬板",
+    "after": "辰聊陳清酌敬投",
+    "afterUncertainties": [],
+    "reason": "末字左扌、右殳可見，為投；原稿板的木反部件不合圖。"
+  },
+  {
+    "canvasIndex": 17,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c17-upper-l11",
+    "before": "微酌見拒為感",
+    "after": "□□見拒為感",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "菲"
+        ],
+        "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+      },
+      {
+        "offset": 1,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "薄"
+        ],
+        "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+      }
+    ],
+    "reason": "首二字淡印不足定讀；原稿微酌字形未能在圖中確認，保留□，候選菲薄僅作紀錄。"
+  },
+  {
+    "canvasIndex": 17,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c17-lower-l08",
+    "before": "玻□玻璃火珠翡翠□砂銅錢水晶雲母",
+    "after": "玻瓈玻璃火珠翡翠□砂銅錢水晶雲母",
+    "afterUncertainties": [
+      {
+        "offset": 8,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "宇",
+          "字",
+          "朱"
+        ],
+        "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+      }
+    ],
+    "reason": "下欄第8欄第2字可見王旁與黎形繁筆，錄可編碼異體瓈；砂前字仍未定。"
+  },
+  {
+    "canvasIndex": 17,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c17-lower-l09",
+    "before": "玉帶牙環鉎鋼礠石□鑄鑲鏤",
+    "after": "玉帶牙環鉎鋼礠石鎔鑄鑲鏤",
+    "afterUncertainties": [],
+    "reason": "下欄第9欄末組首字金旁、容的宀谷形可見，讀鎔。"
+  },
+  {
+    "canvasIndex": 18,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c18-lower-l01",
+    "before": "笙簫琴瑟鐘鼓□鉦歌磬管籥箎角秦箏",
+    "after": "笙簫琴瑟鐘鼓鏞鉦歌聲管籥箎角秦箏",
+    "afterUncertainties": [],
+    "reason": "另裁切鼓後字核看：左金、右庸的廣及用形可見，定讀鏞；歌後字下部耳而非石，為聲，改原稿磬。"
+  },
+  {
+    "canvasIndex": 18,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c18-lower-l05",
+    "before": "銅鈸銅角鼙聲鼓金笳皮□□□干將鏌□",
+    "after": "銅鈸銅角聲鼓金笳皮毬决袷干將鏌□",
+    "afterUncertainties": [
+      {
+        "offset": 15,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "鋣",
+          "舒"
+        ],
+        "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+      }
+    ],
+    "reason": "原刻角下只有一個聲字，原稿鼙聲多錄一字；皮後三字可見毛求、冫夬、衤合，依圖錄毬决袷，末字仍未定。"
+  },
+  {
+    "canvasIndex": 18,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c18-lower-l06",
+    "before": "剛刀劍戟旌□大□彈弓弩弓箭干戈戚揚",
+    "after": "剛刀劍戟旌□大營彈弓弩箭干戈戚揚",
+    "afterUncertainties": [
+      {
+        "offset": 5,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "良",
+          "旗"
+        ],
+        "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+      }
+    ],
+    "reason": "大後字多層口與上部結構可讀營；原圖彈弓弩箭四個字位，原稿把弩的弓部另錄一弓，刪重複組件。"
+  },
+  {
+    "canvasIndex": 18,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c18-lower-l08",
+    "before": "呼囉喇叭鎖吶與□枚御鞭鐙過首飛刀",
+    "after": "□囉喇叭鎖吶與鑿枚御鞭鐙過首飛刀",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "呼",
+          "吁"
+        ],
+        "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+      }
+    ],
+    "reason": "首字口旁右部淡損，呼／吁未定，保留□；鎖吶後的複雜字上部及金底可見，讀鑿。"
+  },
+  {
+    "canvasIndex": 19,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c19-upper-l02",
+    "before": "願用酌盛雅惠然",
+    "after": "錫用酌盛雅惠然",
+    "afterUncertainties": [],
+    "reason": "原圖首字左為金旁、右為易的日與斜筆，讀錫；非願字頁旁。"
+  },
+  {
+    "canvasIndex": 19,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c19-upper-l06",
+    "before": "午刻□賜敢板杜",
+    "after": "午刻□□敢投杜",
+    "afterUncertainties": [
+      {
+        "offset": 2,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "茶"
+        ],
+        "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+      },
+      {
+        "offset": 3,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "觴",
+          "腸",
+          "賜"
+        ],
+        "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+      }
+    ],
+    "reason": "原稿第4字賜的貝旁在圖中未能確定，與前字一同留□；敬請末字投可見扌殳，非木反板。"
+  },
+  {
+    "canvasIndex": 19,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c19-upper-l10",
+    "before": "具小酌奉板文",
+    "after": "具小酌奉投文",
+    "afterUncertainties": [],
+    "reason": "上欄投字左扌右殳與7r相同，可據图讀投，改原稿板。"
+  },
+  {
+    "canvasIndex": 19,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c19-upper-l13",
+    "before": "餞送小東式",
+    "after": "餞送小□式",
+    "afterUncertainties": [
+      {
+        "offset": 3,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "柬",
+          "東"
+        ],
+        "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+      }
+    ],
+    "reason": "小後字淡印，柬／東未能可靠定讀；保留□，未按格式名稱補柬。"
+  },
+  {
+    "canvasIndex": 19,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c19-upper-l14",
+    "before": "寬具薄儀用仰引",
+    "after": "寅具薄儀用仰引",
+    "afterUncertainties": [],
+    "reason": "最左欄首字宀內田形、下八可見，是寅；原稿寬字的艹見部件不合圖。"
+  },
+  {
+    "canvasIndex": 19,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c19-lower-l03",
+    "before": "草□秧夾背蓬孤杈耜鋤爬杓絆□連枷",
+    "after": "草枯秧夾背蓬孤杈耜鋤爬杓絆□連枷",
+    "afterUncertainties": [
+      {
+        "offset": 13,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "勒",
+          "鞠"
+        ],
+        "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+      }
+    ],
+    "reason": "下欄第3欄第2字左木右古可見，按原刻定讀枯；絆後字仍保留□。"
+  },
+  {
+    "canvasIndex": 19,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c19-lower-l04",
+    "before": "鐮釣草穗尿桶瓠機鐵鋤箱鍬泥鍁泥耙",
+    "after": "鐮釣草穗尿桶瓠機鐵鋤□鍬泥鍁泥耙",
+    "afterUncertainties": [
+      {
+        "offset": 10,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "箱",
+          "稍"
+        ],
+        "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+      }
+    ],
+    "reason": "鋤後字上部是否竹頭未能確定，原稿箱直接定讀不足，保留□。"
+  },
+  {
+    "canvasIndex": 19,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c19-lower-l05",
+    "before": "箕箒石□扁擔□擔□筒石斗槫時撼鍬",
+    "after": "箕箒石□扁擔□擔筲筒石斗槫時撼鍬",
+    "afterUncertainties": [
+      {
+        "offset": 3,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "碌",
+          "磙"
+        ],
+        "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+      },
+      {
+        "offset": 6,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "簸"
+        ],
+        "note": "原圖仍未能確定讀法，保留□，候選不是正文定讀"
+      }
+    ],
+    "reason": "第3組首字竹頭下肖形可辨，讀筲；石後及扁擔後的兩字仍未定。"
+  },
+  {
+    "canvasIndex": 20,
+    "reviewer": "Codex AI / transcribe_c",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_c",
+    "reviewerTaskId": "/root/transcribe_c",
+    "lineId": "c20-upper-l03",
+    "before": "聊□賀儀少伸鄙",
+    "after": "聊具賀儀少伸鄙",
+    "afterUncertainties": [],
+    "reason": "重新查看官方原圖及局部裁切，按可見筆畫改讀／保留疑字。"
+  },
+  {
+    "canvasIndex": 20,
+    "reviewer": "Codex AI / transcribe_c",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_c",
+    "reviewerTaskId": "/root/transcribe_c",
+    "lineId": "c20-upper-l04",
+    "before": "敬□□此晉不却",
+    "after": "敬乞此晉不却",
+    "afterUncertainties": [],
+    "reason": "重新查看官方原圖及局部裁切，按可見筆畫改讀／保留疑字。"
+  },
+  {
+    "canvasIndex": 20,
+    "reviewer": "Codex AI / transcribe_c",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_c",
+    "reviewerTaskId": "/root/transcribe_c",
+    "lineId": "c20-upper-l09",
+    "before": "感懷薄物聊旌微",
+    "after": "茂懷薄物聊旌微",
+    "afterUncertainties": [],
+    "reason": "重新查看官方原圖及局部裁切，按可見筆畫改讀／保留疑字。"
+  },
+  {
+    "canvasIndex": 20,
+    "reviewer": "Codex AI / transcribe_c",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_c",
+    "reviewerTaskId": "/root/transcribe_c",
+    "lineId": "c20-upper-l11",
+    "before": "□□",
+    "after": "踴躍",
+    "afterUncertainties": [],
+    "reason": "重新查看官方原圖及局部裁切，按可見筆畫改讀／保留疑字。"
+  },
+  {
+    "canvasIndex": 20,
+    "reviewer": "Codex AI / transcribe_c",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_c",
+    "reviewerTaskId": "/root/transcribe_c",
+    "lineId": "c20-upper-l14",
+    "before": "華甚",
+    "after": "幸甚",
+    "afterUncertainties": [],
+    "reason": "重新查看官方原圖及局部裁切，按可見筆畫改讀／保留疑字。"
+  },
+  {
+    "canvasIndex": 20,
+    "reviewer": "Codex AI / transcribe_c",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_c",
+    "reviewerTaskId": "/root/transcribe_c",
+    "lineId": "c20-lower-l01",
+    "before": "□繫遮水艄床艄杓溜頭筏纜鐵笮水櫃",
+    "after": "絡繫遮水艄床艄杓溜頭筏纜鐵笮水櫃",
+    "afterUncertainties": [],
+    "reason": "重新查看官方原圖及局部裁切，按可見筆畫改讀／保留疑字。"
+  },
+  {
+    "canvasIndex": 20,
+    "reviewer": "Codex AI / transcribe_c",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_c",
+    "reviewerTaskId": "/root/transcribe_c",
+    "lineId": "c20-lower-l02",
+    "before": "扶杷扯舶起篷駕□推艣撑篙塞管扯纜",
+    "after": "扶杷扯舶起篷駕槳推艣撑篙塞筒扯纜",
+    "afterUncertainties": [],
+    "reason": "重新查看官方原圖及局部裁切，按可見筆畫改讀／保留疑字。"
+  },
+  {
+    "canvasIndex": 20,
+    "reviewer": "Codex AI / transcribe_c",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_c",
+    "reviewerTaskId": "/root/transcribe_c",
+    "lineId": "c20-lower-l03",
+    "before": "划挖過渡轉弩拔淺",
+    "after": "划挖過渡轉彎拔淺",
+    "afterUncertainties": [],
+    "reason": "重新查看官方原圖及局部裁切，按可見筆畫改讀／保留疑字。"
+  },
+  {
+    "canvasIndex": 20,
+    "reviewer": "Codex AI / transcribe_c",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_c",
+    "reviewerTaskId": "/root/transcribe_c",
+    "lineId": "c20-lower-l05",
+    "before": "鳳□喜鵲鸚鵡畫眉慈烏黃雀山□翡翠",
+    "after": "鳳□喜鵲鸚鵡畫眉慈烏黃雀山河翡翠",
+    "afterUncertainties": [
+      {
+        "offset": 1,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "凰"
+        ],
+        "note": "独立重新核對原圖與裁切後仍不能定讀；不補字。"
+      }
+    ],
+    "reason": "重新查看官方原圖及局部裁切，按可見筆畫改讀／保留疑字。"
+  },
+  {
+    "canvasIndex": 20,
+    "reviewer": "Codex AI / transcribe_c",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_c",
+    "reviewerTaskId": "/root/transcribe_c",
+    "lineId": "c20-lower-l06",
+    "before": "白□山鶴鴻鵠黃鶯□鷥孔雀鷦鷹雞□",
+    "after": "白鷴仙鶴鴻鵠黃鶯鷺鷥孔雀鷦鷹雞□",
+    "afterUncertainties": [
+      {
+        "offset": 15,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [],
+        "note": "独立重新核對原圖與裁切後仍不能定讀；不補字。"
+      }
+    ],
+    "reason": "重新查看官方原圖及局部裁切，按可見筆畫改讀／保留疑字。"
+  },
+  {
+    "canvasIndex": 20,
+    "reviewer": "Codex AI / transcribe_c",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_c",
+    "reviewerTaskId": "/root/transcribe_c",
+    "lineId": "c20-lower-l07",
+    "before": "子規啄木□鳴紫燕鷓鴣百舌□鳶伯勞",
+    "after": "子規啄木□鴒紫燕鷓鴣百舌鴟鳶伯勞",
+    "afterUncertainties": [
+      {
+        "offset": 4,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "鶺",
+          "鵁"
+        ],
+        "note": "独立重新核對原圖與裁切後仍不能定讀；不補字。"
+      }
+    ],
+    "reason": "重新查看官方原圖及局部裁切，按可見筆畫改讀／保留疑字。"
+  },
+  {
+    "canvasIndex": 20,
+    "reviewer": "Codex AI / transcribe_c",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_c",
+    "reviewerTaskId": "/root/transcribe_c",
+    "lineId": "c20-lower-l08",
+    "before": "鸕鶿鴻鵠鷹鴨鴿□鳶錦雉彩鸞杜鵑",
+    "after": "鸕鶿鴻□鵓鴿鵝鴨錦雉彩鸞杜鵑",
+    "afterUncertainties": [
+      {
+        "offset": 3,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "鵠",
+          "鴈"
+        ],
+        "note": "独立重新核對原圖與裁切後仍不能定讀；不補字。"
+      }
+    ],
+    "reason": "重新查看官方原圖及局部裁切，按可見筆畫改讀／保留疑字。"
+  },
+  {
+    "canvasIndex": 20,
+    "reviewer": "Codex AI / transcribe_c",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_c",
+    "reviewerTaskId": "/root/transcribe_c",
+    "lineId": "c20-lower-l09",
+    "before": "大鵬青鳥提壺布谷挑虫翁鳥鵝鴨雞鵲",
+    "after": "大鵬青鳥提壺布谷挑虫翁鳥鵝鴨雞鵠",
+    "afterUncertainties": [],
+    "reason": "重新查看官方原圖及局部裁切，按可見筆畫改讀／保留疑字。"
+  },
+  {
+    "canvasIndex": 20,
+    "reviewer": "Codex AI / transcribe_c",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_c",
+    "reviewerTaskId": "/root/transcribe_c",
+    "lineId": "c20-seal1-l01",
+    "before": "□□□",
+    "after": "紀宗浦",
+    "afterUncertainties": [],
+    "reason": "重新查看官方原圖及局部裁切，按可見筆畫改讀／保留疑字。"
+  },
+  {
+    "canvasIndex": 21,
+    "reviewer": "Codex AI / root",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:root",
+    "reviewerTaskId": "/root",
+    "lineId": "c21-upper-l03",
+    "before": "實具羔酒□人馳",
+    "after": "實具羔酒專人馳",
+    "afterUncertainties": [],
+    "reason": "重新看全圖及上欄裁切；酒後一字的專形及下部筆畫可辨。"
+  },
+  {
+    "canvasIndex": 21,
+    "reviewer": "Codex AI / root",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:root",
+    "reviewerTaskId": "/root",
+    "lineId": "c21-upper-l06",
+    "before": "納□幸何多",
+    "after": "納□幸何多",
+    "afterUncertainties": [
+      {
+        "offset": 1,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "宗",
+          "寵"
+        ],
+        "note": "重新看原圖後，此字上部與下部淡印；宗形較近，但細筆不足，保留未定讀。"
+      }
+    ],
+    "reason": "更新候選與未定原因，不因賀帖套語選字。"
+  },
+  {
+    "canvasIndex": 21,
+    "reviewer": "Codex AI / root",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:root",
+    "reviewerTaskId": "/root",
+    "lineId": "c21-upper-l09",
+    "before": "敬聊奉祝□之筵",
+    "after": "敬聊奉花烛之筵",
+    "afterUncertainties": [],
+    "reason": "高解析上欄裁切中，奉後為草頭花形，次字火旁右部為虫形；保留烛，不改成燭。"
+  },
+  {
+    "canvasIndex": 21,
+    "reviewer": "Codex AI / root",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:root",
+    "reviewerTaskId": "/root",
+    "lineId": "c21-lower-l07",
+    "before": "竹蟶蚶蛤蝤蚱螃蟹螺蛳蚵蜆蛤蜊蛇參",
+    "after": "竹蟶蚶蛤蝤蛑螃蟹螺蛳蚵蜆蛤蜊蛇參",
+    "afterUncertainties": [],
+    "reason": "下欄高解析裁切：蝤後右部有牟形下筆，不是乍形，改蚱為蛑。"
+  },
+  {
+    "canvasIndex": 21,
+    "reviewer": "Codex AI / root",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:root",
+    "reviewerTaskId": "/root",
+    "lineId": "c21-lower-l08",
+    "before": "蚵蜆跳潮車螯花蟳蛭蛙蟾蜍□房扁□",
+    "after": "蚵蜆跳潮車螯花蟳蛭蜆蠕蠄蚵房扁□",
+    "afterUncertainties": [
+      {
+        "offset": 15,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "蠣"
+        ],
+        "note": "右部厂與下部交筆界限不清；第三位AI另看2400與高解析圖後也未能確定，蠣僅候選。"
+      }
+    ],
+    "reason": "逐字裁切看虫旁字：蛭後右部為見，續字為需、禽形，房前可形；第三位AI確認蠕、蠄，末字構形仍不足，保留□。"
+  },
+  {
+    "canvasIndex": 21,
+    "reviewer": "Codex AI / root",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:root",
+    "reviewerTaskId": "/root",
+    "lineId": "c21-seal1-l01",
+    "before": "□□□",
+    "after": "紀宗□",
+    "afterUncertainties": [
+      {
+        "offset": 2,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "浦",
+          "溥"
+        ],
+        "note": "中欄朱印首兩字紀、宗可辨；末字水旁右部細筆不足，未以人名推定。"
+      }
+    ],
+    "reason": "中欄印框獨立看圖；首兩字可辨，末字仍未定讀。"
+  },
+  {
+    "canvasIndex": 21,
+    "reviewer": "Codex AI / root",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:root",
+    "reviewerTaskId": "/root",
+    "lineId": "c21-seal2-l01",
+    "before": "□□□",
+    "after": "〔缺損字數不明〕",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 8,
+        "kind": "damaged",
+        "candidates": [],
+        "note": "下緣朱色長方印僅殘淡筆，不能確認三字或實際字數。"
+      }
+    ],
+    "reason": "下緣印框裁切顯示大片淡印，撤回三個字位的假定。"
+  },
+  {
+    "canvasIndex": 22,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c22-upper-l03",
+    "before": "昨拜使旌華承雅",
+    "after": "昨拜使府重承雅",
+    "afterUncertainties": [],
+    "reason": "放大圖中使後字有广與付；次字為重的中豎、里形，原旌華不合筆畫。"
+  },
+  {
+    "canvasIndex": 22,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c22-upper-l04",
+    "before": "□茲奉某物若干",
+    "after": "□茲奉某物若干",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "愛"
+        ],
+        "note": "獨立複核 3172×4000 原圖及局部裁圖後仍不足以定讀；保留單字未解。"
+      }
+    ],
+    "reason": "首字上部及下部殘筆有愛形可能，印墨不全，未改為確字。"
+  },
+  {
+    "canvasIndex": 22,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c22-lower-l07",
+    "before": "□上包子米團角兒春蘭角棗蒸糊串兒",
+    "after": "餻上包子米團角兒春蘭角棗蒸糊串兒",
+    "afterUncertainties": [],
+    "reason": "首字食旁、右部羊及下方灬可見，定讀餻。"
+  },
+  {
+    "canvasIndex": 22,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c22-lower-l08",
+    "before": "糖□夾餅油酥梅枝煎羊假鰲角□肉糕",
+    "after": "糖擇夾餅山酥梅枝煎羊假鰲角淡肉糕",
+    "afterUncertainties": [],
+    "reason": "第二字可見扌、睪；餅後字只有山形三豎而無氵由；角後字有氵、兩火，讀淡。"
+  },
+  {
+    "canvasIndex": 22,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c22-lower-l09",
+    "before": "麻糍米粿糖糍飯糕麵線麵米匾食冷餡",
+    "after": "麻糍米粿糖粽飯糕麵線麵米匾食冷餡",
+    "afterUncertainties": [],
+    "reason": "糖後字米旁，右部宀及示可見，讀粽而非糍。"
+  },
+  {
+    "canvasIndex": 22,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c22-lower-l10",
+    "before": "粉心線麵壽□脯桃□□□餅蒸糕尾龍",
+    "after": "粉心線麵壽□□桃□□□餅蒸糕尾龍",
+    "afterUncertainties": [
+      {
+        "offset": 5,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [],
+        "note": "獨立複核 3172×4000 原圖及局部裁圖後仍不足以定讀；保留單字未解。"
+      },
+      {
+        "offset": 6,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "仔"
+        ],
+        "note": "獨立複核 3172×4000 原圖及局部裁圖後仍不足以定讀；保留單字未解。"
+      },
+      {
+        "offset": 8,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [],
+        "note": "獨立複核 3172×4000 原圖及局部裁圖後仍不足以定讀；保留單字未解。"
+      },
+      {
+        "offset": 9,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [],
+        "note": "獨立複核 3172×4000 原圖及局部裁圖後仍不足以定讀；保留單字未解。"
+      },
+      {
+        "offset": 10,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [],
+        "note": "獨立複核 3172×4000 原圖及局部裁圖後仍不足以定讀；保留單字未解。"
+      }
+    ],
+    "reason": "初稿脯位置無月甫形，較似亻子但刮損仍不足；改未解並只記仔為候選。壽後及桃後淡字續留未解。"
+  },
+  {
+    "canvasIndex": 22,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c22-seal1-l01",
+    "before": "□□□",
+    "after": "紀宗浦",
+    "afterUncertainties": [],
+    "reason": "下欄紅色直印可見糹己、宀示、氵甫的三字。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-upper-l01",
+    "before": "□主養正乃貞忠",
+    "after": "□主養正乃貞忠",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "人"
+        ],
+        "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+      }
+    ],
+    "reason": "首字只存人形斜筆，未定讀。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-upper-l02",
+    "before": "□順之者□□之",
+    "after": "□順之者昌□之",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [],
+        "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+      },
+      {
+        "offset": 5,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "典",
+          "曲"
+        ],
+        "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+      }
+    ],
+    "reason": "者後字可見兩層曰，讀昌；後字殘筆不足，保留未解。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-upper-l04",
+    "before": "□□蒼且善□之",
+    "after": "門空蒼且善□之",
+    "afterUncertainties": [
+      {
+        "offset": 5,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "奴"
+        ],
+        "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+      }
+    ],
+    "reason": "前兩字可見門框及空的穴工形；善後字仍不能可靠定讀。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-upper-l06",
+    "before": "如欺乃盜□長",
+    "after": "如欺乃盜跖長",
+    "afterUncertainties": [],
+    "reason": "盜後字左足、右石可見，讀跖。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-upper-l07",
+    "before": "元亨何□乃諸□",
+    "after": "孔子何□乃諸□",
+    "afterUncertainties": [
+      {
+        "offset": 3,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [],
+        "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+      },
+      {
+        "offset": 6,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "羿"
+        ],
+        "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+      }
+    ],
+    "reason": "前兩字為孔、子形；第四及末字淡印保留未解。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-upper-l08",
+    "before": "□□春何清乃",
+    "after": "□許憲春何清乃",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [],
+        "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+      }
+    ],
+    "reason": "許的言午、憲的宀與下心可見；初稿漏憲字位，按原圖補入現存字，不補折痕首字。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-upper-l09",
+    "before": "國替姓曹家何",
+    "after": "國替紂曹帝何",
+    "afterUncertainties": [],
+    "reason": "第三字左糹右寸；曹後字亠冖巾形，原姓、家不合圖。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-upper-l10",
+    "before": "乃□太伯榮英",
+    "after": "□子□伯榮衰",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "乃"
+        ],
+        "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+      },
+      {
+        "offset": 2,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "太",
+          "武"
+        ],
+        "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+      }
+    ],
+    "reason": "子及末字衣形可見；首字折痕殘墨，第三字筆畫不足，將原乃、太改未解。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-upper-l11",
+    "before": "□何從乃徹死首",
+    "after": "□何□乃餓死首",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [],
+        "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+      },
+      {
+        "offset": 2,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "仡"
+        ],
+        "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+      }
+    ],
+    "reason": "乃後字食旁與我形可見，讀餓；何後殘筆不足以支持從，回置未解。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-upper-l12",
+    "before": "□原意佝愚乃家",
+    "after": "□原憲何愚乃家",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [],
+        "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+      }
+    ],
+    "reason": "原後字見宀及下心為憲；次字亻可形讀何，原意佝不合圖。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-upper-l13",
+    "before": "□斗粟石骨何賤",
+    "after": "□斗粟□骨何貧",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [],
+        "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+      },
+      {
+        "offset": 3,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [],
+        "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+      }
+    ],
+    "reason": "末字分貝形讀貧；粟後殘筆不支持石，保留未解。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-lower-l01",
+    "before": "豆炙豆腐冰糖綿糖梅餅柑醬鍚糖糖□",
+    "after": "豆炙豆腐冰糖綿糖梅餅柑醬錫糖糖□",
+    "afterUncertainties": [
+      {
+        "offset": 15,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [],
+        "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+      }
+    ],
+    "reason": "金旁右部日勿為錫而非鍚；末字續留淡印未解。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-lower-l02",
+    "before": "雜飯蒸飯涼粉□粉捜麵行麵金麵□麵",
+    "after": "雜飯蒸飯涼粉豆粉捜麵行麵金麵踹麵",
+    "afterUncertainties": [],
+    "reason": "兩個未解位置可見豆形及足耑形，分讀豆、踹。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-lower-l03",
+    "before": "釀酒□酒煎茶炒茶溫酒温酒",
+    "after": "釀酒醲酒煎茶炒茶湯酒温酒",
+    "afterUncertainties": [],
+    "reason": "酉農形讀醲；後部氵昜讀湯，末字原有日皿保留温。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-lower-l04",
+    "before": "鳥獸虫門",
+    "after": "鳥獸虫虫門",
+    "afterUncertainties": [],
+    "reason": "圖中獸與門之間有兩個各自直排的虫字，原稿漏一虫；不將兩個可見字合為單一蟲。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-lower-l05",
+    "before": "麒麟獅子駱駝象白澤猊子獨虎獬豸",
+    "after": "麒麟獅子駱駝耳象白澤倪子獨虎獬豸",
+    "afterUncertainties": [],
+    "reason": "駝與象之間有清楚耳字；澤後字左亻右兒，讀倪而非猊。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-lower-l07",
+    "before": "麋鹿猪豕犬羔麂獺狐猩猞鼠蟾蜍蝙蝠",
+    "after": "麋鹿猪豕犬羔麂獺狐狸猫鼠蟾蜍蝙蝠",
+    "afterUncertainties": [],
+    "reason": "狐後字犭里為狸，次字同犭旁加苗為猫，按原形保留。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-lower-l08",
+    "before": "蚱蜢蝴蛘蛹蛸□蟻□蛭蚓蜘蛛蜻子",
+    "after": "蚱蜢蝴蛘螬蛸蛾蟻蟋蟀螳□蜘蛛蜻子",
+    "afterUncertainties": [
+      {
+        "offset": 11,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "螂",
+          "蝍"
+        ],
+        "note": "獨立複核原圖與 3172×4000 局部放大，仍有折痕、淡印或異體筆畫不能定讀；未據詩句或動物名補字。"
+      }
+    ],
+    "reason": "第五字虫曹為螬；第七虫我為蛾；第三四字組可見悉、率、堂，分讀蟋蟀螳；其後另有完整虫旁字位但右部不能確定，補回漏字為□。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-lower-l10",
+    "before": "促織蜚蜚蚰蝍蛙蛤蜉蝣蠆蜋蚕蛾螢火",
+    "after": "促織蛩蝗蝦蟆蛙蛤蝌蚪螝蜋蚕蛾螢火",
+    "afterUncertainties": [],
+    "reason": "第三字巩下虫為蛩，第四虫皇為蝗；第五第六見叚、莫；第九科及第十斗清楚；第十一鬼形讀螝，原蜋保留良形。"
+  },
+  {
+    "canvasIndex": 23,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c23-seal1-l01",
+    "before": "□□□",
+    "after": "紀宗浦",
+    "afterUncertainties": [],
+    "reason": "紅色直印糹己、宀示及氵甫清楚可見。"
+  },
+  {
+    "canvasIndex": 24,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c24-upper-l01",
+    "before": "□天隱惡奮良耕",
+    "after": "□天隱惡□良耕",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "仰"
+        ],
+        "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+      },
+      {
+        "offset": 4,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "奮",
+          "畜"
+        ],
+        "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+      }
+    ],
+    "reason": "首字在折痕，只有仰形殘筆；惡後字細部不足以支持奮，改回未解。"
+  },
+  {
+    "canvasIndex": 24,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c24-upper-l02",
+    "before": "□絶賢智風余粮",
+    "after": "□絶賢智風余粮",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "天"
+        ],
+        "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+      }
+    ],
+    "reason": "首字折痕只有天形殘筆，仍留未解；粮依米良原形保留。"
+  },
+  {
+    "canvasIndex": 24,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c24-upper-l05",
+    "before": "書齋對聯",
+    "after": "書齋守聯",
+    "afterUncertainties": [],
+    "reason": "第三字宀與寸形可見，無對的丵羊部，按刻字讀守。"
+  },
+  {
+    "canvasIndex": 24,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c24-upper-l07",
+    "before": "□須□清",
+    "after": "才須硯清",
+    "afterUncertainties": [],
+    "reason": "第一字才的横、竪鉤及撇可見；第三字石見部件可見，讀硯。"
+  },
+  {
+    "canvasIndex": 24,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c24-upper-l12",
+    "before": "海无涯靜坐讀",
+    "after": "海无涯靜坐□",
+    "afterUncertainties": [
+      {
+        "offset": 5,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "螢",
+          "董"
+        ],
+        "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+      }
+    ],
+    "reason": "末字沒有可支持讀的言賣部件；下部類虫或重，保留未解。"
+  },
+  {
+    "canvasIndex": 24,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c24-upper-l15",
+    "before": "□奮秋風",
+    "after": "翮奮秋風",
+    "afterUncertainties": [],
+    "reason": "第一字左鬲與右羽的殘存各部可辨，讀翮。"
+  },
+  {
+    "canvasIndex": 24,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c24-lower-l03",
+    "before": "陰陽醫士傳神畫師□都繩墨船艫琴師",
+    "after": "陰陽醫士傳神畫師□都繩墨船艫琴師",
+    "afterUncertainties": [
+      {
+        "offset": 8,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "雍",
+          "壅"
+        ],
+        "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+      }
+    ],
+    "reason": "未解字上部亠、下部複雜隹形可能為雍，缺乏可排除異體的細部；保留□。"
+  },
+  {
+    "canvasIndex": 24,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c24-lower-l05",
+    "before": "鑄銅打鐵□轎硯盤造車張硅打碓豎籬",
+    "after": "鑄銅打鐵等轎□盤造車張碓打磹□□",
+    "afterUncertainties": [
+      {
+        "offset": 6,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "硯",
+          "坪"
+        ],
+        "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+      },
+      {
+        "offset": 14,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "擊",
+          "墼"
+        ],
+        "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+      },
+      {
+        "offset": 15,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "籠",
+          "禮"
+        ],
+        "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+      }
+    ],
+    "reason": "鐵後字竹寺形可讀等；轎後淡字不支持確讀硯；張後字右隹讀碓，打後字右覃讀磹；最後二字結構不足，撤回原豎籬定讀。"
+  },
+  {
+    "canvasIndex": 24,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c24-lower-l06",
+    "before": "打銀鑄鼎張杷張犁築墻拖鋸鞘鞋匠鞋",
+    "after": "打銀鑄鼎張杷張犁築墻拖鋸鞘鞋仡鞋",
+    "afterUncertainties": [],
+    "reason": "倒數第二字左亻、右乞的簡單結構可見，非匠的匚斤形。"
+  },
+  {
+    "canvasIndex": 24,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c24-lower-l07",
+    "before": "造弓造弩剌□剌靴熟皮棚鼓鋪翠穿珠",
+    "after": "造弓造弩剌袜剌靴熟皮棚鼓鋪翠穿珠",
+    "afterUncertainties": [],
+    "reason": "第五、第七字原束刂形保留剌；未解字衣旁右末，讀原形袜，未換成襪。"
+  },
+  {
+    "canvasIndex": 24,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c24-seal1-l01",
+    "before": "□□□",
+    "after": "紀宗浦",
+    "afterUncertainties": [],
+    "reason": "下欄紅色直印三字糹己、宀示與氵甫可見。"
+  },
+  {
+    "canvasIndex": 24,
+    "reviewer": "Codex AI / transcribe_b",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
+    "reviewerTaskId": "/root/transcribe_b",
+    "lineId": "c24-seal2-l01",
+    "before": "□□□",
+    "after": "紀宗□",
+    "afterUncertainties": [
+      {
+        "offset": 2,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "浦"
+        ],
+        "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+      }
+    ],
+    "reason": "上欄跨框紅印前二字清楚；末字因淡印及折痕只有浦形部分，仍未解。"
+  },
+  {
+    "canvasIndex": 25,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c25-upper-l02",
+    "before": "發□在今時軍□",
+    "after": "發軔在今□書抔",
+    "afterUncertainties": [
+      {
+        "offset": 4,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "射",
+          "肘"
+        ],
+        "note": "独立原图复核仍不能可靠定读"
+      }
+    ],
+    "reason": "軔可見車旁與刃形，書的下部為日，末字左扌右不形；第五字尚未定讀"
+  },
+  {
+    "canvasIndex": 25,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c25-upper-l03",
+    "before": "芹花□聖域",
+    "after": "芹花恃聖域",
+    "afterUncertainties": [],
+    "reason": "第三字可見忄與寺；保留原刻恃而不改為現代詞"
+  },
+  {
+    "canvasIndex": 25,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c25-upper-l04",
+    "before": "衣雲朝後日笑□",
+    "after": "衣雲朝後日笑攀",
+    "afterUncertainties": [],
+    "reason": "末字林、爻、大與手部可辨"
+  },
+  {
+    "canvasIndex": 25,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c25-upper-l05",
+    "before": "桂子□魁名",
+    "after": "桂子耀魁名",
+    "afterUncertainties": [],
+    "reason": "第三字可见光部与翟部，较高解析度复看定读耀"
+  },
+  {
+    "canvasIndex": 25,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c25-upper-l09",
+    "before": "□花飄□高登月",
+    "after": "桂花飄□高登月",
+    "afterUncertainties": [
+      {
+        "offset": 3,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "帥",
+          "師",
+          "柯"
+        ],
+        "note": "独立原图复核仍不能可靠定读"
+      }
+    ],
+    "reason": "首字木旁与圭部可辨为桂；第四字右部仍不能定读"
+  },
+  {
+    "canvasIndex": 25,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c25-upper-l14",
+    "before": "□□變化細歸方",
+    "after": "蛟巨變化細歸方",
+    "afterUncertainties": [],
+    "reason": "起首可见虫旁与交；次字匚与内部横折形，不具有龍的繁复结构，按图读巨"
+  },
+  {
+    "canvasIndex": 25,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c25-lower-l01",
+    "before": "搖輪挑擔開剝筧頭",
+    "after": "擺輪挑擔開剝筧頭",
+    "afterUncertainties": [],
+    "reason": "首字扌旁与罷形可辨，原稿搖不合可见结构"
+  },
+  {
+    "canvasIndex": 25,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c25-lower-l03",
+    "before": "大冬重布早禾下季來年□稷油麻菜子",
+    "after": "大冬重布早禾下季來年泰稷油麻菜子",
+    "afterUncertainties": [],
+    "reason": "來年后字可见泰的上大下氺结构；保留原刻读形"
+  },
+  {
+    "canvasIndex": 25,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c25-lower-l05",
+    "before": "植稗菽麥粕秫□□藁秸粳秕",
+    "after": "植稗菽麥□□□□藁秸粳秕",
+    "afterUncertainties": [
+      {
+        "offset": 4,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "稻",
+          "粕"
+        ],
+        "note": "独立原图复核仍不能可靠定读"
+      },
+      {
+        "offset": 5,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "秫"
+        ],
+        "note": "独立原图复核仍不能可靠定读"
+      },
+      {
+        "offset": 6,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "蕎",
+          "芥",
+          "茭"
+        ],
+        "note": "独立原图复核仍不能可靠定读"
+      },
+      {
+        "offset": 7,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "禾",
+          "粱",
+          "梁"
+        ],
+        "note": "独立原图复核仍不能可靠定读"
+      }
+    ],
+    "reason": "麥后四字部件有重叠，不以粮食常名定读；原稿确定的粕秫亦降为未解"
+  },
+  {
+    "canvasIndex": 25,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c25-lower-l07",
+    "before": "匱粧鏡架光粉臙脂樊甲蠟雞枕子刷牙",
+    "after": "□粧鏡架光粉臙脂攀甲蠟雞枕子刷牙",
+    "afterUncertainties": [
+      {
+        "offset": 0,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "匱",
+          "隨"
+        ],
+        "note": "独立原图复核仍不能可靠定读"
+      }
+    ],
+    "reason": "首字外框与偏旁关系未能定读；攀字下手部可见，原稿樊缺手部"
+  },
+  {
+    "canvasIndex": 25,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c25-lower-l08",
+    "before": "拜□香籠珠冠霞帔七星透心耳環耳墜",
+    "after": "拜褥香籠珠冠霞帔七星透心耳環耳墜",
+    "afterUncertainties": [],
+    "reason": "第二字可见衤旁及辱部，定读褥"
+  },
+  {
+    "canvasIndex": 25,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c25-lower-l10",
+    "before": "木瓜桃□半圓芒犀蓮蓋三漂蒲紐手鐲",
+    "after": "木瓜桃鈿半圓芒犀蓮蓋三漂蒲紐手鐲",
+    "afterUncertainties": [],
+    "reason": "金旁字右部可见田框及十字，定读鈿"
+  },
+  {
+    "canvasIndex": 26,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c26-upper-l08",
+    "before": "□□歌奏似海",
+    "after": "一曲笙歌奏似海",
+    "afterUncertainties": [],
+    "reason": "原图顶端有短一字；曲字外框与内横、笙字竹头生部可辨，依原栏补齐可见字"
+  },
+  {
+    "canvasIndex": 26,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c26-upper-l12",
+    "before": "十方都城錦繡中",
+    "after": "十方都城錦□中",
+    "afterUncertainties": [
+      {
+        "offset": 5,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "繡"
+        ],
+        "note": "独立原图复核仍不能可靠定读"
+      }
+    ],
+    "reason": "錦后字被浓墨局部遮蔽，虽有糹旁，不能独立确认右部；降为未解"
+  },
+  {
+    "canvasIndex": 26,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c26-upper-l14",
+    "before": "□后立良□築臺",
+    "after": "裕后立良樓築室",
+    "afterUncertainties": [],
+    "reason": "首字礻谷、樓字木婁、末字宀至均可见，原稿提及臺不合结构"
+  },
+  {
+    "canvasIndex": 26,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c26-lower-l01",
+    "before": "手鈿倒雲虎鏡兜兜偏梳珠簪髮桃髮瓜",
+    "after": "手鈿倒雲虎鏡兜兜扁梳珠簪髮桃髮瓜",
+    "afterUncertainties": [],
+    "reason": "第九字没有亻旁，可见戶册形，依字形读扁"
+  },
+  {
+    "canvasIndex": 26,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c26-lower-l02",
+    "before": "雙鳳□雲梳巾珠□米□領丁毬茶花素剪",
+    "after": "雙鳳髮雲梳巾珠剌米□領丁毬茶花素剪",
+    "afterUncertainties": [
+      {
+        "offset": 9,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "勒",
+          "靭"
+        ],
+        "note": "独立原图复核仍不能可靠定读"
+      }
+    ],
+    "reason": "第三字髟部和犮部可见；第八字束旁与刂读剌；领前革旁复杂字仍未定"
+  },
+  {
+    "canvasIndex": 26,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c26-lower-l09",
+    "before": "葵花簪髮巾鈴□帶餅七菓□",
+    "after": "葵花簪髮巾鈴□帶餅七菓件",
+    "afterUncertainties": [
+      {
+        "offset": 6,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "骨"
+        ],
+        "note": "独立原图复核仍不能可靠定读"
+      }
+    ],
+    "reason": "末字亻与牛结构可辨为件；铃后字上部墨团仍遮蔽，保留未解"
+  },
+  {
+    "canvasIndex": 27,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c27-upper-l01",
+    "before": "得□山佳水",
+    "after": "得佳山佳水",
+    "afterUncertainties": [],
+    "reason": "第一佳字亻旁圭部可见，与本栏后一个佳字对应形体"
+  },
+  {
+    "canvasIndex": 27,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c27-upper-l02",
+    "before": "傳家有至寶積□",
+    "after": "傳家有至宝積書",
+    "afterUncertainties": [],
+    "reason": "宝字可见宀玉形，保留该异体；末字聿上日下定读書"
+  },
+  {
+    "canvasIndex": 27,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c27-upper-l05",
+    "before": "門□青山滴目",
+    "after": "門对青山滴目",
+    "afterUncertainties": [],
+    "reason": "第二字可见又与寸的简形，保留原刻可编码字对，不改为對"
+  },
+  {
+    "canvasIndex": 27,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c27-upper-l07",
+    "before": "戶盤綠水泓清",
+    "after": "戶盤綠水一泓清",
+    "afterUncertainties": [],
+    "reason": "水字下、泓字上有短一字，原稿漏录，按原栏补入"
+  },
+  {
+    "canvasIndex": 27,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c27-upper-l08",
+    "before": "□行流長",
+    "after": "入行流長",
+    "afterUncertainties": [],
+    "reason": "首字见相交撇捺二笔，没有水的竖钩与两侧点形，按图读入"
+  },
+  {
+    "canvasIndex": 27,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c27-upper-l10",
+    "before": "出谷迁喬□□新",
+    "after": "出谷迁喬□□新",
+    "afterUncertainties": [
+      {
+        "offset": 4,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "貞",
+          "鶯"
+        ],
+        "note": "独立原图复核仍未能定读"
+      },
+      {
+        "offset": 5,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "夏",
+          "更"
+        ],
+        "note": "独立原图复核仍未能定读"
+      }
+    ],
+    "reason": "原图第四字后相接两字笔画重叠，维持两未解字，不按对联补文"
+  },
+  {
+    "canvasIndex": 27,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c27-upper-l12",
+    "before": "□見□業守□金",
+    "after": "敎兒肄業守看金",
+    "afterUncertainties": [],
+    "reason": "初字左爻子右攵为敎，次字臼儿为兒；肄的右聿与看的手目形可见"
+  },
+  {
+    "canvasIndex": 27,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c27-lower-l02",
+    "before": "湖絲潤□綿花木棉麻綜□麻綾羅緞錦",
+    "after": "湖絲潤此綿花木棉麻綜□麻綾羅緞錦",
+    "afterUncertainties": [
+      {
+        "offset": 10,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "椶",
+          "棕"
+        ],
+        "note": "独立原图复核仍未能定读"
+      }
+    ],
+    "reason": "此字止匕部可辨；麻前字见木旁与复杂上凶下夂形，但未能可靠确定编码异体"
+  },
+  {
+    "canvasIndex": 27,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c27-lower-l03",
+    "before": "紗絹褐綢練絲綾布捲筒泗涇改□改潤",
+    "after": "紗絹褐綢練絲綾布捲筒泗涇改□改潤",
+    "afterUncertainties": [
+      {
+        "offset": 13,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "械",
+          "機",
+          "絨"
+        ],
+        "note": "独立原图复核仍未能定读"
+      }
+    ],
+    "reason": "改后字右部竖横、斜笔墨跡相接，仍未定读"
+  },
+  {
+    "canvasIndex": 28,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c28-lower-l02",
+    "before": "風流慷慨□制怠惰恍惚憎惡欹曲宛轉",
+    "after": "風流慷慨肆制怠惰恍惚憎惡欹曲宛轉",
+    "afterUncertainties": [],
+    "reason": "第五字可见镸、隶部，依刻形读肆"
+  },
+  {
+    "canvasIndex": 28,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c28-lower-l03",
+    "before": "愚蠢□□□忤驕傲齊整輕嫖朴實聰明",
+    "after": "愚蠢垂髮愴忤驕傲齊整輕嫖朴實聰明",
+    "afterUncertainties": [],
+    "reason": "第三字千与重叠横直为垂，第四字髟犮为髮，第五字忄倉为愴；按字形读，不改为常用词"
+  },
+  {
+    "canvasIndex": 28,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c28-lower-l05",
+    "before": "含糊清□賭博流蕩漁樵耕牧強梁魍魎",
+    "after": "含糊清揩賭博流蕩漁樵耕牧強梁魍魎",
+    "afterUncertainties": [],
+    "reason": "第四字左扌，右皆可见，定读揩而不改楷"
+  },
+  {
+    "canvasIndex": 28,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c28-lower-l07",
+    "before": "窩藏唆煽駕空詐騙瑣碎細膩吸吁□嘆",
+    "after": "窩藏唆煽駕空詐騙瑣碎細膩吸吁喇嘆",
+    "afterUncertainties": [],
+    "reason": "末段口旁字可见右束刂结构，定读喇"
+  },
+  {
+    "canvasIndex": 28,
+    "reviewer": "Codex AI / transcribe_d",
+    "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_d",
+    "reviewerTaskId": "/root/transcribe_d",
+    "lineId": "c28-lower-l08",
+    "before": "收拾看守憤懣□□狼狽辛楚窄狹歌歪",
+    "after": "收拾看守憤懣睦□狼狽辛楚窄狹歌歪",
+    "afterUncertainties": [
+      {
+        "offset": 7,
+        "length": 1,
+        "kind": "unclear",
+        "candidates": [
+          "覰",
+          "覷"
+        ],
+        "note": "独立原图复核仍未能定读"
+      }
+    ],
+    "reason": "第七字目坴结构可见，定读睦；后一字虍与見旁之间的下部仍不能确定异体"
+  }
+]
