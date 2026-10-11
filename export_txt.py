@@ -18,10 +18,15 @@ def render(data):
     out += ['〔編輯紀錄；以下非古籍正文〕']
     for p in data['pages']:
         out += [f"〔畫布 {p['canvasIndex']:02}｜{p['label']}〕"]
-        out += [f"頁記：{n}" for n in p['pageNotes']]
+        out += [f"初錄頁記（最終複核見JSON的review）：{n}" for n in p['pageNotes']]
+        review=p['review']
+        reviewed_note_ids={c['lineId'] for c in review.get('corrections',[]) if 'afterNote' in c}
+        reviewed_note_ids.update(a['line']['id'] for a in review.get('addLines',[]))
+        reviewed_note_ids.update(l['id'] for r in review.get('addRegions',[]) for l in r['lines'])
         for r in p['regions']:
             for l in r['lines']:
-                if l.get('note'): out += [f"{l['id']} 行記：{l['note']}"]
+                basis='複核行記' if l['id'] in reviewed_note_ids else '初錄行記（最終複核見JSON的review）'
+                if l.get('note'): out += [f"{l['id']} {basis}：{l['note']}"]
                 for u in l['uncertainties']:
                     out += [f"{l['id']} 疑字 offset={u['offset']} length={u['length']}：{u['kind']}；候選={'、'.join(u.get('candidates', []))}；{u['note']}"]
         out += ['']

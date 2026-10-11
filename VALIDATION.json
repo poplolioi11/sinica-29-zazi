@@ -3,9 +3,9 @@
   "canvases": 32,
   "numberedPages": 24,
   "reviewedCanvases": 32,
-  "lines": 733,
-  "codePointsInTranscribedLines": 5786,
-  "unresolvedPlaceholders": 248,
+  "lines": 734,
+  "codePointsInTranscribedLines": 5792,
+  "unresolvedPlaceholders": 264,
   "checkedHashes": [
     "corrections.json",
     "coverage.json",

@@ -43,7 +43,7 @@ CANVASES = (
  ('3c39b480-4694-4504-8d9a-baf38119521c','Inside lower cover'),
  ('283f7e97-08bc-46c9-8d56-18d46d3d5cd8','Lower cover'))
 AGENTS = {f'Codex AI / {name}': {'agentId':f'codex:sinica29:2026-10-11:{name}', 'taskId':f'/root/{name}' if name != 'root' else '/root'}
-          for name in ('transcribe_a','transcribe_b','transcribe_c','transcribe_d','transcribe_e','ocr_scope','root')}
+          for name in ('transcribe_a','transcribe_b','transcribe_c','transcribe_d','transcribe_e','ocr_scope','root','review_10v')}
 AGENTS['Codex AI / agent transcribe_e'] = AGENTS['Codex AI / transcribe_e']
 DATA_FILES = {'sinica-29.json','sinica-29.txt','coverage.json','uncertainties.json','corrections.json'}
 REQUIRED_DOCUMENTS = {'README.md','LICENSE.md','CITATION.cff','PROVENANCE.md','OCR-SCOPE.md','CONTRIBUTING.md','verify.py','export_txt.py'}

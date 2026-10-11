@@ -11,7 +11,7 @@
     "preparedBy": "poplolioi11／一卦 yigua.art",
     "repository": "https://github.com/poplolioi11/sinica-29-zazi",
     "processedAt": "2026-10-11",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "scope": "全部32畫布；fol. 1r–12v共24面正文，上下欄分開，另記封面、襯葉、藏印及後人書寫。",
     "method": "Codex AI直接讀圖初錄，另一個具固定工作流ID的Codex AI任務重新讀圖逐行複核；不是人工專家校勘。未複製現代OCR。",
     "uncertaintyConvention": "未解字□；候選僅在uncertainties。offset與length按Unicode碼點，自0起。",
@@ -23,6 +23,7 @@
       "originalDocumentation": "CC BY 4.0 where applicable; see LICENSE.md",
       "code": "MIT"
     },
+    "editorialNoteConvention": "pageNotes are retained first-pass observations, including historical pending-review language; line.note is first-pass unless review.corrections.afterNote or review additions replace it. Final judgments are in review and final line uncertainties.",
     "agentIdentityBasis": "Stable IDs are assigned from the recorded local workflow task-name mapping; not a cryptographic attestation or model independence guarantee.",
     "sourceEvidenceBasis": "Local image bytes, SHA-256 and sips dimensions checked against saved inventory and review records; public verifier is offline and does not verify downloads over the network."
   },
@@ -16683,7 +16684,7 @@
             {
               "id": "c24-upper-l01",
               "order": 1,
-              "text": "□天隱惡□良耕",
+              "text": "□天□惡□良耕",
               "bbox": [
                 1680,
                 690,
@@ -16698,7 +16699,17 @@
                   "candidates": [
                     "仰"
                   ],
-                  "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+                  "note": "首字在折痕下，只存亻及右側殘筆，不能定讀。"
+                },
+                {
+                  "offset": 2,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [
+                    "隱",
+                    "惜"
+                  ],
+                  "note": "針對舊、新複核分歧重看本面原圖與較高解析裁图；左旁及右部淡失，隱的刻體與惜形不能可靠排除。"
                 },
                 {
                   "offset": 4,
@@ -16706,9 +16717,10 @@
                   "kind": "unclear",
                   "candidates": [
                     "奮",
-                    "畜"
+                    "畜",
+                    "否"
                   ],
-                  "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+                  "note": "針對分歧重看，字頂與下框的內筆不全，不能可靠分定奮、畜、否形。"
                 }
               ],
               "note": ""
@@ -16716,7 +16728,7 @@
             {
               "id": "c24-upper-l02",
               "order": 2,
-              "text": "□絶賢智風余粮",
+              "text": "□絶□□風余粮",
               "bbox": [
                 1585,
                 690,
@@ -16729,9 +16741,31 @@
                   "length": 1,
                   "kind": "unclear",
                   "candidates": [
-                    "天"
+                    "天",
+                    "下"
                   ],
-                  "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+                  "note": "首字僅有橫、短直残筆，折痕穿過；兩候選均不能定讀。"
+                },
+                {
+                  "offset": 2,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [
+                    "賢",
+                    "閑",
+                    "閉"
+                  ],
+                  "note": "門框形／賢上部及內筆淡失，不能可靠排除賢的刻體或門部字。"
+                },
+                {
+                  "offset": 3,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [
+                    "智",
+                    "倉"
+                  ],
+                  "note": "上部斜筆及下方框形可見，但部件細節不足以區分智、倉。"
                 }
               ],
               "note": ""
@@ -16752,14 +16786,14 @@
                   "length": 1,
                   "kind": "unclear",
                   "candidates": [],
-                  "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+                  "note": "首字在折痕下只存橫筆，無法定讀。"
                 },
                 {
                   "offset": 1,
                   "length": 1,
                   "kind": "unclear",
                   "candidates": [],
-                  "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+                  "note": "第二字僅存短直及折筆，無法定讀。"
                 }
               ],
               "note": ""
@@ -16793,27 +16827,67 @@
             {
               "id": "c24-upper-l06",
               "order": 6,
-              "text": "一葦吟經百倍工",
+              "text": "□□吟經百倍工",
               "bbox": [
                 1205,
                 690,
                 95,
                 505
               ],
-              "uncertainties": [],
+              "uncertainties": [
+                {
+                  "offset": 0,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [
+                    "一"
+                  ],
+                  "note": "字位上部被折痕遮斷，僅存橫筆。"
+                },
+                {
+                  "offset": 1,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [
+                    "葦",
+                    "案"
+                  ],
+                  "note": "再次比對葦、案兩讀，頂部及中筆淡失；不能排除刻體韋部與女木形的混淆。"
+                }
+              ],
               "note": ""
             },
             {
               "id": "c24-upper-l07",
               "order": 7,
-              "text": "才須硯清",
+              "text": "□須□清",
               "bbox": [
                 1110,
                 690,
                 95,
                 505
               ],
-              "uncertainties": [],
+              "uncertainties": [
+                {
+                  "offset": 0,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [
+                    "才",
+                    "手"
+                  ],
+                  "note": "首字與版框、折痕交疊；橫及直鉤可見，才／手的細筆不能分定。"
+                },
+                {
+                  "offset": 2,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [
+                    "硯"
+                  ],
+                  "note": "左石及右部框、曲筆隱約可見，但右見細筆淡失，不足以排除異體及殘墨誤讀。"
+                }
+              ],
               "note": ""
             },
             {
@@ -16885,9 +16959,9 @@
                   "kind": "unclear",
                   "candidates": [
                     "螢",
-                    "董"
+                    "蠹"
                   ],
-                  "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+                  "note": "末字密筆及左部淡失；看不到足以支持初錄讀的言旁，不能可靠定讀。"
                 }
               ],
               "note": ""
@@ -16895,40 +16969,71 @@
             {
               "id": "c24-upper-l13",
               "order": 13,
-              "text": "悠勤歲月",
+              "text": "□勤歲月",
               "bbox": [
                 540,
                 690,
                 95,
                 505
               ],
-              "uncertainties": [],
+              "uncertainties": [
+                {
+                  "offset": 0,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [
+                    "悠"
+                  ],
+                  "note": "首字下部心形可見，上半攸部淡失，不能可靠支持悠的全字定讀。"
+                }
+              ],
               "note": ""
             },
             {
               "id": "c24-upper-l14",
               "order": 14,
-              "text": "雲程有路行者鵬",
+              "text": "雲程有路行□鵬",
               "bbox": [
                 445,
                 690,
                 95,
                 505
               ],
-              "uncertainties": [],
+              "uncertainties": [
+                {
+                  "offset": 5,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [
+                    "者",
+                    "看"
+                  ],
+                  "note": "字上方斜橫筆、下方框內筆可見，但不足以可靠區分者的老形與看的手目形。"
+                }
+              ],
               "note": ""
             },
             {
               "id": "c24-upper-l15",
               "order": 15,
-              "text": "翮奮秋風",
+              "text": "□奮秋風",
               "bbox": [
                 395,
                 690,
                 95,
                 505
               ],
-              "uncertainties": [],
+              "uncertainties": [
+                {
+                  "offset": 0,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [
+                    "翮"
+                  ],
+                  "note": "貼版框字左鬲及右羽形殘筆可見，但左框內筆缺失，不能排除其他異體；候選不作定讀。"
+                }
+              ],
               "note": ""
             }
           ]
@@ -16941,7 +17046,7 @@
             {
               "id": "c24-lower-l01",
               "order": 1,
-              "text": "蟣虱蠅蚊蜻蜓蚯蚓蛇蜴蜈蚣夜螢臭虫",
+              "text": "蟣虱蠅蚊蜻蜓蚯蚓蛇蜴蜈蚣夜蚤臭虫",
               "bbox": [
                 1680,
                 1200,
@@ -16967,7 +17072,7 @@
             {
               "id": "c24-lower-l03",
               "order": 3,
-              "text": "陰陽醫士傳神畫師□都繩墨船艫琴師",
+              "text": "陰陽醫士傳神畫師□□繩墨船艫琴師",
               "bbox": [
                 1400,
                 1200,
@@ -16983,7 +17088,17 @@
                     "雍",
                     "壅"
                   ],
-                  "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+                  "note": "上亠及下隹形殘筆可見，不能可靠分定全字及下部是否有土。"
+                },
+                {
+                  "offset": 9,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [
+                    "都",
+                    "剖"
+                  ],
+                  "note": "針對都、剖分歧重看；左部上筆與右側鉤形不足以可靠區分者阝與咅刂。"
                 }
               ],
               "note": ""
@@ -17020,27 +17135,29 @@
                     "硯",
                     "坪"
                   ],
-                  "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+                  "note": "轎後字淡失，石／土旁及右見／平部細筆不能可靠分定。"
                 },
                 {
                   "offset": 14,
                   "length": 1,
                   "kind": "unclear",
                   "candidates": [
+                    "豎",
                     "擊",
                     "墼"
                   ],
-                  "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+                  "note": "倒數第二字上下部密筆不完整；不能可靠分定臣又豆、擊或墼的刻體。"
                 },
                 {
                   "offset": 15,
                   "length": 1,
                   "kind": "unclear",
                   "candidates": [
+                    "籬",
                     "籠",
                     "禮"
                   ],
-                  "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+                  "note": "末字頂筆與左右部件淡失，不能分定竹離、竹龍或示豊結構。"
                 }
               ],
               "note": ""
@@ -17048,33 +17165,86 @@
             {
               "id": "c24-lower-l06",
               "order": 6,
-              "text": "打銀鑄鼎張杷張犁築墻拖鋸鞘鞋仡鞋",
+              "text": "打銀鑄鼎張杷張犁築墻拖鋸鞘鞋□鞋",
               "bbox": [
                 980,
                 1200,
                 135,
                 1550
               ],
-              "uncertainties": [],
+              "uncertainties": [
+                {
+                  "offset": 14,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [
+                    "仡",
+                    "厄",
+                    "匟"
+                  ],
+                  "note": "左斜筆及右曲鉤可見；仡亻乞與厂／匚部候選的殘墨不能可靠排除。"
+                }
+              ],
               "note": ""
             },
             {
               "id": "c24-lower-l07",
               "order": 7,
-              "text": "造弓造弩剌袜剌靴熟皮棚鼓鋪翠穿珠",
+              "text": "造弓造弩□□□靴熟皮棚□鋪翠穿珠",
               "bbox": [
                 840,
                 1200,
                 135,
                 1550
               ],
-              "uncertainties": [],
+              "uncertainties": [
+                {
+                  "offset": 4,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [
+                    "剌",
+                    "刺"
+                  ],
+                  "note": "左束／朿形的框內細筆不能可靠分定，兩讀均存候選。"
+                },
+                {
+                  "offset": 5,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [
+                    "袜"
+                  ],
+                  "note": "左衤及右末形殘筆可見，但右部刻筆淡失，尚不能可靠定讀。"
+                },
+                {
+                  "offset": 6,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [
+                    "剌",
+                    "刺"
+                  ],
+                  "note": "與本欄第五字同類左部，束／朿形不能可靠分定。"
+                },
+                {
+                  "offset": 11,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [
+                    "鼓",
+                    "皷",
+                    "皮"
+                  ],
+                  "note": "棚後字右皮形可見，左部淡笔不能排除壴旁，需保留鼓／皷刻體與皮的候選。"
+                }
+              ],
               "note": ""
             },
             {
               "id": "c24-lower-l08",
               "order": 8,
-              "text": "開疏補傘炕窰踏缸鍍金使漆擺錫傾銀",
+              "text": "開疏補傘炕窰踏坯鍍金使漆擺錫傾銀",
               "bbox": [
                 700,
                 1200,
@@ -17100,14 +17270,35 @@
             {
               "id": "c24-lower-l10",
               "order": 10,
-              "text": "箍桶磨鏡剌網剌皁織席裝轎描金闌螺",
+              "text": "箍桶磨鏡□網□皁織席裝轎描金闌螺",
               "bbox": [
                 420,
                 1200,
                 135,
                 1550
               ],
-              "uncertainties": [],
+              "uncertainties": [
+                {
+                  "offset": 4,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [
+                    "剌",
+                    "刺"
+                  ],
+                  "note": "左部框內刻筆不能可靠區分束、朿，保留剌／刺候選。"
+                },
+                {
+                  "offset": 6,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [
+                    "剌",
+                    "刺"
+                  ],
+                  "note": "與本欄第五字同類左部，框內細筆仍不足以分定。"
+                }
+              ],
               "note": ""
             }
           ]
@@ -17128,7 +17319,7 @@
                 330
               ],
               "uncertainties": [],
-              "note": "三個主要字位，疑字仍須複核"
+              "note": "本面朱印三個字位均經影像複核可讀；不據其他頁藏印補文。"
             }
           ]
         },
@@ -17155,10 +17346,10 @@
                   "candidates": [
                     "浦"
                   ],
-                  "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+                  "note": "本面上端直朱印末字淡失、與黑色又字相疊，尚不能由本面定讀。"
                 }
               ],
-              "note": "三個主要字位，疑字仍須複核"
+              "note": "本面三個直排字位；首兩字紀宗可讀，末字仍未解。"
             }
           ]
         },
@@ -17170,7 +17361,7 @@
             {
               "id": "c24-seal3-l01",
               "order": 1,
-              "text": "□□□",
+              "text": "〔缺損字數不明〕",
               "bbox": [
                 430,
                 2730,
@@ -17180,27 +17371,41 @@
               "uncertainties": [
                 {
                   "offset": 0,
-                  "length": 1,
-                  "kind": "unclear",
+                  "length": 8,
+                  "kind": "damaged",
                   "candidates": [],
-                  "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
-                },
-                {
-                  "offset": 1,
-                  "length": 1,
-                  "kind": "unclear",
-                  "candidates": [],
-                  "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
-                },
-                {
-                  "offset": 2,
-                  "length": 1,
-                  "kind": "unclear",
-                  "candidates": [],
-                  "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+                  "note": "頁下斜朱印淡失且字界不能可靠分定；此標記覆蓋整印。"
                 }
               ],
-              "note": "三個主要字位，疑字仍須複核"
+              "note": "已看本面下緣整個斜朱印；字界與字數不能可靠判定，未按藏印常識補文。"
+            }
+          ]
+        },
+        {
+          "id": "margin-1",
+          "kind": "margin",
+          "description": "本面下緣左側，斜朱印旁的小黑色記號；印刷或後寫性質不能確定，與正文分區",
+          "lines": [
+            {
+              "id": "c24-margin1-l01",
+              "order": 1,
+              "text": "□",
+              "bbox": [
+                415,
+                2755,
+                45,
+                55
+              ],
+              "uncertainties": [
+                {
+                  "offset": 0,
+                  "length": 1,
+                  "kind": "unclear",
+                  "candidates": [],
+                  "note": "小黑色字形／記號筆畫不全，不能定讀或判定其記號性質。"
+                }
+              ],
+              "note": "只記原圖確見的小黑色記號；未作頁碼或正文解釋。"
             }
           ]
         }
@@ -17217,13 +17422,14 @@
       "transcriberTaskId": "/root/transcribe_d",
       "review": {
         "canvasIndex": 24,
-        "reviewer": "Codex AI / transcribe_b",
+        "label": "fol. 10v",
+        "reviewer": "Codex AI / review_10v",
         "reviewedAllLines": true,
         "corrections": [
           {
             "lineId": "c24-upper-l01",
             "before": "□天隱惡奮良耕",
-            "after": "□天隱惡□良耕",
+            "after": "□天□惡□良耕",
             "afterUncertainties": [
               {
                 "offset": 0,
@@ -17232,7 +17438,17 @@
                 "candidates": [
                   "仰"
                 ],
-                "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+                "note": "首字在折痕下，只存亻及右側殘筆，不能定讀。"
+              },
+              {
+                "offset": 2,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [
+                  "隱",
+                  "惜"
+                ],
+                "note": "針對舊、新複核分歧重看本面原圖與較高解析裁图；左旁及右部淡失，隱的刻體與惜形不能可靠排除。"
               },
               {
                 "offset": 4,
@@ -17240,43 +17456,135 @@
                 "kind": "unclear",
                 "candidates": [
                   "奮",
-                  "畜"
+                  "畜",
+                  "否"
                 ],
-                "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+                "note": "針對分歧重看，字頂與下框的內筆不全，不能可靠分定奮、畜、否形。"
               }
             ],
-            "reason": "首字在折痕，只有仰形殘筆；惡後字細部不足以支持奮，改回未解。"
+            "reason": "針對原task保存複核與本複核分歧再次看圖；撤回惜、否定讀，將仍不能排除異體或殘墨影響的字改□並留候選。"
           },
           {
             "lineId": "c24-upper-l02",
             "before": "□絶賢智風余粮",
-            "after": "□絶賢智風余粮",
+            "after": "□絶□□風余粮",
             "afterUncertainties": [
               {
                 "offset": 0,
                 "length": 1,
                 "kind": "unclear",
                 "candidates": [
-                  "天"
+                  "天",
+                  "下"
                 ],
-                "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+                "note": "首字僅有橫、短直残筆，折痕穿過；兩候選均不能定讀。"
+              },
+              {
+                "offset": 2,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [
+                  "賢",
+                  "閑",
+                  "閉"
+                ],
+                "note": "門框形／賢上部及內筆淡失，不能可靠排除賢的刻體或門部字。"
+              },
+              {
+                "offset": 3,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [
+                  "智",
+                  "倉"
+                ],
+                "note": "上部斜筆及下方框形可見，但部件細節不足以區分智、倉。"
               }
             ],
-            "reason": "首字折痕只有天形殘筆，仍留未解；粮依米良原形保留。"
+            "reason": "针对兩份複核字形分歧重看；原賢智與本複核閑／倉均缺足以排除另一讀法的細筆，均回置未解。粮按米良保留。"
+          },
+          {
+            "lineId": "c24-upper-l03",
+            "before": "□□懷思山百不來",
+            "after": "□□懷思山百不來",
+            "afterUncertainties": [
+              {
+                "offset": 0,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [],
+                "note": "首字在折痕下只存橫筆，無法定讀。"
+              },
+              {
+                "offset": 1,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [],
+                "note": "第二字僅存短直及折筆，無法定讀。"
+              }
+            ],
+            "reason": "重新查看整欄與首兩字殘筆；其餘字仍依可見刻字，不補前二字。"
           },
           {
             "lineId": "c24-upper-l05",
             "before": "書齋對聯",
             "after": "書齋守聯",
             "afterUncertainties": [],
-            "reason": "第三字宀與寸形可見，無對的丵羊部，按刻字讀守。"
+            "reason": "重看第三字整個字位，見宀下寸形；對所需的丵羊左部不見，改守，不按常用對聯題名補字。"
+          },
+          {
+            "lineId": "c24-upper-l06",
+            "before": "一葦吟經百倍工",
+            "after": "□□吟經百倍工",
+            "afterUncertainties": [
+              {
+                "offset": 0,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [
+                  "一"
+                ],
+                "note": "字位上部被折痕遮斷，僅存橫筆。"
+              },
+              {
+                "offset": 1,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [
+                  "葦",
+                  "案"
+                ],
+                "note": "再次比對葦、案兩讀，頂部及中筆淡失；不能排除刻體韋部與女木形的混淆。"
+              }
+            ],
+            "reason": "針對原初錄葦与本複核案重看，現存筆畫不能排除另一字及刻體影響，撤回案的定讀。"
           },
           {
             "lineId": "c24-upper-l07",
             "before": "□須□清",
-            "after": "才須硯清",
-            "afterUncertainties": [],
-            "reason": "第一字才的横、竪鉤及撇可見；第三字石見部件可見，讀硯。"
+            "after": "□須□清",
+            "afterUncertainties": [
+              {
+                "offset": 0,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [
+                  "才",
+                  "手"
+                ],
+                "note": "首字與版框、折痕交疊；橫及直鉤可見，才／手的細筆不能分定。"
+              },
+              {
+                "offset": 2,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [
+                  "硯"
+                ],
+                "note": "左石及右部框、曲筆隱約可見，但右見細筆淡失，不足以排除異體及殘墨誤讀。"
+              }
+            ],
+            "reason": "針對舊複核才須硯清與本複核疑字重看；須、清仍可辨，首字和第三字保留未解及候選。"
           },
           {
             "lineId": "c24-upper-l12",
@@ -17289,24 +17597,76 @@
                 "kind": "unclear",
                 "candidates": [
                   "螢",
-                  "董"
+                  "蠹"
                 ],
-                "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+                "note": "末字密筆及左部淡失；看不到足以支持初錄讀的言旁，不能可靠定讀。"
               }
             ],
-            "reason": "末字沒有可支持讀的言賣部件；下部類虫或重，保留未解。"
+            "reason": "末字初錄讀缺乏原圖筆畫支持，改未解，不按對聯補文；无維持原字。"
+          },
+          {
+            "lineId": "c24-upper-l13",
+            "before": "悠勤歲月",
+            "after": "□勤歲月",
+            "afterUncertainties": [
+              {
+                "offset": 0,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [
+                  "悠"
+                ],
+                "note": "首字下部心形可見，上半攸部淡失，不能可靠支持悠的全字定讀。"
+              }
+            ],
+            "reason": "重看原初錄悠與本複核未解分歧；上半所需細筆仍不完整，保留□及悠候選。"
+          },
+          {
+            "lineId": "c24-upper-l14",
+            "before": "雲程有路行者鵬",
+            "after": "雲程有路行□鵬",
+            "afterUncertainties": [
+              {
+                "offset": 5,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [
+                  "者",
+                  "看"
+                ],
+                "note": "字上方斜橫筆、下方框內筆可見，但不足以可靠區分者的老形與看的手目形。"
+              }
+            ],
+            "reason": "針對者、看兩讀重看本面字位，不能排除刻體造成的部件混淆，撤回看定讀。"
           },
           {
             "lineId": "c24-upper-l15",
             "before": "□奮秋風",
-            "after": "翮奮秋風",
+            "after": "□奮秋風",
+            "afterUncertainties": [
+              {
+                "offset": 0,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [
+                  "翮"
+                ],
+                "note": "貼版框字左鬲及右羽形殘筆可見，但左框內筆缺失，不能排除其他異體；候選不作定讀。"
+              }
+            ],
+            "reason": "重新查看舊複核翮定讀與本複核候選；仍欠左鬲內筆，維持未解，不按鵬字下文補文。"
+          },
+          {
+            "lineId": "c24-lower-l01",
+            "before": "蟣虱蠅蚊蜻蜓蚯蚓蛇蜴蜈蚣夜螢臭虫",
+            "after": "蟣虱蠅蚊蜻蜓蚯蚓蛇蜴蜈蚣夜蚤臭虫",
             "afterUncertainties": [],
-            "reason": "第一字左鬲與右羽的殘存各部可辨，讀翮。"
+            "reason": "針對夜螢／夜蚤分歧重看完整末組，字上又及下虫可見；螢所需的雙火與冖結構不見，讀蚤。"
           },
           {
             "lineId": "c24-lower-l03",
             "before": "陰陽醫士傳神畫師□都繩墨船艫琴師",
-            "after": "陰陽醫士傳神畫師□都繩墨船艫琴師",
+            "after": "陰陽醫士傳神畫師□□繩墨船艫琴師",
             "afterUncertainties": [
               {
                 "offset": 8,
@@ -17316,10 +17676,20 @@
                   "雍",
                   "壅"
                 ],
-                "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+                "note": "上亠及下隹形殘筆可見，不能可靠分定全字及下部是否有土。"
+              },
+              {
+                "offset": 9,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [
+                  "都",
+                  "剖"
+                ],
+                "note": "針對都、剖分歧重看；左部上筆與右側鉤形不足以可靠區分者阝與咅刂。"
               }
             ],
-            "reason": "未解字上部亠、下部複雜隹形可能為雍，缺乏可排除異體的細部；保留□。"
+            "reason": "原task複核□都與本複核□剖分歧；重看後不能排除刻體，撤回剖定讀；前字另留雍、壅候選。"
           },
           {
             "lineId": "c24-lower-l05",
@@ -17334,51 +17704,142 @@
                   "硯",
                   "坪"
                 ],
-                "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+                "note": "轎後字淡失，石／土旁及右見／平部細筆不能可靠分定。"
               },
               {
                 "offset": 14,
                 "length": 1,
                 "kind": "unclear",
                 "candidates": [
+                  "豎",
                   "擊",
                   "墼"
                 ],
-                "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+                "note": "倒數第二字上下部密筆不完整；不能可靠分定臣又豆、擊或墼的刻體。"
               },
               {
                 "offset": 15,
                 "length": 1,
                 "kind": "unclear",
                 "candidates": [
+                  "籬",
                   "籠",
                   "禮"
                 ],
-                "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+                "note": "末字頂筆與左右部件淡失，不能分定竹離、竹龍或示豊結構。"
               }
             ],
-            "reason": "鐵後字竹寺形可讀等；轎後淡字不支持確讀硯；張後字右隹讀碓，打後字右覃讀磹；最後二字結構不足，撤回原豎籬定讀。"
+            "reason": "针对舊、新複核分歧重看整欄。鐵後字竹寺形可見，讀等；張後石隹為碓；打後左石右覃可見，讀磹而非磨。轎後及最後兩字缺細筆，撤回硯、豎、籬定讀。"
           },
           {
             "lineId": "c24-lower-l06",
             "before": "打銀鑄鼎張杷張犁築墻拖鋸鞘鞋匠鞋",
-            "after": "打銀鑄鼎張杷張犁築墻拖鋸鞘鞋仡鞋",
-            "afterUncertainties": [],
-            "reason": "倒數第二字左亻、右乞的簡單結構可見，非匠的匚斤形。"
+            "after": "打銀鑄鼎張杷張犁築墻拖鋸鞘鞋□鞋",
+            "afterUncertainties": [
+              {
+                "offset": 14,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [
+                  "仡",
+                  "厄",
+                  "匟"
+                ],
+                "note": "左斜筆及右曲鉤可見；仡亻乞與厂／匚部候選的殘墨不能可靠排除。"
+              }
+            ],
+            "reason": "针对原task複核仡與本複核厄／匟候選重看；現存簡筆不能排除另一讀法，維持□。"
           },
           {
             "lineId": "c24-lower-l07",
             "before": "造弓造弩剌□剌靴熟皮棚鼓鋪翠穿珠",
-            "after": "造弓造弩剌袜剌靴熟皮棚鼓鋪翠穿珠",
+            "after": "造弓造弩□□□靴熟皮棚□鋪翠穿珠",
+            "afterUncertainties": [
+              {
+                "offset": 4,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [
+                  "剌",
+                  "刺"
+                ],
+                "note": "左束／朿形的框內細筆不能可靠分定，兩讀均存候選。"
+              },
+              {
+                "offset": 5,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [
+                  "袜"
+                ],
+                "note": "左衤及右末形殘筆可見，但右部刻筆淡失，尚不能可靠定讀。"
+              },
+              {
+                "offset": 6,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [
+                  "剌",
+                  "刺"
+                ],
+                "note": "與本欄第五字同類左部，束／朿形不能可靠分定。"
+              },
+              {
+                "offset": 11,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [
+                  "鼓",
+                  "皷",
+                  "皮"
+                ],
+                "note": "棚後字右皮形可見，左部淡笔不能排除壴旁，需保留鼓／皷刻體與皮的候選。"
+              }
+            ],
+            "reason": "針對剌／刺、袜及棚鼓／棚皮重看；不能排除原刻異體皷或淡印部件，撤回刺、皮定讀而不直接換成通用字。"
+          },
+          {
+            "lineId": "c24-lower-l08",
+            "before": "開疏補傘炕窰踏缸鍍金使漆擺錫傾銀",
+            "after": "開疏補傘炕窰踏坯鍍金使漆擺錫傾銀",
             "afterUncertainties": [],
-            "reason": "第五、第七字原束刂形保留剌；未解字衣旁右末，讀原形袜，未換成襪。"
+            "reason": "針對缸／坯重看完整字位，左土及右不下一横（丕）可見，與缸右工形不合，維持坯。窰保留原形。"
+          },
+          {
+            "lineId": "c24-lower-l10",
+            "before": "箍桶磨鏡剌網剌皁織席裝轎描金闌螺",
+            "after": "箍桶磨鏡□網□皁織席裝轎描金闌螺",
+            "afterUncertainties": [
+              {
+                "offset": 4,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [
+                  "剌",
+                  "刺"
+                ],
+                "note": "左部框內刻筆不能可靠區分束、朿，保留剌／刺候選。"
+              },
+              {
+                "offset": 6,
+                "length": 1,
+                "kind": "unclear",
+                "candidates": [
+                  "剌",
+                  "刺"
+                ],
+                "note": "與本欄第五字同類左部，框內細筆仍不足以分定。"
+              }
+            ],
+            "reason": "針對原初錄及舊複核剌與本複核刺重看；不能排除束／朿刻體，兩字撤回刺定讀。皁維持原形。"
           },
           {
             "lineId": "c24-seal1-l01",
             "before": "□□□",
             "after": "紀宗浦",
             "afterUncertainties": [],
-            "reason": "下欄紅色直印三字糹己、宀示與氵甫可見。"
+            "afterNote": "本面朱印三個字位均經影像複核可讀；不據其他頁藏印補文。",
+            "reason": "本面右側門類題下朱印，糹己、宀示、氵甫三字清楚可見。"
           },
           {
             "lineId": "c24-seal2-l01",
@@ -17392,56 +17853,143 @@
                 "candidates": [
                   "浦"
                 ],
-                "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+                "note": "本面上端直朱印末字淡失、與黑色又字相疊，尚不能由本面定讀。"
               }
             ],
-            "reason": "上欄跨框紅印前二字清楚；末字因淡印及折痕只有浦形部分，仍未解。"
+            "afterNote": "本面三個直排字位；首兩字紀宗可讀，末字仍未解。",
+            "reason": "前兩字糹己及宀示可見；末字保留未解，不以相似印章補人名。"
+          },
+          {
+            "lineId": "c24-seal3-l01",
+            "before": "□□□",
+            "after": "〔缺損字數不明〕",
+            "afterUncertainties": [
+              {
+                "offset": 0,
+                "length": 8,
+                "kind": "damaged",
+                "candidates": [],
+                "note": "頁下斜朱印淡失且字界不能可靠分定；此標記覆蓋整印。"
+              }
+            ],
+            "afterNote": "已看本面下緣整個斜朱印；字界與字數不能可靠判定，未按藏印常識補文。",
+            "reason": "本面下緣斜朱印有左右交疊筆形，原稿三字假設不可靠，改字數不明。"
           }
         ],
         "unresolved": [
           {
             "lineId": "c24-upper-l01",
-            "note": "複核後保留 2 個未解字；候選僅存疑字紀錄，淡印不補。"
+            "note": "针对歷史替代複核比對及影像重看後，保留 3 個不確定性記錄；候選不是定讀，詳見 afterUncertainties 或新增 margin 記錄。"
           },
           {
             "lineId": "c24-upper-l02",
-            "note": "複核後保留 1 個未解字；候選僅存疑字紀錄，淡印不補。"
+            "note": "针对歷史替代複核比對及影像重看後，保留 3 個不確定性記錄；候選不是定讀，詳見 afterUncertainties 或新增 margin 記錄。"
           },
           {
             "lineId": "c24-upper-l03",
-            "note": "複核後保留 2 個未解字；候選僅存疑字紀錄，淡印不補。"
+            "note": "针对歷史替代複核比對及影像重看後，保留 2 個不確定性記錄；候選不是定讀，詳見 afterUncertainties 或新增 margin 記錄。"
+          },
+          {
+            "lineId": "c24-upper-l06",
+            "note": "针对歷史替代複核比對及影像重看後，保留 2 個不確定性記錄；候選不是定讀，詳見 afterUncertainties 或新增 margin 記錄。"
+          },
+          {
+            "lineId": "c24-upper-l07",
+            "note": "针对歷史替代複核比對及影像重看後，保留 2 個不確定性記錄；候選不是定讀，詳見 afterUncertainties 或新增 margin 記錄。"
           },
           {
             "lineId": "c24-upper-l12",
-            "note": "複核後保留 1 個未解字；候選僅存疑字紀錄，淡印不補。"
+            "note": "针对歷史替代複核比對及影像重看後，保留 1 個不確定性記錄；候選不是定讀，詳見 afterUncertainties 或新增 margin 記錄。"
+          },
+          {
+            "lineId": "c24-upper-l13",
+            "note": "针对歷史替代複核比對及影像重看後，保留 1 個不確定性記錄；候選不是定讀，詳見 afterUncertainties 或新增 margin 記錄。"
+          },
+          {
+            "lineId": "c24-upper-l14",
+            "note": "针对歷史替代複核比對及影像重看後，保留 1 個不確定性記錄；候選不是定讀，詳見 afterUncertainties 或新增 margin 記錄。"
+          },
+          {
+            "lineId": "c24-upper-l15",
+            "note": "针对歷史替代複核比對及影像重看後，保留 1 個不確定性記錄；候選不是定讀，詳見 afterUncertainties 或新增 margin 記錄。"
           },
           {
             "lineId": "c24-lower-l03",
-            "note": "複核後保留 1 個未解字；候選僅存疑字紀錄，淡印不補。"
+            "note": "针对歷史替代複核比對及影像重看後，保留 2 個不確定性記錄；候選不是定讀，詳見 afterUncertainties 或新增 margin 記錄。"
           },
           {
             "lineId": "c24-lower-l05",
-            "note": "複核後保留 3 個未解字；候選僅存疑字紀錄，淡印不補。"
+            "note": "针对歷史替代複核比對及影像重看後，保留 3 個不確定性記錄；候選不是定讀，詳見 afterUncertainties 或新增 margin 記錄。"
+          },
+          {
+            "lineId": "c24-lower-l06",
+            "note": "针对歷史替代複核比對及影像重看後，保留 1 個不確定性記錄；候選不是定讀，詳見 afterUncertainties 或新增 margin 記錄。"
+          },
+          {
+            "lineId": "c24-lower-l07",
+            "note": "针对歷史替代複核比對及影像重看後，保留 4 個不確定性記錄；候選不是定讀，詳見 afterUncertainties 或新增 margin 記錄。"
+          },
+          {
+            "lineId": "c24-lower-l10",
+            "note": "针对歷史替代複核比對及影像重看後，保留 2 個不確定性記錄；候選不是定讀，詳見 afterUncertainties 或新增 margin 記錄。"
           },
           {
             "lineId": "c24-seal2-l01",
-            "note": "複核後保留 1 個未解字；候選僅存疑字紀錄，淡印不補。"
+            "note": "针对歷史替代複核比對及影像重看後，保留 1 個不確定性記錄；候選不是定讀，詳見 afterUncertainties 或新增 margin 記錄。"
           },
           {
             "lineId": "c24-seal3-l01",
-            "note": "複核後保留 3 個未解字；候選僅存疑字紀錄，淡印不補。"
+            "note": "针对歷史替代複核比對及影像重看後，保留 1 個不確定性記錄；候選不是定讀，詳見 afterUncertainties 或新增 margin 記錄。"
+          },
+          {
+            "lineId": "c24-margin1-l01",
+            "note": "针对歷史替代複核比對及影像重看後，保留 1 個不確定性記錄；候選不是定讀，詳見 afterUncertainties 或新增 margin 記錄。"
           }
         ],
         "layoutNotes": [
-          "逐欄核完整原圖；上欄按初稿的題名、又字及短列保留 15 條直欄記錄，下欄 10 條直欄含門類題名。",
-          "上欄第一排折痕、第五下欄中間淡印及上欄印章末字仍未定讀。",
-          "三枚紅印分別核對，直印可讀者記字，底緣斜印續用未解；沒有據其他面印章補末字。"
+          "獨立重新開啟本面2400px寬原圖，以及官方3172×4000較高解析圖的上欄、下欄左右及局部裁圖；核對15個上欄、10個下欄與三處本面朱印。",
+          "短欄、四、書齋對聯、兩個又字各自保持原欄次；不用文義重組成完整對聯，也不補折痕處首字。",
+          "本面右側直朱印與上端直朱印各自核對；下緣斜印的字數無法可靠分定。另新增下緣印旁小黑色記號定位，與正文分區。",
+          "左側鄰面文字及鄰面下緣朱印不收為本面正文；紙背透印不另錄為本面文字。",
+          "本面未見可可靠辨讀的其他後人手記；新增的小黑色邊記，其印刷或後寫性質留未定。",
+          "後續發現原task舊重試另存canvas24複核，已先保存兩份本機歷史證據，再针对两份各自整合文本不同的上欄1、2、5、6、7、13、14、15及下欄1、3、5、6、7、8、10重新看原圖與高解析局部；不以模型一致性或文義選字。",
+          "针对性重看能辨書齋守聯、夜蚤、等轎、張碓、打磹、踏坯；其餘不能排除刻體或淡印影響的分歧均改□，並保留兩方及可見異體候選。印章採原本較保守記錄。"
         ],
         "verdict": "reviewed-with-unresolved",
+        "addRegions": [
+          {
+            "id": "margin-1",
+            "kind": "margin",
+            "description": "本面下緣左側，斜朱印旁的小黑色記號；印刷或後寫性質不能確定，與正文分區",
+            "lines": [
+              {
+                "id": "c24-margin1-l01",
+                "order": 1,
+                "text": "□",
+                "bbox": [
+                  415,
+                  2755,
+                  45,
+                  55
+                ],
+                "uncertainties": [
+                  {
+                    "offset": 0,
+                    "length": 1,
+                    "kind": "unclear",
+                    "candidates": [],
+                    "note": "小黑色字形／記號筆畫不全，不能定讀或判定其記號性質。"
+                  }
+                ],
+                "note": "只記原圖確見的小黑色記號；未作頁碼或正文解釋。"
+              }
+            ]
+          }
+        ],
         "addLines": [],
         "removeLineIds": [],
-        "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
-        "reviewerTaskId": "/root/transcribe_b",
+        "reviewerAgentId": "codex:sinica29:2026-10-11:review_10v",
+        "reviewerTaskId": "/root/review_10v",
         "sourceReviewed": [
           {
             "url": "https://iiif.bodleian.ox.ac.uk/iiif/image/e2cf6ec8-acdf-4b5c-b688-251d4c467aa6/full/2400,/0/default.jpg",
@@ -17476,25 +18024,25 @@
           {
             "id": "crop-2",
             "canvasIndex": 24,
-            "width": 1900,
-            "height": 2100,
-            "sha256": "9e43a3ee35a390fb4242bc68b76b296623259e7e39454a8f6c714ad3adef0d72",
+            "width": 1050,
+            "height": 2150,
+            "sha256": "73b17406c4ef19f7aa3e6300176bf468de46902358a35bd8bad69a701a752c31",
             "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
           },
           {
             "id": "crop-3",
             "canvasIndex": 24,
-            "width": 1000,
-            "height": 950,
-            "sha256": "7921f7b0f71083cdd84c5e3c12e5ecbeb30c61d0d23e5dca18e94c79c24506c9",
+            "width": 940,
+            "height": 2150,
+            "sha256": "ef26e7385d282b1d7a6646ef2901c0ba2cffa31d3059d1a4d17dd9250d4ec2d8",
             "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
           },
           {
             "id": "crop-4",
             "canvasIndex": 24,
-            "width": 650,
-            "height": 900,
-            "sha256": "d801cf2934e195f7989e165876517ba9266fdb05bbcbec3fa09132daf203ea0d",
+            "width": 1000,
+            "height": 950,
+            "sha256": "7921f7b0f71083cdd84c5e3c12e5ecbeb30c61d0d23e5dca18e94c79c24506c9",
             "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
           },
           {
@@ -17508,77 +18056,109 @@
           {
             "id": "crop-6",
             "canvasIndex": 24,
-            "width": 320,
-            "height": 730,
-            "sha256": "6cc1a46096ebefa6cd24ad781a4604816994b7c497ad1ed810a27fd739b872ac",
+            "width": 650,
+            "height": 900,
+            "sha256": "d801cf2934e195f7989e165876517ba9266fdb05bbcbec3fa09132daf203ea0d",
             "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
           },
           {
             "id": "crop-7",
             "canvasIndex": 24,
-            "width": 270,
-            "height": 300,
-            "sha256": "c68b62b77c20f226abd41ae4cb96a139a9e290c740d090c6de04e24d0c5ea37b",
+            "width": 540,
+            "height": 810,
+            "sha256": "38fe82caf1f24d05978368a35e7801f1fb12aee128b7ead767b3a3c457e49de1",
             "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
           },
           {
             "id": "crop-8",
             "canvasIndex": 24,
-            "width": 280,
-            "height": 2150,
-            "sha256": "4b2c603c4509933fac0e5422b469a974396c957586ebc9f97ee5cbbb73fc2284",
+            "width": 530,
+            "height": 680,
+            "sha256": "53a34ac568eaabf2ea7a39dff197434a774371e2da5df933424c4d814415400d",
             "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
           },
           {
             "id": "crop-9",
             "canvasIndex": 24,
-            "width": 250,
-            "height": 570,
-            "sha256": "e4fa78eba6007a96419543f9f7b4a8d5d1e2088c8bdef117620f352d1ed94f42",
+            "width": 700,
+            "height": 730,
+            "sha256": "fb1d0b9402c15385f4a6ddeada8d5ecef7857c141bb0f5397be97b0197fab5f4",
             "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
           },
           {
             "id": "crop-10",
             "canvasIndex": 24,
-            "width": 280,
-            "height": 2150,
-            "sha256": "1369f02b2f7270f30b303845db1c37e27587f08b2bfca6a0a0ea401ff3e4be69",
+            "width": 330,
+            "height": 360,
+            "sha256": "4abbbfd5e11383244eb0df9edf9486a953d03db8a77f2a60b99e390b782bf920",
             "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
           },
           {
             "id": "crop-11",
             "canvasIndex": 24,
-            "width": 290,
-            "height": 650,
-            "sha256": "e7cbfda427c2c36e17956e85d2d7612242bbc0e9ccf577e351ad83668b80cae5",
+            "width": 350,
+            "height": 790,
+            "sha256": "3469f2ad8b41ef51641c8fefbe1615521aa12f919487aaaf7b590f61dc88e497",
             "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
           },
           {
             "id": "crop-12",
             "canvasIndex": 24,
-            "width": 280,
-            "height": 2150,
-            "sha256": "0816fd6dd5399b475518eb65b2bf73eeadec251f6ef8badccbdbd8fc13e2fa9e",
+            "width": 400,
+            "height": 840,
+            "sha256": "3a0bfd597a68c5b3c7064fe10b6487118b70ccc359ae1cf7fc4f7eef571b0858",
             "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
           },
           {
             "id": "crop-13",
             "canvasIndex": 24,
-            "width": 300,
-            "height": 590,
-            "sha256": "a1bd98d8e5a11232d2b16e649083c5aa658d6ed1b2fee924f4f25139ce9938f8",
+            "width": 630,
+            "height": 920,
+            "sha256": "5140c02c945839021c262ebb9f01a8b51bf25f1a8766b474dc49785c37220845",
             "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
           },
           {
             "id": "crop-14",
             "canvasIndex": 24,
-            "width": 320,
-            "height": 320,
-            "sha256": "5793fe341a82adde1d69dffeada438f1a4c7b12198bf94f475bfb9d4d192733a",
+            "width": 300,
+            "height": 520,
+            "sha256": "6a34a865964cae1fd16a249b0d524199ee72dabb117fbe0cc53248b6b2ee11ca",
             "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
           },
           {
             "id": "crop-15",
+            "canvasIndex": 24,
+            "width": 280,
+            "height": 450,
+            "sha256": "53e1f933208a0b3279ab02bcfbd3baed1b7779eda8c2980db0e66701812cce55",
+            "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
+          },
+          {
+            "id": "crop-16",
+            "canvasIndex": 24,
+            "width": 290,
+            "height": 540,
+            "sha256": "1e46619b7cccf4a1260ab12b499a11ddfda1f41e4575c4c07034f7c6021c37a7",
+            "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
+          },
+          {
+            "id": "crop-17",
+            "canvasIndex": 24,
+            "width": 310,
+            "height": 550,
+            "sha256": "64153c5c9298a02456dd3a6dc96f68f9d11dd28e6143dbc5a77e2ad56c1c23a4",
+            "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
+          },
+          {
+            "id": "crop-18",
+            "canvasIndex": 24,
+            "width": 320,
+            "height": 2050,
+            "sha256": "8bac73730b19041dbfc8632226b12380172e71076b2c849a04c294f6e6ad0a5b",
+            "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
+          },
+          {
+            "id": "crop-19",
             "canvasIndex": 24,
             "width": 360,
             "height": 660,
@@ -17586,11 +18166,43 @@
             "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
           },
           {
-            "id": "crop-16",
+            "id": "crop-20",
             "canvasIndex": 24,
-            "width": 500,
-            "height": 420,
-            "sha256": "0564c3101f679550086ab63d2fc88d6c099ee02b7f6bf2db86f1da66af946bf2",
+            "width": 620,
+            "height": 390,
+            "sha256": "c37cb0715fd64c3d7007d1f9579a32acff5f05d4253705bdedb2aa8b2d0e93b6",
+            "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
+          },
+          {
+            "id": "crop-21",
+            "canvasIndex": 24,
+            "width": 300,
+            "height": 380,
+            "sha256": "1f1a00fdd269faa785bd45f3c66c7a8a18a044e52dcf984c95fdd1263a482eb7",
+            "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
+          },
+          {
+            "id": "crop-22",
+            "canvasIndex": 24,
+            "width": 260,
+            "height": 610,
+            "sha256": "b95afad6c521f5bbbaa60e309b75601cf20cb5948f54e223a50234e200bbfe48",
+            "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
+          },
+          {
+            "id": "crop-23",
+            "canvasIndex": 24,
+            "width": 260,
+            "height": 570,
+            "sha256": "b05b94d911a22cc74ad1c93ae0a9551fef8b7e1735ceb294970cba4548f4c269",
+            "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
+          },
+          {
+            "id": "crop-24",
+            "canvasIndex": 24,
+            "width": 220,
+            "height": 400,
+            "sha256": "1634c39a151d5333bd26c7fdbf9a0f7ef29d5eb5046060ac1c32e6ce5ea89183",
             "evidence": "local review record and canvas-specific filename; crop derivation not independently verified"
           }
         ],

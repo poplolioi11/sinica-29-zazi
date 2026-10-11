@@ -2,8 +2,8 @@
   "canvasCount": 32,
   "numberedPageCount": 24,
   "reviewedCanvasCount": 32,
-  "lineCount": 733,
-  "unresolvedPlaceholderCount": 248,
+  "lineCount": 734,
+  "unresolvedPlaceholderCount": 264,
   "scopeLimitation": "Complete coverage of the supplied digital canvases; unresolved readings remain.",
   "pages": [
     {
@@ -334,13 +334,13 @@
       "transcriber": "Codex AI / transcribe_d",
       "transcriberAgentId": "codex:sinica29:2026-10-11:transcribe_d",
       "transcriberTaskId": "/root/transcribe_d",
-      "reviewer": "Codex AI / transcribe_b",
-      "reviewerAgentId": "codex:sinica29:2026-10-11:transcribe_b",
-      "reviewerTaskId": "/root/transcribe_b",
+      "reviewer": "Codex AI / review_10v",
+      "reviewerAgentId": "codex:sinica29:2026-10-11:review_10v",
+      "reviewerTaskId": "/root/review_10v",
       "status": "ai-image-reviewed-with-uncertainties",
-      "regions": 5,
-      "lines": 28,
-      "unresolvedPlaceholders": 14
+      "regions": 6,
+      "lines": 29,
+      "unresolvedPlaceholders": 30
     },
     {
       "canvasIndex": 25,
@@ -455,11 +455,11 @@
       "unresolvedPlaceholders": 0
     }
   ],
-  "unresolvedAncientTextPlaceholders": 215,
-  "unresolvedLaterMarkPlaceholders": 33,
-  "independentCorrections": 231,
+  "unresolvedAncientTextPlaceholders": 234,
+  "unresolvedLaterMarkPlaceholders": 30,
+  "independentCorrections": 239,
   "independentCorrectionsScope": "Existing line correction records only; additions/removals counted separately.",
-  "reviewAddLineCount": 10,
-  "reviewAddRegionCount": 9,
+  "reviewAddLineCount": 11,
+  "reviewAddRegionCount": 10,
   "reviewRemoveLineCount": 0
 }

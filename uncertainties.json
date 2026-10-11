@@ -2824,7 +2824,21 @@
     "candidates": [
       "仰"
     ],
-    "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+    "note": "首字在折痕下，只存亻及右側殘筆，不能定讀。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "upper",
+    "lineId": "c24-upper-l01",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "隱",
+      "惜"
+    ],
+    "note": "針對舊、新複核分歧重看本面原圖與較高解析裁图；左旁及右部淡失，隱的刻體與惜形不能可靠排除。"
   },
   {
     "canvasIndex": 24,
@@ -2836,9 +2850,10 @@
     "kind": "unclear",
     "candidates": [
       "奮",
-      "畜"
+      "畜",
+      "否"
     ],
-    "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+    "note": "針對分歧重看，字頂與下框的內筆不全，不能可靠分定奮、畜、否形。"
   },
   {
     "canvasIndex": 24,
@@ -2849,9 +2864,39 @@
     "length": 1,
     "kind": "unclear",
     "candidates": [
-      "天"
+      "天",
+      "下"
     ],
-    "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+    "note": "首字僅有橫、短直残筆，折痕穿過；兩候選均不能定讀。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "upper",
+    "lineId": "c24-upper-l02",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "賢",
+      "閑",
+      "閉"
+    ],
+    "note": "門框形／賢上部及內筆淡失，不能可靠排除賢的刻體或門部字。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "upper",
+    "lineId": "c24-upper-l02",
+    "offset": 3,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "智",
+      "倉"
+    ],
+    "note": "上部斜筆及下方框形可見，但部件細節不足以區分智、倉。"
   },
   {
     "canvasIndex": 24,
@@ -2862,7 +2907,7 @@
     "length": 1,
     "kind": "unclear",
     "candidates": [],
-    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+    "note": "首字在折痕下只存橫筆，無法定讀。"
   },
   {
     "canvasIndex": 24,
@@ -2873,7 +2918,61 @@
     "length": 1,
     "kind": "unclear",
     "candidates": [],
-    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+    "note": "第二字僅存短直及折筆，無法定讀。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "upper",
+    "lineId": "c24-upper-l06",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "一"
+    ],
+    "note": "字位上部被折痕遮斷，僅存橫筆。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "upper",
+    "lineId": "c24-upper-l06",
+    "offset": 1,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "葦",
+      "案"
+    ],
+    "note": "再次比對葦、案兩讀，頂部及中筆淡失；不能排除刻體韋部與女木形的混淆。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "upper",
+    "lineId": "c24-upper-l07",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "才",
+      "手"
+    ],
+    "note": "首字與版框、折痕交疊；橫及直鉤可見，才／手的細筆不能分定。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "upper",
+    "lineId": "c24-upper-l07",
+    "offset": 2,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "硯"
+    ],
+    "note": "左石及右部框、曲筆隱約可見，但右見細筆淡失，不足以排除異體及殘墨誤讀。"
   },
   {
     "canvasIndex": 24,
@@ -2885,9 +2984,49 @@
     "kind": "unclear",
     "candidates": [
       "螢",
-      "董"
+      "蠹"
     ],
-    "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+    "note": "末字密筆及左部淡失；看不到足以支持初錄讀的言旁，不能可靠定讀。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "upper",
+    "lineId": "c24-upper-l13",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "悠"
+    ],
+    "note": "首字下部心形可見，上半攸部淡失，不能可靠支持悠的全字定讀。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "upper",
+    "lineId": "c24-upper-l14",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "者",
+      "看"
+    ],
+    "note": "字上方斜橫筆、下方框內筆可見，但不足以可靠區分者的老形與看的手目形。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "upper",
+    "lineId": "c24-upper-l15",
+    "offset": 0,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "翮"
+    ],
+    "note": "貼版框字左鬲及右羽形殘筆可見，但左框內筆缺失，不能排除其他異體；候選不作定讀。"
   },
   {
     "canvasIndex": 24,
@@ -2901,7 +3040,21 @@
       "雍",
       "壅"
     ],
-    "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+    "note": "上亠及下隹形殘筆可見，不能可靠分定全字及下部是否有土。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "lower",
+    "lineId": "c24-lower-l03",
+    "offset": 9,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "都",
+      "剖"
+    ],
+    "note": "針對都、剖分歧重看；左部上筆與右側鉤形不足以可靠區分者阝與咅刂。"
   },
   {
     "canvasIndex": 24,
@@ -2915,7 +3068,7 @@
       "硯",
       "坪"
     ],
-    "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+    "note": "轎後字淡失，石／土旁及右見／平部細筆不能可靠分定。"
   },
   {
     "canvasIndex": 24,
@@ -2926,10 +3079,11 @@
     "length": 1,
     "kind": "unclear",
     "candidates": [
+      "豎",
       "擊",
       "墼"
     ],
-    "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+    "note": "倒數第二字上下部密筆不完整；不能可靠分定臣又豆、擊或墼的刻體。"
   },
   {
     "canvasIndex": 24,
@@ -2940,10 +3094,110 @@
     "length": 1,
     "kind": "unclear",
     "candidates": [
+      "籬",
       "籠",
       "禮"
     ],
-    "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+    "note": "末字頂筆與左右部件淡失，不能分定竹離、竹龍或示豊結構。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "lower",
+    "lineId": "c24-lower-l06",
+    "offset": 14,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "仡",
+      "厄",
+      "匟"
+    ],
+    "note": "左斜筆及右曲鉤可見；仡亻乞與厂／匚部候選的殘墨不能可靠排除。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "lower",
+    "lineId": "c24-lower-l07",
+    "offset": 4,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "剌",
+      "刺"
+    ],
+    "note": "左束／朿形的框內細筆不能可靠分定，兩讀均存候選。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "lower",
+    "lineId": "c24-lower-l07",
+    "offset": 5,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "袜"
+    ],
+    "note": "左衤及右末形殘筆可見，但右部刻筆淡失，尚不能可靠定讀。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "lower",
+    "lineId": "c24-lower-l07",
+    "offset": 6,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "剌",
+      "刺"
+    ],
+    "note": "與本欄第五字同類左部，束／朿形不能可靠分定。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "lower",
+    "lineId": "c24-lower-l07",
+    "offset": 11,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "鼓",
+      "皷",
+      "皮"
+    ],
+    "note": "棚後字右皮形可見，左部淡笔不能排除壴旁，需保留鼓／皷刻體與皮的候選。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "lower",
+    "lineId": "c24-lower-l10",
+    "offset": 4,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "剌",
+      "刺"
+    ],
+    "note": "左部框內刻筆不能可靠區分束、朿，保留剌／刺候選。"
+  },
+  {
+    "canvasIndex": 24,
+    "label": "fol. 10v",
+    "regionId": "lower",
+    "lineId": "c24-lower-l10",
+    "offset": 6,
+    "length": 1,
+    "kind": "unclear",
+    "candidates": [
+      "剌",
+      "刺"
+    ],
+    "note": "與本欄第五字同類左部，框內細筆仍不足以分定。"
   },
   {
     "canvasIndex": 24,
@@ -2956,7 +3210,7 @@
     "candidates": [
       "浦"
     ],
-    "note": "獨立核 3172×4000 原圖及局部圖後仍不能定讀；候選只作筆形紀錄，未據聯語或工藝名補字。"
+    "note": "本面上端直朱印末字淡失、與黑色又字相疊，尚不能由本面定讀。"
   },
   {
     "canvasIndex": 24,
@@ -2964,32 +3218,21 @@
     "regionId": "seal-3",
     "lineId": "c24-seal3-l01",
     "offset": 0,
-    "length": 1,
-    "kind": "unclear",
+    "length": 8,
+    "kind": "damaged",
     "candidates": [],
-    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+    "note": "頁下斜朱印淡失且字界不能可靠分定；此標記覆蓋整印。"
   },
   {
     "canvasIndex": 24,
     "label": "fol. 10v",
-    "regionId": "seal-3",
-    "lineId": "c24-seal3-l01",
-    "offset": 1,
+    "regionId": "margin-1",
+    "lineId": "c24-margin1-l01",
+    "offset": 0,
     "length": 1,
     "kind": "unclear",
     "candidates": [],
-    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
-  },
-  {
-    "canvasIndex": 24,
-    "label": "fol. 10v",
-    "regionId": "seal-3",
-    "lineId": "c24-seal3-l01",
-    "offset": 2,
-    "length": 1,
-    "kind": "unclear",
-    "candidates": [],
-    "note": "淡印、異體或細部殘墨不足，未能定讀；獨立影像複核後仍未定讀"
+    "note": "小黑色字形／記號筆畫不全，不能定讀或判定其記號性質。"
   },
   {
     "canvasIndex": 25,

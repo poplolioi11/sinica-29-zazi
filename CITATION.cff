@@ -8,7 +8,7 @@ authors:
 repository-code: "https://github.com/poplolioi11/sinica-29-zazi"
 url: "https://github.com/poplolioi11/sinica-29-zazi"
 date-released: 2026-10-11
-version: "0.1.0"
+version: "0.1.1"
 abstract: "以Bodleian Sinica 29全部32畫布（含24面正文）為底本的AI逐字影像轉錄資料。逐頁獨立AI影像複核的範圍及狀態見coverage.json。保留上下欄、原字、疑字與來源定位；不含掃描影像，不是人工專家定本。授權依LICENSE.md分別適用。"
 keywords:
   - "Sinica 29"
