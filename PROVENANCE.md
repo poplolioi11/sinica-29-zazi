@@ -31,3 +31,11 @@ TXT由JSON確定性匯出，標題括號、欄號及編輯紀錄均為閱讀標�
 官方manifest標示影像「Photo: © Bodleian Libraries, University of Oxford」，[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)。[館方terms](https://digital.bodleian.ox.ac.uk/terms/)容許非商業研究與不推廣商業活動的研究網站／資料庫。本次非商業讀圖研究符合該項用途；公開成果僅含獨立轉錄、結構與來源連結，不散布掃描、裁圖或館方標誌。
 
 古代原文、館方影像與新寫說明分開處理，見 [LICENSE.md](LICENSE.md)。CC條款對不受其授權權利約束的公版成分不另設限制，參考 [legalcode第1、2、8節](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)。此為對本次用途的有來源判斷，不是所有法域、未來用途或其他館藏的法律保證。未對館方外聯，也不暗示館方背書。
+
+## Zenodo版本存檔與DOI補登
+
+v0.1.1於2026-10-11在[Zenodo公開封存](https://zenodo.org/records/23299558)。引用此版請用[版本DOI 10.5281/zenodo.23299558](https://doi.org/10.5281/zenodo.23299558)；[概念DOI 10.5281/zenodo.23299557](https://doi.org/10.5281/zenodo.23299557)代表全版本。
+
+封存檔`sinica-29-zazi-v0.1.1.zip`與[GitHub v0.1.1原始release asset](https://github.com/poplolioi11/sinica-29-zazi/releases/download/v0.1.1/sinica-29-zazi-v0.1.1.zip)相同，SHA-256為`8832aee979bc176a29fdd725dd73b58ad87a2e71d73316bde5d32b1606912bdd`；來源提交為[`b4f89877ddbdcd4e01824c3f023f7f2c3eeace94`](https://github.com/poplolioi11/sinica-29-zazi/commit/b4f89877ddbdcd4e01824c3f023f7f2c3eeace94)。
+
+存檔包內CITATION.cff是發布前版本，尚無DOI；此後由本庫README、PROVENANCE與CITATION補登已發布DOI。此次只更新文件，原資料、GitHub release asset及v0.1.1標籤保留，不重新打包。

@@ -52,9 +52,9 @@ UTF-8，`schemaVersion: "1.0"`。JSON的`meta`存底本與整理資訊，`pages`
 ## 驗證與版本
 
 - **v0.1.0**：原發布包為733條定位行、248個□；保留[原標籤](https://github.com/poplolioi11/sinica-29-zazi/tree/v0.1.0)及[原Release入口](https://github.com/poplolioi11/sinica-29-zazi/releases/tag/v0.1.0)。
-- **v0.1.1（本次校讀版本）**：只針對10v字形分歧重新看圖，夜螢改夜蚤、踏缸改踏坯；18個原定讀字回置□，斜朱印原3個□改整印字數不明，新增性質未定邊記1個□。初錄歷史頁／行記的來源標籤更明確，其他31頁古籍文字不變；本版為734條定位行、264個□。見[預定v0.1.1 Release入口](https://github.com/poplolioi11/sinica-29-zazi/releases/tag/v0.1.1)。
+- **v0.1.1（本次校讀版本）**：只針對10v字形分歧重新看圖，夜螢改夜蚤、踏缸改踏坯；18個原定讀字回置□，斜朱印原3個□改整印字數不明，新增性質未定邊記1個□。初錄歷史頁／行記的來源標籤更明確，其他31頁古籍文字不變；本版為734條定位行、264個□。見[v0.1.1 Release入口](https://github.com/poplolioi11/sinica-29-zazi/releases/tag/v0.1.1)。
 
-以上為版本簡介及版本入口連結，不代表本段已對標籤／Release存在或公開連結可讀性作網路核驗。
+2026-10-11已核實v0.1.1為GitHub公開正式Release，下載ZIP與Zenodo封存包逐位元組相同；固定提交與雜湊見下方引用及PROVENANCE。
 
 Python 3，無第三方套件：
 
@@ -65,6 +65,8 @@ python3 verify.py
 檢查固定32畫布與24面葉序、非空上下欄、不同工作流身份、初錄行區與複核操作整合、唯一定位、欄框與疑字偏移、JSON/TXT及三份派生紀錄一致性、五資料檔雜湊、公開檔白名單、UTF-8及私人路徑／影像排除。建置另核工作區32張原圖實體雜湊、sips尺寸與複核來源記錄。公開verifier為離線驗證，不替代原圖字形判讀，不保證外部URL永遠可用。TXT可用`python3 export_txt.py`重新匯出。
 
 引用時記錄完整Git提交識別碼、所用資料檔SHA-256與取用日期；`main`會隨校訂更新。資料集引用為「poplolioi11（一卦 yigua.art），Sinica 29：1586年《京傳新刊素翁鰲頭雜字附詩柬活套便覽》AI影像轉錄，2026」，附本庫URL及版本。另引古籍作者／刊本及Bodleian原頁，不能把整理者當成古籍作者。
+
+Zenodo於2026-10-11公開封存v0.1.1：[版本DOI 10.5281/zenodo.23299558](https://doi.org/10.5281/zenodo.23299558)固定此版；[概念DOI 10.5281/zenodo.23299557](https://doi.org/10.5281/zenodo.23299557)代表全版本。存檔包與GitHub v0.1.1原始發布ZIP相同，包內CITATION為發布前版本、尚無DOI；本庫文件現補登DOI。固定提交與ZIP雜湊見[PROVENANCE.md](PROVENANCE.md)。
 
 ## 權利
 

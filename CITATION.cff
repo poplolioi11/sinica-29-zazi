@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "請同時引用此資料版本、1586年古籍底本及Bodleian原頁；使用Git提交識別碼與SHA256SUMS固定版本。"
+message: "請同時引用此資料版本、1586年古籍底本及Bodleian原頁；使用Git提交識別碼與SHA256SUMS固定版本。引用v0.1.1請用版本DOI 10.5281/zenodo.23299558；概念DOI 10.5281/zenodo.23299557代表全版本。"
 type: dataset
 title: "Sinica 29：1586年《京傳新刊素翁鰲頭雜字附詩柬活套便覽》AI影像轉錄"
 authors:
@@ -7,6 +7,7 @@ authors:
     website: "https://yigua.art/"
 repository-code: "https://github.com/poplolioi11/sinica-29-zazi"
 url: "https://github.com/poplolioi11/sinica-29-zazi"
+doi: "10.5281/zenodo.23299558"
 date-released: 2026-10-11
 version: "0.1.1"
 abstract: "以Bodleian Sinica 29全部32畫布（含24面正文）為底本的AI逐字影像轉錄資料。逐頁獨立AI影像複核的範圍及狀態見coverage.json。保留上下欄、原字、疑字與來源定位；不含掃描影像，不是人工專家定本。授權依LICENSE.md分別適用。"
