@@ -1,10 +1,17 @@
-# Sinica 29｜1586年《鰲頭雜字》逐頁AI影像轉錄
+# 京傳新刊素翁鰲頭雜字附詩柬活套便覽（1586；Bodleian Sinica 29）/ Jing chuan xin kan suo weng ao tou za zi fu shi jian huo tao bian lan: Transcription dataset
 
 ## 摘要 / Abstract
 
-本資料集以牛津大學Bodleian Libraries藏Sinica 29、1586年建陽書林鄒少聰刊《京傳新刊素翁鰲頭雜字附詩柬活套便覽》為底本，涵蓋32個官方數位畫布及其中24面編號正文。直接AI讀圖初錄與另一AI工作流的影像複核保留上下欄、原字異體、詩柬格式、頁行定位及疑字，形成可供檢索與後續校訂的JSON、TXT與公開紀錄。v0.1.1重新核查10v的分歧，將證據不足的定讀退回未定；它不是人類專家校勘，另行記錄的工作任務亦不保證模型判斷獨立。
+《京傳新刊素翁鰲頭雜字附詩柬活套便覽》是佚名編撰、1586年建陽書林鄒少聰刊行的雜字與日用書，分類列舉詞彙，並收詩柬、書信套式，可供明代識字教育、日用詞彙與書信文化研究。本資料依Bodleian Libraries藏Sinica 29轉錄全部32個數位畫布，包括24面編號正文，提供保留上下欄、原字、詩柬格式、來源定位與疑字的JSON、TXT及相關紀錄。本版為保留未解讀字的AI影像複核資料，尚非人類專家校勘定本。
 
-This dataset transcribes Bodleian Libraries Sinica 29, the anonymous 《京傳新刊素翁鰲頭雜字附詩柬活套便覽》 printed by Zou Shaocong in Jianyang in 1586. It covers all 32 official digital canvases, including 24 numbered text pages. Direct AI image transcription and image review by a separate AI workflow retain upper and lower registers, original and variant characters, verse and letter-writing layouts, page/line locations and uncertainties in JSON, TXT and supporting records for retrieval and further correction. Version 0.1.1 revisits disagreements on folio 10v and returns insufficiently supported readings to uncertainty. It is not expert human collation, and separately recorded tasks do not guarantee independent model judgment.
+Jing chuan xin kan suo weng ao tou za zi fu shi jian huo tao bian lan is an anonymous primer and practical vocabulary book printed by Zou Shaocong in Jianyang in 1586, combining classified vocabulary with verse and letter-writing forms. It supports research on Ming literacy, everyday language and epistolary culture. This dataset transcribes all 32 digital canvases of Bodleian Libraries Sinica 29, including 24 numbered text pages, in JSON, TXT and supporting records retaining upper and lower registers, original characters, letter layouts, source locators and uncertainties. This AI-reviewed version retains unresolved readings and is not an expert human edition.
+
+原件與書目入口 / Source witness and catalogue:
+
+- [館藏書目 / Catalogue](https://east-asian.bodleian.ox.ac.uk/catalog/volume_2621)
+- [原件／影像來源 / Source witness](https://digital.bodleian.ox.ac.uk/objects/c21ff2d1-5823-4c15-920c-38e44be2607f/)
+- [IIIF manifest](https://iiif.bodleian.ox.ac.uk/iiif/manifest/c21ff2d1-5823-4c15-920c-38e44be2607f.json)
+- [館方固定書目 XML / Fixed official catalogue XML](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%2029.xml)
 
 以Bodleian Library Sinica 29為底本，轉錄《京傳新刊素翁鰲頭雜字附詩柬活套便覽》（佚名，1586年建陽鄒少聰刊）。全部32畫布均經初錄與另一位AI重新看圖複核，涵蓋fol. 1r–12v的24面正文及8張封面／襯葉。上下欄、細字、題署、詩柬欄序與來源定位分開保存。
 
