@@ -1,5 +1,11 @@
 # Sinica 29｜1586年《鰲頭雜字》逐頁AI影像轉錄
 
+## 摘要 / Abstract
+
+本資料集以牛津大學Bodleian Libraries藏Sinica 29、1586年建陽書林鄒少聰刊《京傳新刊素翁鰲頭雜字附詩柬活套便覽》為底本，涵蓋32個官方數位畫布及其中24面編號正文。直接AI讀圖初錄與另一AI工作流的影像複核保留上下欄、原字異體、詩柬格式、頁行定位及疑字，形成可供檢索與後續校訂的JSON、TXT與公開紀錄。v0.1.1重新核查10v的分歧，將證據不足的定讀退回未定；它不是人類專家校勘，另行記錄的工作任務亦不保證模型判斷獨立。
+
+This dataset transcribes Bodleian Libraries Sinica 29, the anonymous 《京傳新刊素翁鰲頭雜字附詩柬活套便覽》 printed by Zou Shaocong in Jianyang in 1586. It covers all 32 official digital canvases, including 24 numbered text pages. Direct AI image transcription and image review by a separate AI workflow retain upper and lower registers, original and variant characters, verse and letter-writing layouts, page/line locations and uncertainties in JSON, TXT and supporting records for retrieval and further correction. Version 0.1.1 revisits disagreements on folio 10v and returns insufficiently supported readings to uncertainty. It is not expert human collation, and separately recorded tasks do not guarantee independent model judgment.
+
 以Bodleian Library Sinica 29為底本，轉錄《京傳新刊素翁鰲頭雜字附詩柬活套便覽》（佚名，1586年建陽鄒少聰刊）。全部32畫布均經初錄與另一位AI重新看圖複核，涵蓋fol. 1r–12v的24面正文及8張封面／襯葉。上下欄、細字、題署、詩柬欄序與來源定位分開保存。
 
 整理與維護：**poplolioi11／一卦 [yigua.art](https://yigua.art/)**。這是AI影像轉錄及獨立AI複核，仍有未解字，**不是人工專家校勘或無誤定本**。本次非商業整理，僅發布自己核讀的文字、結構與說明；原圖仍由[Digital Bodleian](https://digital.bodleian.ox.ac.uk/objects/c21ff2d1-5823-4c15-920c-38e44be2607f/)提供。詳細版本與方法見[PROVENANCE.md](PROVENANCE.md)。
