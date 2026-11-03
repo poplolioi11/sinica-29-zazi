@@ -1,4 +1,4 @@
-# 京傳新刊素翁鰲頭雜字附詩柬活套便覽（1586；Bodleian Sinica 29）/ Jing chuan xin kan suo weng ao tou za zi fu shi jian huo tao bian lan: Transcription dataset
+# 京傳新刊素翁鰲頭雜字附詩柬活套便覽(1586;Bodleian Sinica 29) / Jing chuan xin kan suo weng ao tou za zi fu shi jian huo tao bian lan [Classified vocabulary and letter-writing forms]: Transcription dataset
 
 ## 摘要 / Abstract
 
@@ -12,6 +12,16 @@ Jing chuan xin kan suo weng ao tou za zi fu shi jian huo tao bian lan is an anon
 - [原件／影像來源 / Source witness](https://digital.bodleian.ox.ac.uk/objects/c21ff2d1-5823-4c15-920c-38e44be2607f/)
 - [IIIF manifest](https://iiif.bodleian.ox.ac.uk/iiif/manifest/c21ff2d1-5823-4c15-920c-38e44be2607f.json)
 - [館方固定書目 XML / Fixed official catalogue XML](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%2029.xml)
+
+### 題名與語言說明 / Title and language notes
+
+方括號英譯為編者意譯，非館目正式題名。Bracketed English titles are editorial discovery glosses, not official catalogue English titles.
+
+館目原羅馬字題名：「jing chuan xin kan suo weng ao tou za zi fu shi jian huo tao bian lan」。展示：「Jing chuan xin kan suo weng ao tou za zi fu shi jian huo tao bian lan」；僅首字母大小寫依展示規則調整，保留館目拼法及長音符號。
+
+題名來源 / Title source: [https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%2029.xml](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%2029.xml)
+
+語言層次 / Language layers: 原文保留既有 lzh；本輪未作全書重新語體判定。 eng 標記現行英文摘要，不表示固定封存附件全部為英文。
 
 以Bodleian Library Sinica 29為底本，轉錄《京傳新刊素翁鰲頭雜字附詩柬活套便覽》（佚名，1586年建陽鄒少聰刊）。全部32畫布均經初錄與另一位AI重新看圖複核，涵蓋fol. 1r–12v的24面正文及8張封面／襯葉。上下欄、細字、題署、詩柬欄序與來源定位分開保存。
 
